@@ -1,0 +1,381 @@
+id_partida,id_league,referee,date,venue.name,home.name,home.id,away.name,away.id,home.winner,home,away,halftime.home,halftime.away
+837992,71,Anderson Daronco,2022-04-09T19:30:00+00:00,Estadio Jornalista Mário Filho,Fluminense,124,Santos,128,,0,0,0,0
+837998,71,Braulio da Silva Machado,2022-04-09T22:00:00+00:00,Estádio Antônio Accioly,Atletico Goianiense,144,Flamengo,127,,1,1,0,0
+837994,71,Caio Max Augusto Vieira,2022-04-10T00:00:00+00:00,Allianz Parque,Palmeiras,121,Ceara,129,False,2,3,1,2
+838000,71,Raphael Claus,2022-04-10T14:00:00+00:00,Estádio Major Antônio Couto Pereira,Coritiba,147,Goias,151,True,3,0,1,0
+837995,71,Wilton Pereira Sampaio,2022-04-10T19:00:00+00:00,Estádio Nilton Santos,Botafogo,120,Corinthians,131,False,1,3,0,3
+837991,71,Bruno Arleu de Araujo,2022-04-10T19:00:00+00:00,Estádio Governador Magalhães Pinto,Atletico-MG,1062,Internacional,119,True,2,0,1,0
+837997,71,Felipe Fernandes de Lima,2022-04-10T21:00:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Fortaleza EC,154,Cuiaba,1193,False,0,1,0,1
+837993,71,Wagner do Nascimento Magalhaes,2022-04-10T22:00:00+00:00,Estádio Cícero Pompeu de Toledo,Sao Paulo,126,Atletico Paranaense,134,True,4,0,1,0
+837999,71,Luiz Flavio De Oliveira,2022-04-10T22:00:00+00:00,Estádio Aderbal Ramos da Silva,Avai,145,America Mineiro,125,True,1,0,0,0
+837996,71,Rodolpho Toski Marques,2022-04-11T23:00:00+00:00,Estádio Alfredo Jaconi,Juventude,152,RB Bragantino,794,,2,2,1,1
+838008,71,Braulio da Silva Machado,2022-04-16T19:30:00+00:00,Estádio de Hailé Pinheiro,Goias,151,Palmeiras,121,,1,1,0,0
+838001,71,Ramon Abatti,2022-04-16T22:00:00+00:00,Estádio Raimundo Sampaio,America Mineiro,125,Juventude,152,True,4,1,2,0
+838004,71,Bruno Arleu de Araujo,2022-04-16T22:00:00+00:00,Neo Química Arena,Corinthians,131,Avai,145,True,3,0,2,0
+838009,71,Savio Pereira,2022-04-17T00:00:00+00:00,Arena Pantanal,Cuiaba,1193,Fluminense,124,False,0,1,0,0
+838005,71,Wagner do Nascimento Magalhaes,2022-04-17T14:00:00+00:00,Estádio Urbano Caldeira,Santos,128,Coritiba,147,True,2,1,2,1
+838002,71,Anderson Daronco,2022-04-17T19:00:00+00:00,Estadio Jornalista Mário Filho,Flamengo,127,Sao Paulo,126,True,3,1,1,1
+838006,71,Flavio Rodrigues De Souza,2022-04-17T21:00:00+00:00,Estádio José Pinheiro Borda,Internacional,119,Fortaleza EC,154,True,2,1,1,1
+838010,71,Wilton Pereira Sampaio,2022-04-17T21:00:00+00:00,Arena da Baixada,Atletico Paranaense,134,Atletico-MG,1062,False,0,1,0,0
+838003,71,Paulo Roberto Alves Júnior,2022-04-17T21:00:00+00:00,Estádio Nabi Abi Chedid,RB Bragantino,794,Atletico Goianiense,144,True,4,0,3,0
+838007,71,Raphael Claus,2022-04-17T22:00:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Ceara,129,Botafogo,120,False,1,3,1,1
+838022,71,Wilton Pereira Sampaio,2022-04-20T22:30:00+00:00,Estadio Jornalista Mário Filho,Flamengo,127,Palmeiras,121,,0,0,0,0
+838020,71,Raphael Claus,2022-04-23T19:30:00+00:00,Arena da Baixada,Atletico Paranaense,134,Flamengo,127,True,1,0,1,0
+838013,71,Bruno Arleu de Araujo,2022-04-23T19:30:00+00:00,Estádio Nabi Abi Chedid,RB Bragantino,794,Sao Paulo,126,,1,1,1,0
+838014,71,Anderson Daronco,2022-04-23T22:00:00+00:00,Arena Barueri,Palmeiras,121,Corinthians,131,True,3,0,2,0
+838012,71,Braulio da Silva Machado,2022-04-23T22:00:00+00:00,Estadio Jornalista Mário Filho,Fluminense,124,Internacional,119,False,0,1,0,0
+838011,71,Sávio Pereira,2022-04-24T00:00:00+00:00,Estádio Raimundo Sampaio,Atletico-MG,1062,Coritiba,147,,2,2,2,0
+838015,71,Wilton Pereira Sampaio,2022-04-24T19:00:00+00:00,Estádio Urbano Caldeira,Santos,128,America Mineiro,125,True,3,0,1,0
+838016,71,Paulo Roberto Alves Júnior,2022-04-24T21:00:00+00:00,Estádio Alfredo Jaconi,Juventude,152,Cuiaba,1193,False,0,1,0,0
+838018,71,Luiz Flavio De Oliveira,2022-04-24T21:30:00+00:00,Estádio Antônio Accioly,Atletico Goianiense,144,Botafogo,120,,1,1,0,0
+838019,71,Antonio Dib Moraes de Sousa,2022-04-25T23:00:00+00:00,Estádio Aderbal Ramos da Silva,Avai,145,Goias,151,True,3,2,1,0
+838021,71,Jefferson Ferreira de Moraes,2022-04-30T19:30:00+00:00,Estádio Raimundo Sampaio,America Mineiro,125,Atletico Paranaense,134,True,1,0,0,0
+838027,71,Ramon Abatti,2022-04-30T19:30:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Ceara,129,RB Bragantino,794,False,0,1,0,1
+838028,71,Bruno Arleu de Araujo,2022-04-30T21:30:00+00:00,Estádio de Hailé Pinheiro,Goias,151,Atletico-MG,1062,,2,2,0,1
+838029,71,Douglas Marques das Flores,2022-04-30T22:00:00+00:00,Arena Pantanal,Cuiaba,1193,Atletico Goianiense,144,,1,1,0,1
+838025,71,Braulio da Silva Machado,2022-05-01T14:00:00+00:00,Estádio Nilton Santos,Botafogo,120,Juventude,152,,1,1,0,0
+838024,71,Sávio Pereira,2022-05-01T19:00:00+00:00,Neo Química Arena,Corinthians,131,Fortaleza EC,154,True,1,0,0,0
+838030,71,Raphael Claus,2022-05-01T19:00:00+00:00,Estádio Major Antônio Couto Pereira,Coritiba,147,Fluminense,124,True,3,2,0,2
+838026,71,Wilton Pereira Sampaio,2022-05-01T22:00:00+00:00,Estádio José Pinheiro Borda,Internacional,119,Avai,145,,0,0,0,0
+838023,71,Leandro Vuaden,2022-05-02T23:00:00+00:00,Estádio Cícero Pompeu de Toledo,Sao Paulo,126,Santos,128,True,2,1,1,1
+838031,71,Wilton Pereira Sampaio,2022-05-07T19:30:00+00:00,Estádio Raimundo Sampaio,Atletico-MG,1062,America Mineiro,125,False,1,2,0,1
+838040,71,Leandro Vuaden,2022-05-07T23:30:00+00:00,Arena da Baixada,Atletico Paranaense,134,Ceara,129,True,1,0,0,0
+838032,71,Anderson Daronco,2022-05-08T14:00:00+00:00,Estádio Nacional de Brasília,Flamengo,127,Botafogo,120,False,0,1,0,0
+838034,71,Sávio Pereira,2022-05-08T19:00:00+00:00,Allianz Parque,Palmeiras,121,Fluminense,124,,1,1,0,0
+838038,71,Wagner do Nascimento Magalhaes,2022-05-08T19:00:00+00:00,Estádio Antônio Accioly,Atletico Goianiense,144,Goias,151,False,0,1,0,1
+838035,71,Braulio da Silva Machado,2022-05-08T21:00:00+00:00,Estádio Urbano Caldeira,Santos,128,Cuiaba,1193,True,4,1,2,1
+838033,71,Raphael Claus,2022-05-08T21:00:00+00:00,Estádio Nabi Abi Chedid,RB Bragantino,794,Corinthians,131,False,0,1,0,0
+838036,71,Bruno Arleu de Araujo,2022-05-08T22:00:00+00:00,Estádio Alfredo Jaconi,Juventude,152,Internacional,119,,1,1,0,0
+838037,71,Ramon Abatti,2022-05-08T22:00:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Fortaleza EC,154,Sao Paulo,126,,1,1,0,0
+838039,71,Jefferson Ferreira de Moraes,2022-05-09T23:00:00+00:00,Estádio Aderbal Ramos da Silva,Avai,145,Coritiba,147,True,2,1,0,0
+838053,71,Braulio da Silva Machado,2022-05-11T23:30:00+00:00,Estádio Nabi Abi Chedid,RB Bragantino,794,Atletico-MG,1062,,1,1,1,0
+838044,71,Flavio Rodrigues De Souza,2022-05-14T19:30:00+00:00,Allianz Parque,Palmeiras,121,RB Bragantino,794,True,2,0,1,0
+838047,71,Luiz Flavio De Oliveira,2022-05-14T19:30:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Ceara,129,Flamengo,127,,2,2,1,2
+838046,71,Braulio da Silva Machado,2022-05-14T22:00:00+00:00,Estádio José Pinheiro Borda,Internacional,119,Corinthians,131,,2,2,2,1
+838041,71,Anderson Daronco,2022-05-14T22:00:00+00:00,Estádio Raimundo Sampaio,Atletico-MG,1062,Atletico Goianiense,144,True,2,0,1,0
+838042,71,Ramon Abatti,2022-05-15T00:00:00+00:00,Estádio Municipal General Raulino de Oliveira,Fluminense,124,Atletico Paranaense,134,True,2,1,1,0
+838043,71,Alexandre Vargas Tavares de Jesus,2022-05-15T19:00:00+00:00,Estádio Cícero Pompeu de Toledo,Sao Paulo,126,Cuiaba,1193,True,2,1,0,1
+838050,71,Bruno Arleu de Araujo,2022-05-15T20:30:00+00:00,Estádio Major Antônio Couto Pereira,Coritiba,147,America Mineiro,125,True,1,0,1,0
+838045,71,Jefferson Ferreira de Moraes,2022-05-15T21:00:00+00:00,Estádio Nilton Santos,Botafogo,120,Fortaleza EC,154,True,3,1,1,1
+838049,71,Douglas Marques das Flores,2022-05-15T21:00:00+00:00,Estádio Aderbal Ramos da Silva,Avai,145,Juventude,152,False,1,2,1,1
+838048,71,Marcelo de Lima Henrique,2022-05-15T22:00:00+00:00,Estádio de Hailé Pinheiro,Goias,151,Santos,128,True,1,0,1,0
+838052,71,Braulio da Silva Machado,2022-05-21T19:30:00+00:00,Estadio Jornalista Mário Filho,Flamengo,127,Goias,151,True,1,0,1,0
+838058,71,Luiz Flavio De Oliveira,2022-05-21T19:30:00+00:00,Estádio Antônio Accioly,Atletico Goianiense,144,Coritiba,147,True,2,0,1,0
+838055,71,Sávio Pereira,2022-05-21T21:30:00+00:00,Arena Barueri,Santos,128,Ceara,129,,0,0,0,0
+838056,71,Marcelo de Lima Henrique,2022-05-21T22:00:00+00:00,Estádio Alfredo Jaconi,Juventude,152,Palmeiras,121,False,0,3,0,2
+838051,71,Raphael Claus,2022-05-22T00:00:00+00:00,Estádio Raimundo Sampaio,America Mineiro,125,Botafogo,120,,1,1,1,0
+838059,71,Ramon Abatti,2022-05-22T00:00:00+00:00,Arena Pantanal,Cuiaba,1193,Internacional,119,,1,1,0,0
+838054,71,Wilton Pereira Sampaio,2022-05-22T19:00:00+00:00,Neo Química Arena,Corinthians,131,Sao Paulo,126,,1,1,0,1
+838057,71,Anderson Daronco,2022-05-22T19:00:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Fortaleza EC,154,Fluminense,124,False,0,1,0,1
+838060,71,Flavio Rodrigues De Souza,2022-05-22T22:00:00+00:00,Arena da Baixada,Atletico Paranaense,134,Avai,145,True,2,1,2,0
+838068,71,Ramon Abatti,2022-05-28T19:30:00+00:00,Estádio de Hailé Pinheiro,Goias,151,RB Bragantino,794,,1,1,0,1
+838063,71,Bruno Arleu de Araujo,2022-05-28T22:00:00+00:00,Estádio Cícero Pompeu de Toledo,Sao Paulo,126,Ceara,129,,2,2,2,1
+838067,71,André Castro,2022-05-28T23:30:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Fortaleza EC,154,Juventude,152,,1,1,0,0
+838065,71,Luiz Flavio De Oliveira,2022-05-29T19:00:00+00:00,Estádio Urbano Caldeira,Santos,128,Palmeiras,121,False,0,1,0,0
+838070,71,Braulio da Silva Machado,2022-05-29T19:00:00+00:00,Estádio Major Antônio Couto Pereira,Coritiba,147,Botafogo,120,True,1,0,1,0
+838062,71,Raphael Claus,2022-05-29T21:00:00+00:00,Estadio Jornalista Mário Filho,Fluminense,124,Flamengo,127,False,1,2,1,1
+838064,71,Anderson Daronco,2022-05-29T21:00:00+00:00,Neo Química Arena,Corinthians,131,America Mineiro,125,,1,1,0,0
+838069,71,Wagner do Nascimento Magalhaes,2022-05-29T21:00:00+00:00,Arena Pantanal,Cuiaba,1193,Atletico Paranaense,134,False,0,1,0,0
+838061,71,Jefferson Ferreira de Moraes,2022-05-29T22:00:00+00:00,Estádio Governador Magalhães Pinto,Atletico-MG,1062,Avai,145,True,2,1,0,1
+838066,71,Marcelo de Lima Henrique,2022-05-30T23:00:00+00:00,Estádio José Pinheiro Borda,Internacional,119,Atletico Goianiense,144,,1,1,1,0
+838017,71,Braulio da Silva Machado,2022-06-01T23:30:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Fortaleza EC,154,Ceara,129,False,0,1,0,1
+838071,71,Raphael Claus,2022-06-04T19:30:00+00:00,Estádio Raimundo Sampaio,America Mineiro,125,Cuiaba,1193,True,2,1,1,1
+838077,71,Flavio Rodrigues De Souza,2022-06-04T22:00:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Ceara,129,Coritiba,147,,1,1,1,0
+838080,71,Braulio da Silva Machado,2022-06-04T22:00:00+00:00,Arena da Baixada,Atletico Paranaense,134,Santos,128,,2,2,1,1
+838079,71,Anderson Daronco,2022-06-04T22:00:00+00:00,Estádio Aderbal Ramos da Silva,Avai,145,Sao Paulo,126,,1,1,0,1
+838078,71,Bruno Arleu de Araujo,2022-06-04T23:30:00+00:00,Estádio do Governo do Estado de Goiás,Atletico Goianiense,144,Corinthians,131,False,0,1,0,1
+838076,71,Jefferson Ferreira de Moraes,2022-06-05T14:00:00+00:00,Estádio Alfredo Jaconi,Juventude,152,Fluminense,124,True,1,0,1,0
+838074,71,Wilton Pereira Sampaio,2022-06-05T19:00:00+00:00,Allianz Parque,Palmeiras,121,Atletico-MG,1062,,0,0,0,0
+838072,71,Leandro Vuaden,2022-06-05T19:00:00+00:00,Estadio Jornalista Mário Filho,Flamengo,127,Fortaleza EC,154,False,1,2,1,1
+838073,71,Wagner do Nascimento Magalhaes,2022-06-05T22:00:00+00:00,Estádio Nabi Abi Chedid,RB Bragantino,794,Internacional,119,False,0,2,0,0
+838075,71,Paulo Henrique Schleinch Vollkopf,2022-06-06T23:00:00+00:00,Estádio Nilton Santos,Botafogo,120,Goias,151,False,1,2,1,0
+838089,71,Marcelo de Lima Henrique,2022-06-08T00:30:00+00:00,Arena Pantanal,Cuiaba,1193,Corinthians,131,True,1,0,1,0
+838081,71,Douglas Marques das Flores,2022-06-08T22:00:00+00:00,Estádio Raimundo Sampaio,America Mineiro,125,Ceara,129,False,0,2,0,1
+838086,71,Luiz Flavio De Oliveira,2022-06-08T22:00:00+00:00,Estádio Alfredo Jaconi,Juventude,152,Atletico Paranaense,134,False,1,3,1,1
+838088,71,Paulo Roberto Alves Júnior,2022-06-08T23:30:00+00:00,Estádio do Governo do Estado de Goiás,Atletico Goianiense,144,Avai,145,True,2,1,1,1
+838083,71,Wilton Pereira Sampaio,2022-06-08T23:30:00+00:00,Estádio Nabi Abi Chedid,RB Bragantino,794,Flamengo,127,True,1,0,1,0
+838082,71,Leandro Vuaden,2022-06-09T00:30:00+00:00,Estadio Jornalista Mário Filho,Fluminense,124,Atletico-MG,1062,True,5,3,3,2
+838085,71,Ramon Abatti,2022-06-09T00:30:00+00:00,Estádio Urbano Caldeira,Santos,128,Internacional,119,,1,1,0,0
+838084,71,Anderson Daronco,2022-06-09T22:00:00+00:00,Allianz Parque,Palmeiras,121,Botafogo,120,True,4,0,3,0
+838090,71,Wagner do Nascimento Magalhaes,2022-06-09T23:00:00+00:00,Estádio Major Antônio Couto Pereira,Coritiba,147,Sao Paulo,126,,1,1,0,1
+838087,71,Bruno Arleu de Araujo,2022-06-09T23:00:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Fortaleza EC,154,Goias,151,,1,1,1,0
+838094,71,Ramon Abatti,2022-06-11T19:30:00+00:00,Neo Química Arena,Corinthians,131,Juventude,152,True,2,0,1,0
+838092,71,Luiz Flavio De Oliveira,2022-06-11T22:00:00+00:00,Estadio Jornalista Mário Filho,Fluminense,124,Atletico Goianiense,144,False,0,2,0,2
+838091,71,Marcelo de Lima Henrique,2022-06-11T22:00:00+00:00,Estádio Governador Magalhães Pinto,Atletico-MG,1062,Santos,128,,1,1,1,0
+838099,71,Paulo Roberto Alves Júnior,2022-06-11T22:00:00+00:00,Arena Pantanal,Cuiaba,1193,RB Bragantino,794,,1,1,1,1
+838096,71,Braulio da Silva Machado,2022-06-12T00:00:00+00:00,Estádio José Pinheiro Borda,Internacional,119,Flamengo,127,True,3,1,2,0
+838093,71,Sávio Pereira,2022-06-12T19:00:00+00:00,Estádio Cícero Pompeu de Toledo,Sao Paulo,126,America Mineiro,125,True,1,0,1,0
+838098,71,Wagner do Nascimento Magalhaes,2022-06-12T19:00:00+00:00,Estádio de Hailé Pinheiro,Goias,151,Ceara,129,,1,1,0,1
+838100,71,Leandro Vuaden,2022-06-12T21:00:00+00:00,Estádio Major Antônio Couto Pereira,Coritiba,147,Palmeiras,121,False,0,2,0,1
+838097,71,André Castro,2022-06-12T22:00:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Fortaleza EC,154,Atletico Paranaense,134,,0,0,0,0
+838095,71,Flavio Rodrigues De Souza,2022-06-13T22:00:00+00:00,Estádio Nilton Santos,Botafogo,120,Avai,145,False,0,1,0,1
+838106,71,Rodolpho Toski Marques,2022-06-15T00:30:00+00:00,Estádio Alfredo Jaconi,Juventude,152,Santos,128,False,1,2,1,0
+838107,71,Luiz Flavio De Oliveira,2022-06-15T22:00:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Ceara,129,Atletico-MG,1062,,0,0,0,0
+838103,71,Marcelo de Lima Henrique,2022-06-15T22:00:00+00:00,Estádio Nabi Abi Chedid,RB Bragantino,794,Coritiba,147,True,4,2,3,0
+838102,71,Sávio Pereira,2022-06-15T23:30:00+00:00,Estadio Jornalista Mário Filho,Flamengo,127,Cuiaba,1193,True,2,0,1,0
+838108,71,Caio Max Augusto Vieira,2022-06-15T23:30:00+00:00,Estádio de Hailé Pinheiro,Goias,151,Internacional,119,False,1,2,1,1
+838101,71,Anderson Daronco,2022-06-16T00:30:00+00:00,Estádio Raimundo Sampaio,America Mineiro,125,Fluminense,124,,0,0,0,0
+838110,71,Leandro Vuaden,2022-06-16T00:30:00+00:00,Arena da Baixada,Atletico Paranaense,134,Corinthians,131,,1,1,0,1
+838105,71,Wilton Pereira Sampaio,2022-06-16T19:00:00+00:00,Estádio Nilton Santos,Botafogo,120,Sao Paulo,126,True,1,0,0,0
+838104,71,Ramon Abatti,2022-06-16T21:00:00+00:00,Allianz Parque,Palmeiras,121,Atletico Goianiense,144,True,4,2,4,1
+838109,71,Raphael Claus,2022-06-16T22:00:00+00:00,Estádio Aderbal Ramos da Silva,Avai,145,Fortaleza EC,154,True,3,2,2,1
+838119,71,Flavio Rodrigues De Souza,2022-06-18T22:00:00+00:00,Arena Pantanal,Cuiaba,1193,Ceara,129,,0,0,0,0
+838115,71,Douglas Marques das Flores,2022-06-19T00:00:00+00:00,Estádio Urbano Caldeira,Santos,128,RB Bragantino,794,,2,2,2,1
+838114,71,Braulio da Silva Machado,2022-06-19T19:00:00+00:00,Neo Química Arena,Corinthians,131,Goias,151,True,1,0,1,0
+838120,71,Luiz Flavio De Oliveira,2022-06-19T19:00:00+00:00,Estádio Major Antônio Couto Pereira,Coritiba,147,Atletico Paranaense,134,False,0,1,0,0
+838111,71,Raphael Claus,2022-06-19T19:00:00+00:00,Estádio Governador Magalhães Pinto,Atletico-MG,1062,Flamengo,127,True,2,0,1,0
+838116,71,Sávio Pereira,2022-06-19T21:00:00+00:00,Estádio José Pinheiro Borda,Internacional,119,Botafogo,120,False,2,3,2,1
+838118,71,Marcelo de Lima Henrique,2022-06-19T21:00:00+00:00,Estádio Antônio Accioly,Atletico Goianiense,144,Juventude,152,True,3,1,0,1
+838117,71,Leandro Vuaden,2022-06-19T21:00:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Fortaleza EC,154,America Mineiro,125,True,1,0,1,0
+838112,71,Paulo Roberto Alves Júnior,2022-06-19T22:00:00+00:00,Estadio Jornalista Mário Filho,Fluminense,124,Avai,145,True,2,0,1,0
+838113,71,Anderson Daronco,2022-06-20T23:00:00+00:00,Estádio Cícero Pompeu de Toledo,Sao Paulo,126,Palmeiras,121,False,1,2,1,0
+838126,71,Jefferson Ferreira de Moraes,2022-06-25T00:30:00+00:00,Estádio José Pinheiro Borda,Internacional,119,Coritiba,147,True,3,0,2,0
+838130,71,Caio Max Augusto Vieira,2022-06-25T19:30:00+00:00,Arena da Baixada,Atletico Paranaense,134,RB Bragantino,794,True,4,2,3,0
+838122,71,Ramon Abatti,2022-06-25T22:00:00+00:00,Estadio Jornalista Mário Filho,Flamengo,127,America Mineiro,125,True,3,0,1,0
+838124,71,Flavio Rodrigues De Souza,2022-06-25T22:00:00+00:00,Neo Química Arena,Corinthians,131,Santos,128,,0,0,0,0
+838121,71,Jean Pierre Goncalves Lima,2022-06-26T00:00:00+00:00,Estádio Governador Magalhães Pinto,Atletico-MG,1062,Fortaleza EC,154,True,3,2,0,2
+838125,71,Anderson Daronco,2022-06-26T19:00:00+00:00,Estádio Nilton Santos,Botafogo,120,Fluminense,124,False,0,1,0,0
+838129,71,Wagner do Nascimento Magalhaes,2022-06-26T19:00:00+00:00,Estádio Aderbal Ramos da Silva,Avai,145,Palmeiras,121,,2,2,1,0
+838123,71,André Castro,2022-06-26T21:00:00+00:00,Estádio Cícero Pompeu de Toledo,Sao Paulo,126,Juventude,152,,0,0,0,0
+838127,71,Douglas Marques das Flores,2022-06-26T21:00:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Ceara,129,Atletico Goianiense,144,,1,1,0,1
+838128,71,Rodolpho Toski Marques,2022-06-26T21:00:00+00:00,Estádio de Hailé Pinheiro,Goias,151,Cuiaba,1193,True,1,0,0,0
+838132,71,Wilton Pereira Sampaio,2022-07-02T19:30:00+00:00,Estadio Jornalista Mário Filho,Fluminense,124,Corinthians,131,True,4,0,2,0
+838136,71,Flavio Rodrigues De Souza,2022-07-02T19:30:00+00:00,Estádio Alfredo Jaconi,Juventude,152,Atletico-MG,1062,False,1,2,0,1
+838135,71,Anderson Daronco,2022-07-02T22:00:00+00:00,Estádio Urbano Caldeira,Santos,128,Flamengo,127,False,1,2,0,1
+838137,71,Rodolpho Toski Marques,2022-07-02T22:00:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Ceara,129,Internacional,119,,1,1,1,1
+838134,71,Braulio da Silva Machado,2022-07-03T00:00:00+00:00,Allianz Parque,Palmeiras,121,Atletico Paranaense,134,False,0,2,0,1
+838139,71,Jean Pierre Goncalves Lima,2022-07-03T14:00:00+00:00,Estádio Aderbal Ramos da Silva,Avai,145,Cuiaba,1193,False,1,2,1,0
+838138,71,Wagner do Nascimento Magalhaes,2022-07-03T19:00:00+00:00,Estádio Antônio Accioly,Atletico Goianiense,144,Sao Paulo,126,False,1,2,1,1
+838131,71,Caio Max Augusto Vieira,2022-07-03T21:00:00+00:00,Estádio Raimundo Sampaio,America Mineiro,125,Goias,151,True,1,0,0,0
+838140,71,Felipe Fernandes de Lima,2022-07-03T21:00:00+00:00,Estádio Major Antônio Couto Pereira,Coritiba,147,Fortaleza EC,154,True,2,1,1,0
+838133,71,Ramon Abatti,2022-07-04T23:00:00+00:00,Estádio Nabi Abi Chedid,RB Bragantino,794,Botafogo,120,False,0,1,0,0
+838143,71,Marcelo de Lima Henrique,2022-07-09T19:30:00+00:00,Estádio Nabi Abi Chedid,RB Bragantino,794,Avai,145,True,4,0,0,0
+838142,71,Luiz Flavio De Oliveira,2022-07-09T22:00:00+00:00,Estadio Jornalista Mário Filho,Fluminense,124,Ceara,129,True,2,1,1,0
+838148,71,Raphael Claus,2022-07-09T23:30:00+00:00,Estádio de Hailé Pinheiro,Goias,151,Atletico Paranaense,134,True,2,1,2,0
+838150,71,Bruno Arleu de Araujo,2022-07-10T14:00:00+00:00,Estádio Major Antônio Couto Pereira,Coritiba,147,Juventude,152,,2,2,0,2
+838144,71,Ramon Abatti,2022-07-10T19:00:00+00:00,Neo Química Arena,Corinthians,131,Flamengo,127,True,1,0,0,0
+838145,71,Braulio da Silva Machado,2022-07-10T21:00:00+00:00,Estádio Urbano Caldeira,Santos,128,Atletico Goianiense,144,True,1,0,0,0
+838147,71,Wilton Pereira Sampaio,2022-07-10T21:00:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Fortaleza EC,154,Palmeiras,121,,0,0,0,0
+838141,71,Anderson Daronco,2022-07-10T21:00:00+00:00,Estádio Governador Magalhães Pinto,Atletico-MG,1062,Sao Paulo,126,,0,0,0,0
+838149,71,Jefferson Ferreira de Moraes,2022-07-10T22:00:00+00:00,Arena Pantanal,Cuiaba,1193,Botafogo,120,True,2,0,1,0
+838146,71,Flavio Rodrigues De Souza,2022-07-11T23:00:00+00:00,Estádio José Pinheiro Borda,Internacional,119,America Mineiro,125,True,1,0,0,0
+838160,71,Ramon Abatti,2022-07-16T19:30:00+00:00,Arena da Baixada,Atletico Paranaense,134,Internacional,119,,0,0,0,0
+838152,71,Flavio Rodrigues De Souza,2022-07-16T22:00:00+00:00,Estádio Nacional de Brasília,Flamengo,127,Coritiba,147,True,2,0,2,0
+838159,71,Paulo Roberto Alves Júnior,2022-07-16T22:00:00+00:00,Estádio Aderbal Ramos da Silva,Avai,145,Santos,128,True,1,0,1,0
+838157,71,Leandro Vuaden,2022-07-17T00:00:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Ceara,129,Corinthians,131,True,3,1,2,1
+838156,71,Vinicius Gonçalves Dias Araujo,2022-07-17T14:00:00+00:00,Estádio Alfredo Jaconi,Juventude,152,Goias,151,,0,0,0,0
+838153,71,Wilton Pereira Sampaio,2022-07-17T19:00:00+00:00,Estádio Cícero Pompeu de Toledo,Sao Paulo,126,Fluminense,124,,2,2,2,1
+838155,71,Raphael Claus,2022-07-17T21:00:00+00:00,Estádio Nilton Santos,Botafogo,120,Atletico-MG,1062,False,0,1,0,0
+838158,71,Jean Pierre Goncalves Lima,2022-07-17T21:00:00+00:00,Estádio Antônio Accioly,Atletico Goianiense,144,Fortaleza EC,154,False,0,1,0,0
+838151,71,Wagner do Nascimento Magalhaes,2022-07-17T22:00:00+00:00,Estádio Raimundo Sampaio,America Mineiro,125,RB Bragantino,794,False,0,3,0,3
+838154,71,Anderson Daronco,2022-07-18T23:00:00+00:00,Allianz Parque,Palmeiras,121,Cuiaba,1193,True,1,0,0,0
+838167,71,Caio Max Augusto Vieira,2022-07-20T00:30:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Ceara,129,Avai,145,True,1,0,1,0
+838168,71,Paulo Roberto Alves Júnior,2022-07-20T22:00:00+00:00,Estádio de Hailé Pinheiro,Goias,151,Fluminense,124,False,2,3,1,1
+838163,71,Diego Pombo Lopez,2022-07-20T22:00:00+00:00,Estádio Nabi Abi Chedid,RB Bragantino,794,Fortaleza EC,154,True,2,1,1,0
+838170,71,Bruno Arleu de Araujo,2022-07-20T22:30:00+00:00,Arena da Baixada,Atletico Paranaense,134,Atletico Goianiense,144,True,4,1,2,0
+838166,71,Marcelo de Lima Henrique,2022-07-20T23:30:00+00:00,Estádio José Pinheiro Borda,Internacional,119,Sao Paulo,126,,3,3,3,2
+838162,71,Paulo Cesar Zanovelli,2022-07-20T23:30:00+00:00,Estádio Nacional de Brasília,Flamengo,127,Juventude,152,True,4,0,3,0
+838165,71,Ramon Abatti,2022-07-21T00:30:00+00:00,Estádio Urbano Caldeira,Santos,128,Botafogo,120,True,2,0,1,0
+838164,71,Wagner do Nascimento Magalhaes,2022-07-21T00:30:00+00:00,Neo Química Arena,Corinthians,131,Coritiba,147,True,3,1,1,0
+838169,71,Jean Pierre Goncalves Lima,2022-07-21T22:00:00+00:00,Arena Pantanal,Cuiaba,1193,Atletico-MG,1062,,1,1,0,0
+838161,71,Braulio da Silva Machado,2022-07-21T23:00:00+00:00,Estádio Raimundo Sampaio,America Mineiro,125,Palmeiras,121,False,0,1,0,0
+838173,71,Caio Max Augusto Vieira,2022-07-23T22:00:00+00:00,Estádio Cícero Pompeu de Toledo,Sao Paulo,126,Goias,151,,3,3,2,2
+838175,71,Anderson Daronco,2022-07-24T00:00:00+00:00,Estádio Nilton Santos,Botafogo,120,Atletico Paranaense,134,True,2,0,1,0
+838179,71,Raphael Claus,2022-07-24T14:00:00+00:00,Estádio Aderbal Ramos da Silva,Avai,145,Flamengo,127,False,1,2,0,0
+838174,71,Bruno Arleu de Araujo,2022-07-24T19:00:00+00:00,Allianz Parque,Palmeiras,121,Internacional,119,True,2,1,1,0
+838172,71,André Castro,2022-07-24T19:00:00+00:00,Estádio Municipal General Raulino de Oliveira,Fluminense,124,RB Bragantino,794,True,2,1,0,0
+838176,71,Felipe Fernandes de Lima,2022-07-24T19:00:00+00:00,Estádio Alfredo Jaconi,Juventude,152,Ceara,129,True,1,0,0,0
+838178,71,Jean Pierre Goncalves Lima,2022-07-24T21:00:00+00:00,Estádio Antônio Accioly,Atletico Goianiense,144,America Mineiro,125,False,0,1,0,1
+838171,71,Ramon Abatti,2022-07-24T21:00:00+00:00,Estádio Governador Magalhães Pinto,Atletico-MG,1062,Corinthians,131,False,1,2,1,0
+838177,71,Wilton Pereira Sampaio,2022-07-24T22:00:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Fortaleza EC,154,Santos,128,,0,0,0,0
+838180,71,Braulio da Silva Machado,2022-07-25T23:00:00+00:00,Estádio Major Antônio Couto Pereira,Coritiba,147,Cuiaba,1193,True,1,0,1,0
+838187,71,Anderson Daronco,2022-07-30T19:30:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Ceara,129,Palmeiras,121,False,1,2,0,2
+838188,71,Wagner do Nascimento Magalhaes,2022-07-30T19:30:00+00:00,Estádio de Hailé Pinheiro,Goias,151,Coritiba,147,True,1,0,0,0
+838184,71,Jean Pierre Goncalves Lima,2022-07-30T22:00:00+00:00,Neo Química Arena,Corinthians,131,Botafogo,120,True,1,0,1,0
+838182,71,Caio Max Augusto Vieira,2022-07-30T23:30:00+00:00,Estadio Jornalista Mário Filho,Flamengo,127,Atletico Goianiense,144,True,4,1,4,0
+838186,71,Flavio Rodrigues De Souza,2022-07-31T19:00:00+00:00,Estádio José Pinheiro Borda,Internacional,119,Atletico-MG,1062,True,3,0,3,0
+838190,71,Marcelo de Lima Henrique,2022-07-31T19:00:00+00:00,Arena da Baixada,Atletico Paranaense,134,Sao Paulo,126,True,1,0,0,0
+838181,71,Vinicius Gonçalves Dias Araujo,2022-07-31T21:00:00+00:00,Estádio Raimundo Sampaio,America Mineiro,125,Avai,145,True,3,1,1,1
+838189,71,Paulo Cesar Zanovelli,2022-07-31T21:00:00+00:00,Arena Pantanal,Cuiaba,1193,Fortaleza EC,154,False,0,1,0,1
+838183,71,Bruno Arleu de Araujo,2022-07-31T22:00:00+00:00,Estádio Nabi Abi Chedid,RB Bragantino,794,Juventude,152,True,1,0,1,0
+838185,71,Braulio da Silva Machado,2022-08-01T23:00:00+00:00,Estádio Urbano Caldeira,Santos,128,Fluminense,124,,2,2,1,0
+838195,71,Raphael Claus,2022-08-06T19:30:00+00:00,Estádio Nilton Santos,Botafogo,120,Ceara,129,,1,1,1,0
+838196,71,Edina Alves Batista,2022-08-06T19:30:00+00:00,Estádio Alfredo Jaconi,Juventude,152,America Mineiro,125,False,0,1,0,1
+838198,71,Marielson Alves Silva,2022-08-06T22:00:00+00:00,Estádio Antônio Accioly,Atletico Goianiense,144,RB Bragantino,794,True,2,1,0,0
+838199,71,Wilton Pereira Sampaio,2022-08-06T22:00:00+00:00,Estádio Aderbal Ramos da Silva,Avai,145,Corinthians,131,,1,1,1,0
+838193,71,Ramon Abatti,2022-08-06T23:30:00+00:00,Estádio Cícero Pompeu de Toledo,Sao Paulo,126,Flamengo,127,False,0,2,0,1
+838194,71,Jean Pierre Goncalves Lima,2022-08-07T19:00:00+00:00,Allianz Parque,Palmeiras,121,Goias,151,True,3,0,2,0
+838192,71,Flavio Rodrigues De Souza,2022-08-07T19:00:00+00:00,Estadio Jornalista Mário Filho,Fluminense,124,Cuiaba,1193,True,1,0,1,0
+838197,71,Wagner do Nascimento Magalhaes,2022-08-07T21:00:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Fortaleza EC,154,Internacional,119,True,3,0,1,0
+838191,71,Braulio da Silva Machado,2022-08-07T22:00:00+00:00,Estádio Governador Magalhães Pinto,Atletico-MG,1062,Atletico Paranaense,134,False,2,3,1,0
+838200,71,Paulo Cesar Zanovelli,2022-08-08T23:00:00+00:00,Estádio Major Antônio Couto Pereira,Coritiba,147,Santos,128,False,1,2,0,0
+838208,71,Flavio Rodrigues De Souza,2022-08-13T19:30:00+00:00,Estádio de Hailé Pinheiro,Goias,151,Avai,145,,1,1,0,1
+838204,71,Raphael Claus,2022-08-13T22:00:00+00:00,Neo Química Arena,Corinthians,131,Palmeiras,121,False,0,1,0,0
+838209,71,Marielson Alves Silva,2022-08-13T23:30:00+00:00,Arena Pantanal,Cuiaba,1193,Juventude,152,True,1,0,1,0
+838205,71,Edina Alves Batista,2022-08-14T00:00:00+00:00,Estádio Nilton Santos,Botafogo,120,Atletico Goianiense,144,,0,0,0,0
+838210,71,Marcelo de Lima Henrique,2022-08-14T14:00:00+00:00,Estádio Major Antônio Couto Pereira,Coritiba,147,Atletico-MG,1062,False,0,1,0,0
+838203,71,Paulo Cesar Zanovelli,2022-08-14T19:00:00+00:00,Estádio Cícero Pompeu de Toledo,Sao Paulo,126,RB Bragantino,794,True,3,0,1,0
+838202,71,Wilton Pereira Sampaio,2022-08-14T19:00:00+00:00,Estadio Jornalista Mário Filho,Flamengo,127,Atletico Paranaense,134,True,5,0,0,0
+838207,71,Jean Pierre Goncalves Lima,2022-08-14T19:00:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Ceara,129,Fortaleza EC,154,False,0,1,0,1
+838201,71,Paulo Roberto Alves Júnior,2022-08-14T21:00:00+00:00,Estádio Raimundo Sampaio,America Mineiro,125,Santos,128,True,1,0,1,0
+838206,71,Ramon Abatti,2022-08-14T22:00:00+00:00,Estádio José Pinheiro Borda,Internacional,119,Fluminense,124,True,3,0,1,0
+838211,71,Vinicius Gonçalves Dias Araujo,2022-08-20T19:30:00+00:00,Estádio Governador Magalhães Pinto,Atletico-MG,1062,Goias,151,False,0,1,0,0
+838212,71,Paulo Cesar Zanovelli,2022-08-20T22:00:00+00:00,Estadio Jornalista Mário Filho,Fluminense,124,Coritiba,147,True,5,2,2,0
+838216,71,Raphael Claus,2022-08-21T14:00:00+00:00,Estádio Alfredo Jaconi,Juventude,152,Botafogo,120,,2,2,1,0
+838214,71,Ramon Abatti,2022-08-21T19:00:00+00:00,Allianz Parque,Palmeiras,121,Flamengo,127,,1,1,0,1
+838220,71,Sávio Pereira,2022-08-21T21:00:00+00:00,Arena da Baixada,Atletico Paranaense,134,America Mineiro,125,,1,1,1,0
+838218,71,Anderson Daronco,2022-08-21T21:00:00+00:00,Estádio Antônio Accioly,Atletico Goianiense,144,Cuiaba,1193,,1,1,1,0
+838217,71,Leandro Vuaden,2022-08-21T21:00:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Fortaleza EC,154,Corinthians,131,True,1,0,0,0
+838213,71,Bruno Arleu de Araujo,2022-08-21T21:00:00+00:00,Estádio Nabi Abi Chedid,RB Bragantino,794,Ceara,129,,1,1,0,0
+838215,71,Wilton Pereira Sampaio,2022-08-21T22:00:00+00:00,Estádio Urbano Caldeira,Santos,128,Sao Paulo,126,True,1,0,1,0
+838219,71,Edina Alves Batista,2022-08-22T23:00:00+00:00,Estádio Aderbal Ramos da Silva,Avai,145,Internacional,119,False,0,1,0,0
+838230,71,Sávio Pereira,2022-08-27T19:30:00+00:00,Estádio Major Antônio Couto Pereira,Coritiba,147,Avai,145,True,1,0,0,0
+838228,71,Marcelo de Lima Henrique,2022-08-27T19:30:00+00:00,Estádio de Hailé Pinheiro,Goias,151,Atletico Goianiense,144,True,2,1,1,0
+838222,71,Braulio da Silva Machado,2022-08-27T22:00:00+00:00,Estadio Jornalista Mário Filho,Fluminense,124,Palmeiras,121,,1,1,1,1
+838227,71,Vinicius Gonçalves Dias Araujo,2022-08-28T00:00:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Ceara,129,Atletico Paranaense,134,,0,0,0,0
+838221,71,Ramon Abatti,2022-08-28T19:00:00+00:00,Estádio Raimundo Sampaio,America Mineiro,125,Atletico-MG,1062,,1,1,1,1
+838223,71,Paulo Cesar Zanovelli,2022-08-28T19:00:00+00:00,Estádio Cícero Pompeu de Toledo,Sao Paulo,126,Fortaleza EC,154,False,0,1,0,1
+838225,71,Flavio Rodrigues De Souza,2022-08-28T21:00:00+00:00,Estádio Nilton Santos,Botafogo,120,Flamengo,127,False,0,1,0,0
+838229,71,Jean Pierre Goncalves Lima,2022-08-28T21:00:00+00:00,Arena Pantanal,Cuiaba,1193,Santos,128,,0,0,0,0
+838226,71,Bruno Arleu de Araujo,2022-08-29T23:00:00+00:00,Estádio José Pinheiro Borda,Internacional,119,Juventude,152,True,4,0,2,0
+838224,71,Wilton Pereira Sampaio,2022-08-30T00:30:00+00:00,Neo Química Arena,Corinthians,131,RB Bragantino,794,True,1,0,1,0
+838236,71,Diego Pombo Lopez,2022-09-03T19:30:00+00:00,Estádio Alfredo Jaconi,Juventude,152,Avai,145,,1,1,0,0
+838240,71,Flavio Rodrigues De Souza,2022-09-03T22:00:00+00:00,Arena da Baixada,Atletico Paranaense,134,Fluminense,124,True,1,0,1,0
+838233,71,Raphael Claus,2022-09-03T22:00:00+00:00,Estádio Nabi Abi Chedid,RB Bragantino,794,Palmeiras,121,,2,2,2,1
+838231,71,Dyorgines José Padovani Andrade,2022-09-03T23:30:00+00:00,Estádio Raimundo Sampaio,America Mineiro,125,Coritiba,147,True,2,0,1,0
+838232,71,Paulo Cesar Zanovelli,2022-09-04T14:00:00+00:00,Estadio Jornalista Mário Filho,Flamengo,127,Ceara,129,,1,1,0,1
+838234,71,Braulio da Silva Machado,2022-09-04T19:00:00+00:00,Neo Química Arena,Corinthians,131,Internacional,119,,2,2,2,1
+838237,71,Ramon Abatti,2022-09-04T19:00:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Fortaleza EC,154,Botafogo,120,False,1,3,0,2
+838238,71,Luiz Flavio De Oliveira,2022-09-04T21:00:00+00:00,Estádio Antônio Accioly,Atletico Goianiense,144,Atletico-MG,1062,False,0,2,0,1
+838239,71,Wagner do Nascimento Magalhaes,2022-09-04T22:00:00+00:00,Arena Pantanal,Cuiaba,1193,Sao Paulo,126,,1,1,1,0
+838235,71,Anderson Daronco,2022-09-05T23:00:00+00:00,Estádio Urbano Caldeira,Santos,128,Goias,151,False,1,2,0,1
+838241,71,Jean Pierre Goncalves Lima,2022-09-07T20:00:00+00:00,Estádio Governador Magalhães Pinto,Atletico-MG,1062,RB Bragantino,794,,1,1,1,1
+838246,71,Maguielson Lima Barbosa,2022-09-10T19:30:00+00:00,Estádio José Pinheiro Borda,Internacional,119,Cuiaba,1193,True,1,0,0,0
+838247,71,Braulio da Silva Machado,2022-09-10T19:30:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Ceara,129,Santos,128,True,2,1,2,0
+838242,71,Paulo Roberto Alves Júnior,2022-09-10T22:00:00+00:00,Estadio Jornalista Mário Filho,Fluminense,124,Fortaleza EC,154,True,2,1,1,0
+838244,71,Jefferson Ferreira de Moraes,2022-09-11T00:00:00+00:00,Allianz Parque,Palmeiras,121,Juventude,152,True,2,1,0,0
+838245,71,José Mendonça,2022-09-11T14:00:00+00:00,Estádio Nilton Santos,Botafogo,120,America Mineiro,125,,0,0,0,0
+838249,71,Paulo Cesar Zanovelli,2022-09-11T14:00:00+00:00,Estádio Aderbal Ramos da Silva,Avai,145,Atletico Paranaense,134,,1,1,1,0
+838243,71,Marcelo de Lima Henrique,2022-09-11T19:00:00+00:00,Estádio Cícero Pompeu de Toledo,Sao Paulo,126,Corinthians,131,,1,1,1,1
+838250,71,Vinicius Gonçalves Dias Araujo,2022-09-11T19:00:00+00:00,Estádio Major Antônio Couto Pereira,Coritiba,147,Atletico Goianiense,144,True,2,0,1,0
+838248,71,Ramon Abatti,2022-09-11T22:00:00+00:00,Estádio de Hailé Pinheiro,Goias,151,Flamengo,127,,1,1,0,0
+838259,71,André Castro,2022-09-17T19:30:00+00:00,Estádio Aderbal Ramos da Silva,Avai,145,Atletico-MG,1062,True,1,0,0,0
+838255,71,Paulo Cesar Zanovelli,2022-09-17T22:00:00+00:00,Estádio Nilton Santos,Botafogo,120,Coritiba,147,True,2,0,0,0
+838253,71,José Mendonça,2022-09-18T14:00:00+00:00,Estádio Nabi Abi Chedid,RB Bragantino,794,Goias,151,,1,1,1,0
+838252,71,Raphael Claus,2022-09-18T19:00:00+00:00,Estadio Jornalista Mário Filho,Flamengo,127,Fluminense,124,False,1,2,0,1
+838257,71,Maguielson Lima Barbosa,2022-09-18T19:00:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Ceara,129,Sao Paulo,126,False,0,2,0,1
+838251,71,Bruno Arleu de Araujo,2022-09-18T21:00:00+00:00,Estádio Raimundo Sampaio,America Mineiro,125,Corinthians,131,True,1,0,0,0
+838256,71,Dyorgines José Padovani Andrade,2022-09-18T21:00:00+00:00,Estádio Alfredo Jaconi,Juventude,152,Fortaleza EC,154,,1,1,0,1
+838254,71,Wilton Pereira Sampaio,2022-09-18T21:30:00+00:00,Allianz Parque,Palmeiras,121,Santos,128,True,1,0,0,0
+838260,71,Anderson Daronco,2022-09-18T22:00:00+00:00,Arena da Baixada,Atletico Paranaense,134,Cuiaba,1193,,2,2,2,1
+838258,71,Edina Alves Batista,2022-09-19T23:00:00+00:00,Estádio Antônio Accioly,Atletico Goianiense,144,Internacional,119,False,1,2,0,2
+838263,71,Bruno Arleu de Araujo,2022-09-25T23:00:00+00:00,Estádio Cícero Pompeu de Toledo,Sao Paulo,126,Avai,145,True,4,0,3,0
+838265,71,Braulio da Silva Machado,2022-09-28T00:00:00+00:00,Estádio Urbano Caldeira,Santos,128,Atletico Paranaense,134,True,2,0,1,0
+838262,71,Edina Alves Batista,2022-09-28T22:00:00+00:00,Estadio Jornalista Mário Filho,Fluminense,124,Juventude,152,True,4,0,2,0
+838264,71,Leandro Vuaden,2022-09-28T22:00:00+00:00,Neo Química Arena,Corinthians,131,Atletico Goianiense,144,True,2,1,1,1
+838270,71,Raphael Claus,2022-09-28T22:00:00+00:00,Estádio Major Antônio Couto Pereira,Coritiba,147,Ceara,129,True,1,0,1,0
+838267,71,Flavio Rodrigues De Souza,2022-09-28T22:00:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Fortaleza EC,154,Flamengo,127,True,3,2,1,2
+838269,71,Dyorgines José Padovani Andrade,2022-09-29T00:00:00+00:00,Arena Pantanal,Cuiaba,1193,America Mineiro,125,True,2,1,1,0
+838266,71,Wagner do Nascimento Magalhaes,2022-09-29T00:45:00+00:00,Estádio José Pinheiro Borda,Internacional,119,RB Bragantino,794,,0,0,0,0
+838268,71,Luiz Flávio,2022-09-29T00:45:00+00:00,Estádio de Hailé Pinheiro,Goias,151,Botafogo,120,False,0,1,0,0
+838261,71,Marcelo de Lima Henrique,2022-09-29T00:45:00+00:00,Estádio Governador Magalhães Pinto,Atletico-MG,1062,Palmeiras,121,False,0,1,0,0
+838276,71,Ramon Abatti,2022-10-01T18:00:00+00:00,Estádio José Pinheiro Borda,Internacional,119,Santos,128,True,1,0,1,0
+838277,71,Edina Alves Batista,2022-10-01T18:00:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Ceara,129,America Mineiro,125,False,1,2,0,1
+838271,71,Luiz Flávio,2022-10-01T18:00:00+00:00,Estádio Governador Magalhães Pinto,Atletico-MG,1062,Fluminense,124,True,2,0,1,0
+838272,71,Anderson Daronco,2022-10-01T22:00:00+00:00,Estadio Jornalista Mário Filho,Flamengo,127,RB Bragantino,794,True,4,1,1,0
+838280,71,Maguielson Lima Barbosa,2022-10-01T22:00:00+00:00,Arena da Baixada,Atletico Paranaense,134,Juventude,152,True,2,0,1,0
+838279,71,Flavio Rodrigues De Souza,2022-10-01T22:00:00+00:00,Estádio Aderbal Ramos da Silva,Avai,145,Atletico Goianiense,144,False,1,2,0,1
+838278,71,Raphael Claus,2022-10-01T22:00:00+00:00,Estádio de Hailé Pinheiro,Goias,151,Fortaleza EC,154,False,0,1,0,1
+838274,71,Caio Max Augusto Vieira,2022-10-02T00:00:00+00:00,Neo Química Arena,Corinthians,131,Cuiaba,1193,True,2,0,2,0
+838275,71,Wilton Pereira Sampaio,2022-10-03T23:00:00+00:00,Estádio Nilton Santos,Botafogo,120,Palmeiras,121,False,1,3,1,2
+838286,71,Wagner do Nascimento Magalhaes,2022-10-05T00:30:00+00:00,Estádio Alfredo Jaconi,Juventude,152,Corinthians,131,,2,2,0,1
+838287,71,Vinicius Gonçalves Dias Araujo,2022-10-05T22:00:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Ceara,129,Goias,151,,1,1,0,0
+838288,71,Anderson Daronco,2022-10-05T22:00:00+00:00,Estádio Antônio Accioly,Atletico Goianiense,144,Fluminense,124,True,3,2,1,2
+838283,71,Jefferson Ferreira de Moraes,2022-10-05T22:00:00+00:00,Estádio Nabi Abi Chedid,RB Bragantino,794,Cuiaba,1193,True,2,1,1,1
+838290,71,Rafael Rodrigo Klein,2022-10-05T22:30:00+00:00,Arena da Baixada,Atletico Paranaense,134,Fortaleza EC,154,,1,1,0,1
+838282,71,Flavio Rodrigues De Souza,2022-10-06T00:30:00+00:00,Estadio Jornalista Mário Filho,Flamengo,127,Internacional,119,,0,0,0,0
+838285,71,Bruno Arleu de Araujo,2022-10-06T00:30:00+00:00,Estádio Urbano Caldeira,Santos,128,Atletico-MG,1062,False,1,2,0,0
+838284,71,Braulio da Silva Machado,2022-10-06T22:00:00+00:00,Allianz Parque,Palmeiras,121,Coritiba,147,True,4,0,2,0
+838281,71,Ramon Abatti,2022-10-06T23:00:00+00:00,Estádio Raimundo Sampaio,America Mineiro,125,Sao Paulo,126,False,1,2,1,1
+838289,71,Paulo Cesar Zanovelli,2022-10-06T23:00:00+00:00,Estádio Aderbal Ramos da Silva,Avai,145,Botafogo,120,False,1,2,1,0
+838299,71,Raphael Claus,2022-10-08T22:00:00+00:00,Arena Pantanal,Cuiaba,1193,Flamengo,127,False,1,2,0,0
+838294,71,Anderson Daronco,2022-10-09T00:00:00+00:00,Neo Química Arena,Corinthians,131,Atletico Paranaense,134,True,2,1,2,0
+838296,71,Edina Alves Batista,2022-10-09T14:00:00+00:00,Estádio José Pinheiro Borda,Internacional,119,Goias,151,True,4,2,2,2
+838293,71,Jean Pierre Goncalves Lima,2022-10-09T19:00:00+00:00,Estádio Cícero Pompeu de Toledo,Sao Paulo,126,Botafogo,120,False,0,1,0,0
+838297,71,Luiz Flávio,2022-10-09T19:00:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Fortaleza EC,154,Avai,145,True,2,0,0,0
+838292,71,Leandro Vuaden,2022-10-09T21:00:00+00:00,Estadio Jornalista Mário Filho,Fluminense,124,America Mineiro,125,False,0,2,0,2
+838300,71,Ramon Abatti,2022-10-09T21:00:00+00:00,Estádio Major Antônio Couto Pereira,Coritiba,147,RB Bragantino,794,True,2,1,1,1
+838291,71,Flavio Rodrigues De Souza,2022-10-09T21:00:00+00:00,Estádio Governador Magalhães Pinto,Atletico-MG,1062,Ceara,129,,0,0,0,0
+838298,71,Bruno Arleu de Araujo,2022-10-10T21:30:00+00:00,Estádio Antônio Accioly,Atletico Goianiense,144,Palmeiras,121,,1,1,0,0
+838295,71,José Mendonça,2022-10-10T23:00:00+00:00,Estádio Urbano Caldeira,Santos,128,Juventude,152,True,4,1,1,0
+838301,71,Vinicius Gonçalves Dias Araujo,2022-10-15T23:30:00+00:00,Estádio Raimundo Sampaio,America Mineiro,125,Fortaleza EC,154,False,1,2,0,1
+838302,71,Ramon Abatti,2022-10-15T23:30:00+00:00,Estadio Jornalista Mário Filho,Flamengo,127,Atletico-MG,1062,True,1,0,1,0
+838304,71,Flavio Rodrigues De Souza,2022-10-16T19:00:00+00:00,Allianz Parque,Palmeiras,121,Sao Paulo,126,,0,0,0,0
+838307,71,Caio Max Augusto Vieira,2022-10-16T19:00:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Ceara,129,Cuiaba,1193,,1,1,0,0
+838305,71,Braulio da Silva Machado,2022-10-16T21:00:00+00:00,Estádio Nilton Santos,Botafogo,120,Internacional,119,False,0,1,0,0
+838306,71,Felipe Fernandes de Lima,2022-10-16T21:00:00+00:00,Estádio Alfredo Jaconi,Juventude,152,Atletico Goianiense,144,,1,1,0,0
+838310,71,Jean Pierre Goncalves Lima,2022-10-16T22:00:00+00:00,Arena da Baixada,Atletico Paranaense,134,Coritiba,147,True,1,0,0,0
+838309,71,Anderson Daronco,2022-10-16T22:00:00+00:00,Estádio Aderbal Ramos da Silva,Avai,145,Fluminense,124,False,0,3,0,2
+838303,71,Paulo Cesar Zanovelli,2022-10-17T23:00:00+00:00,Estádio Nabi Abi Chedid,RB Bragantino,794,Santos,128,False,0,2,0,0
+838273,71,Braulio da Silva Machado,2022-10-20T23:00:00+00:00,Estádio Cícero Pompeu de Toledo,Sao Paulo,126,Coritiba,147,True,3,1,1,0
+838313,71,Caio Max Augusto Vieira,2022-10-22T19:30:00+00:00,Estádio Nabi Abi Chedid,RB Bragantino,794,Atletico Paranaense,134,True,4,2,3,0
+838311,71,Jean Pierre Goncalves Lima,2022-10-22T22:00:00+00:00,Estádio Raimundo Sampaio,America Mineiro,125,Flamengo,127,False,1,2,1,2
+838315,71,Flavio Rodrigues De Souza,2022-10-22T22:00:00+00:00,Estádio Urbano Caldeira,Santos,128,Corinthians,131,False,0,1,0,0
+838314,71,Bruno Arleu de Araujo,2022-10-23T00:00:00+00:00,Allianz Parque,Palmeiras,121,Avai,145,True,3,0,1,0
+838312,71,Ramon Abatti,2022-10-23T19:00:00+00:00,Estadio Jornalista Mário Filho,Fluminense,124,Botafogo,120,,2,2,0,1
+838316,71,Paulo Roberto Alves Júnior,2022-10-23T19:00:00+00:00,Estádio Alfredo Jaconi,Juventude,152,Sao Paulo,126,False,1,2,1,1
+838318,71,Luiz Flávio,2022-10-23T21:00:00+00:00,Estádio Antônio Accioly,Atletico Goianiense,144,Ceara,129,True,1,0,1,0
+838320,71,Wagner do Nascimento Magalhaes,2022-10-23T21:00:00+00:00,Estádio Major Antônio Couto Pereira,Coritiba,147,Internacional,119,,1,1,1,0
+838319,71,Dyorgines José Padovani Andrade,2022-10-23T21:00:00+00:00,Arena Pantanal,Cuiaba,1193,Goias,151,False,1,2,0,2
+838317,71,Raphael Claus,2022-10-24T23:00:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Fortaleza EC,154,Atletico-MG,1062,,0,0,0,0
+838322,71,André Castro,2022-10-26T00:45:00+00:00,Estadio Jornalista Mário Filho,Flamengo,127,Santos,128,True,3,2,1,0
+838330,71,Braulio da Silva Machado,2022-10-26T00:45:00+00:00,Arena da Baixada,Atletico Paranaense,134,Palmeiras,121,False,1,3,1,0
+838325,71,Dyorgines José Padovani Andrade,2022-10-26T22:30:00+00:00,Estádio Nilton Santos,Botafogo,120,RB Bragantino,794,True,2,1,1,0
+838326,71,Ramon Abatti,2022-10-27T00:45:00+00:00,Estádio José Pinheiro Borda,Internacional,119,Ceara,129,True,2,1,0,1
+838324,71,Leandro Vuaden,2022-10-27T00:45:00+00:00,Neo Química Arena,Corinthians,131,Fluminense,124,False,0,2,0,1
+838328,71,Wagner do Nascimento Magalhaes,2022-10-27T00:45:00+00:00,Estádio de Hailé Pinheiro,Goias,151,America Mineiro,125,,2,2,0,0
+838323,71,Bruno Arleu de Araujo,2022-10-27T22:00:00+00:00,Estádio Cícero Pompeu de Toledo,Sao Paulo,126,Atletico Goianiense,144,True,2,1,1,0
+838327,71,Flavio Rodrigues De Souza,2022-10-27T22:00:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Fortaleza EC,154,Coritiba,147,True,3,1,1,0
+838321,71,Sávio Pereira,2022-10-27T22:30:00+00:00,Estádio Governador Magalhães Pinto,Atletico-MG,1062,Juventude,152,True,1,0,1,0
+838329,71,Luiz Flávio,2022-10-27T23:00:00+00:00,Arena Pantanal,Cuiaba,1193,Avai,145,True,1,0,0,0
+838308,71,Bruno Arleu de Araujo,2022-10-29T23:30:00+00:00,Estádio de Hailé Pinheiro,Goias,151,Corinthians,131,,0,0,0,0
+838335,71,Jean Pierre Goncalves Lima,2022-10-31T22:00:00+00:00,Estádio Nilton Santos,Botafogo,120,Cuiaba,1193,False,0,2,0,1
+838337,71,Raphael Claus,2022-10-31T23:00:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Ceara,129,Fluminense,124,False,0,1,0,0
+838338,71,Anderson Daronco,2022-11-01T22:00:00+00:00,Estádio Antônio Accioly,Atletico Goianiense,144,Santos,128,False,2,3,2,1
+838339,71,Wagner do Nascimento Magalhaes,2022-11-01T22:00:00+00:00,Estádio Aderbal Ramos da Silva,Avai,145,RB Bragantino,794,False,1,2,0,0
+838336,71,Marcelo de Lima Henrique,2022-11-01T22:00:00+00:00,Estádio Alfredo Jaconi,Juventude,152,Coritiba,147,False,0,1,0,0
+838333,71,Braulio da Silva Machado,2022-11-02T00:30:00+00:00,Estádio Cícero Pompeu de Toledo,Sao Paulo,126,Atletico-MG,1062,,2,2,2,1
+838331,71,Bruno Arleu de Araujo,2022-11-02T19:00:00+00:00,Estádio Raimundo Sampaio,America Mineiro,125,Internacional,119,True,1,0,0,0
+838340,71,Leandro Vuaden,2022-11-02T19:00:00+00:00,Arena da Baixada,Atletico Paranaense,134,Goias,151,True,3,2,3,1
+838334,71,Wilton Pereira Sampaio,2022-11-03T00:30:00+00:00,Allianz Parque,Palmeiras,121,Fortaleza EC,154,True,4,0,2,0
+838332,71,Ramon Abatti,2022-11-03T00:30:00+00:00,Estadio Jornalista Mário Filho,Flamengo,127,Corinthians,131,False,1,2,0,1
+838348,71,Edina Alves Batista,2022-11-04T22:00:00+00:00,Estádio de Hailé Pinheiro,Goias,151,Juventude,152,True,1,0,0,0
+838343,71,Marcelo de Lima Henrique,2022-11-04T22:00:00+00:00,Estádio Nabi Abi Chedid,RB Bragantino,794,America Mineiro,125,False,1,4,1,3
+838342,71,Anderson Daronco,2022-11-05T19:30:00+00:00,Estadio Jornalista Mário Filho,Fluminense,124,Sao Paulo,126,True,3,1,0,1
+838345,71,Caio Max Augusto Vieira,2022-11-05T19:30:00+00:00,Arena Barueri,Santos,128,Avai,145,,1,1,1,0
+838344,71,Bruno Arleu de Araujo,2022-11-05T23:30:00+00:00,Neo Química Arena,Corinthians,131,Ceara,129,True,1,0,0,0
+838346,71,Flavio Rodrigues De Souza,2022-11-06T00:00:00+00:00,Estádio José Pinheiro Borda,Internacional,119,Atletico Paranaense,134,True,2,0,0,0
+838350,71,Raphael Claus,2022-11-06T19:00:00+00:00,Estádio Major Antônio Couto Pereira,Coritiba,147,Flamengo,127,True,1,0,0,0
+838347,71,Luiz Flávio,2022-11-06T19:00:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Fortaleza EC,154,Atletico Goianiense,144,,1,1,0,1
+838349,71,Braulio da Silva Machado,2022-11-06T21:30:00+00:00,Arena Pantanal,Cuiaba,1193,Palmeiras,121,,1,1,1,0
+838341,71,Leandro Vuaden,2022-11-07T23:00:00+00:00,Estádio Governador Magalhães Pinto,Atletico-MG,1062,Botafogo,120,False,0,2,0,0
+838352,71,Paulo Cesar Zanovelli,2022-11-08T22:00:00+00:00,Estadio Jornalista Mário Filho,Fluminense,124,Goias,151,True,3,0,0,0
+838359,71,Luiz Flávio,2022-11-08T22:00:00+00:00,Estádio Aderbal Ramos da Silva,Avai,145,Ceara,129,True,2,0,0,0
+838360,71,Marcelo de Lima Henrique,2022-11-08T22:00:00+00:00,Estádio Major Antônio Couto Pereira,Coritiba,147,Corinthians,131,,2,2,2,1
+838353,71,Wagner do Nascimento Magalhaes,2022-11-09T00:30:00+00:00,Estádio Cícero Pompeu de Toledo,Sao Paulo,126,Internacional,119,False,0,1,0,1
+838357,71,Ramon Abatti,2022-11-09T23:30:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Fortaleza EC,154,RB Bragantino,794,True,6,0,4,0
+838354,71,Sávio Pereira,2022-11-10T00:30:00+00:00,Allianz Parque,Palmeiras,121,America Mineiro,125,True,2,1,1,1
+838358,71,Jean Pierre Goncalves Lima,2022-11-10T00:30:00+00:00,Estádio Antônio Accioly,Atletico Goianiense,144,Atletico Paranaense,134,,1,1,0,0
+838356,71,Rodrigo José Pereira de Lima,2022-11-10T00:30:00+00:00,Estádio Alfredo Jaconi,Juventude,152,Flamengo,127,,2,2,2,1
+838355,71,Braulio da Silva Machado,2022-11-10T23:00:00+00:00,Estádio Nilton Santos,Botafogo,120,Santos,128,True,3,0,1,0
+838351,71,Bruno Arleu de Araujo,2022-11-10T23:00:00+00:00,Estádio Governador Magalhães Pinto,Atletico-MG,1062,Cuiaba,1193,True,3,0,2,0
+838362,71,Edina Alves Batista,2022-11-12T19:00:00+00:00,Estadio Jornalista Mário Filho,Flamengo,127,Avai,145,False,1,2,1,1
+838366,71,Bruno Arleu de Araujo,2022-11-13T19:00:00+00:00,Estádio José Pinheiro Borda,Internacional,119,Palmeiras,121,True,3,0,2,0
+838361,71,Leandro Vuaden,2022-11-13T19:00:00+00:00,Estádio Raimundo Sampaio,America Mineiro,125,Atletico Goianiense,144,,1,1,1,1
+838365,71,Wagner do Nascimento Magalhaes,2022-11-13T19:00:00+00:00,Estádio Urbano Caldeira,Santos,128,Fortaleza EC,154,False,0,2,0,0
+838367,71,Paulo Henrique Schleinch Vollkopf,2022-11-13T19:00:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Ceara,129,Juventude,152,True,4,1,2,0
+838364,71,Braulio da Silva Machado,2022-11-13T19:00:00+00:00,Neo Química Arena,Corinthians,131,Atletico-MG,1062,False,0,1,0,1
+838370,71,Anderson Daronco,2022-11-13T19:00:00+00:00,Arena da Baixada,Atletico Paranaense,134,Botafogo,120,True,3,0,0,0
+838368,71,Marcelo de Lima Henrique,2022-11-13T19:00:00+00:00,Estádio de Hailé Pinheiro,Goias,151,Sao Paulo,126,False,0,4,0,1
+838363,71,Jean Pierre Goncalves Lima,2022-11-13T19:00:00+00:00,Estádio Nabi Abi Chedid,RB Bragantino,794,Fluminense,124,False,0,1,0,1
+838369,71,Flavio Rodrigues De Souza,2022-11-13T19:00:00+00:00,Arena Pantanal,Cuiaba,1193,Coritiba,147,True,2,1,2,0
