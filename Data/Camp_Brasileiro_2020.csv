@@ -1,0 +1,381 @@
+id_partida,id_league,referee,date,venue.name,home.name,home.id,away.name,away.id,home.winner,home,away,halftime.home,halftime.away
+327992,71,"Bruno Arleu de Araujo, Brazil",2020-08-08T22:30:00+00:00,Estádio Major Antônio Couto Pereira,Coritiba,147,Internacional,119,False,0,1,0,0
+327991,71,"Edina Alves Batista, Brazil",2020-08-09T00:00:00+00:00,Estádio Adelmar da Costa Carvalho,Sport Recife,123,Ceara,129,True,3,2,3,1
+327993,71,"Braulio Da Silva Machado, Brazil",2020-08-09T00:00:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Fortaleza EC,154,Atletico Paranaense,134,False,0,2,0,2
+327985,71,"Raphael Claus, Brazil",2020-08-09T19:00:00+00:00,Estadio do Maracanã,Flamengo,127,Atletico-MG,1062,False,0,1,0,1
+327988,71,"Ricardo Marques Ribeiro, Brazil",2020-08-09T19:00:00+00:00,Estádio Urbano Caldeira,Santos,128,Bragantino,794,,1,1,0,0
+327990,71,"Wilton Pereira Sampaio, Brazil",2020-08-10T00:00:00+00:00,Arena do Grêmio,Gremio,130,Fluminense,124,True,1,0,1,0
+328002,71,"Diego Pombo Lopez, Brazil",2020-08-12T22:15:00+00:00,Arena da Baixada,Atletico Paranaense,134,Goias,151,True,2,1,1,1
+327998,71,"Andre Luiz de Freitas Castro, Brazil",2020-08-12T22:15:00+00:00,Estádio Nabi Abi Chedid,Bragantino,794,Botafogo,120,,1,1,1,0
+327999,71,"Wagner do Nascimento Magalhaes, Brazil",2020-08-12T22:15:00+00:00,Estádio Governador Magalhães Pinto,Atletico-MG,1062,Corinthians,131,True,3,2,0,2
+328001,71,"Flavio Rodrigues De Souza, Brazil",2020-08-12T23:30:00+00:00,Estádio Governador Roberto Santos,Bahia,118,Coritiba,147,True,1,0,1,0
+328004,71,"Luiz Flavio De Oliveira, Brazil",2020-08-12T23:30:00+00:00,Estádio Olímpico Pedro Ludovico Teixeira,Atletico Goianiense,144,Flamengo,127,True,3,0,2,0
+327995,71,"Rafael Traci, Brazil",2020-08-13T00:30:00+00:00,Estadio do Maracanã,Fluminense,124,Palmeiras,121,,1,1,1,1
+328003,71,"Dewson Fernando Freitas da Silva, Brazil",2020-08-13T00:30:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Ceara,129,Gremio,130,,1,1,1,0
+327997,71,"Leandro Pedro Vuaden, Brazil",2020-08-13T22:15:00+00:00,Morumbí,Sao Paulo,126,Fortaleza EC,154,True,1,0,1,0
+328000,71,"Marcelo De Lima Henrique, Brazil",2020-08-13T22:30:00+00:00,Estádio José Pinheiro Borda,Internacional,119,Santos,128,True,2,0,0,0
+327996,71,"Rodolpho Toski Marques, Brazil",2020-08-13T23:00:00+00:00,Estádio Club de Regatas Vasco da Gama,Vasco DA Gama,133,Sport Recife,123,True,2,0,2,0
+328012,71,"Rodrigo D'alonso Ferreira, Brazil",2020-08-15T22:30:00+00:00,Estádio Major Antônio Couto Pereira,Coritiba,147,Flamengo,127,False,0,1,0,1
+328010,71,"Bruno Arleu de Araujo, Brazil",2020-08-16T00:00:00+00:00,Arena do Grêmio,Gremio,130,Corinthians,131,,0,0,0,0
+328007,71,"Paulo Roberto Alves Junior, Brazil",2020-08-16T00:30:00+00:00,Allianz Parque,Palmeiras,121,Goias,151,,1,1,1,1
+328009,71,"Savio Pereira Sampaio, Brazil",2020-08-16T14:00:00+00:00,Estádio Governador Magalhães Pinto,Atletico-MG,1062,Ceara,129,True,2,0,0,0
+328011,71,"Felipe Fernandes de Lima, Brazil",2020-08-16T19:00:00+00:00,Estádio Governador Roberto Santos,Bahia,118,Bragantino,794,True,2,1,1,0
+328006,71,"Wilton Pereira Sampaio, Brazil",2020-08-16T19:00:00+00:00,Estádio Club de Regatas Vasco da Gama,Vasco DA Gama,133,Sao Paulo,126,True,2,1,0,0
+328005,71,"Raphael Claus, Brazil",2020-08-16T21:00:00+00:00,Estadio do Maracanã,Fluminense,124,Internacional,119,True,2,1,1,1
+328013,71,"Marielson Alves Silva, Brazil",2020-08-16T22:30:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Fortaleza EC,154,Botafogo,120,,0,0,0,0
+328008,71,"Anderson Daronco, Brazil",2020-08-16T22:45:00+00:00,Estádio Urbano Caldeira,Santos,128,Atletico Paranaense,134,True,3,1,2,0
+328014,71,"Grazianni Maciel Rocha, Brazil",2020-08-17T00:00:00+00:00,Estádio Olímpico Pedro Ludovico Teixeira,Atletico Goianiense,144,Sport Recife,123,,1,1,1,0
+328015,71,"Rafael Traci, Brazil",2020-08-19T22:15:00+00:00,Estadio do Maracanã,Flamengo,127,Gremio,130,,1,1,0,1
+328018,71,"Jean Pierre Goncalves Lima, Brazil",2020-08-19T22:15:00+00:00,Estádio Nabi Abi Chedid,Bragantino,794,Fluminense,124,True,2,1,1,1
+328022,71,"Caio Max Augusto Vieira, Brazil",2020-08-19T22:30:00+00:00,Arena da Baixada,Atletico Paranaense,134,Palmeiras,121,False,0,1,0,0
+328020,71,"Reway Wagner, Brazil",2020-08-19T23:30:00+00:00,Estádio José Pinheiro Borda,Internacional,119,Atletico Goianiense,144,True,3,0,0,0
+328024,71,"Dyorgines Jose Padovani de Andrade, Brazil",2020-08-19T23:30:00+00:00,Estádio de Hailé Pinheiro,Goias,151,Fortaleza EC,154,False,1,3,0,1
+328016,71,Flavio Rodrigues De Souza,2020-08-20T00:30:00+00:00,Estádio Nilton Santos,Botafogo,120,Atletico-MG,1062,True,2,1,1,0
+328019,71,Braulio da Silva Machado,2020-08-20T00:30:00+00:00,Neo Química Arena,Corinthians,131,Coritiba,147,True,3,1,1,1
+328021,71,"Jose Mendonca da Silva Junior, Brazil",2020-08-20T22:15:00+00:00,Estádio Adelmar da Costa Carvalho,Sport Recife,123,Santos,128,False,0,1,0,0
+328017,71,"Rodrigo Carvalhaes de Miranda, Brazil",2020-08-20T23:00:00+00:00,Morumbí,Sao Paulo,126,Bahia,118,,1,1,0,1
+328023,71,"Thiago Duarte Peixoto, Brazil",2020-08-20T23:00:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Ceara,129,Vasco DA Gama,133,False,0,3,0,0
+328032,71,"Daniel Nobre Bins, Brazil",2020-08-22T19:00:00+00:00,Arena da Baixada,Atletico Paranaense,134,Fluminense,124,False,0,1,0,1
+328030,71,"Luiz Flavio De Oliveira, Brazil",2020-08-23T00:00:00+00:00,Estádio José Pinheiro Borda,Internacional,119,Atletico-MG,1062,True,1,0,1,0
+328034,71,Wilton Pereira Sampaio,2020-08-23T00:00:00+00:00,Estádio de Hailé Pinheiro,Goias,151,Atletico Goianiense,144,True,2,0,1,0
+328025,71,"Leandro Pedro Vuaden, Brazil",2020-08-23T14:00:00+00:00,Estadio do Maracanã,Flamengo,127,Botafogo,120,,1,1,0,0
+328027,71,"Vinicius Goncalves Dias Araujo, Brazil",2020-08-23T19:00:00+00:00,Morumbí,Palmeiras,121,Santos,128,True,2,1,1,0
+328026,71,"Savio Pereira Sampaio, Brazil",2020-08-23T19:00:00+00:00,Estádio Club de Regatas Vasco da Gama,Vasco DA Gama,133,Gremio,130,,0,0,0,0
+328028,71,"Gilberto Rodrigues Castro Junior, Brazil",2020-08-23T19:00:00+00:00,Estádio Nabi Abi Chedid,Bragantino,794,Coritiba,147,False,1,2,1,1
+328033,71,"Wagner do Nascimento Magalhaes, Brazil",2020-08-23T23:00:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Ceara,129,Bahia,118,True,2,0,1,0
+328031,71,Rodrigo D'Alonso Ferreira,2020-08-24T00:00:00+00:00,Estádio Adelmar da Costa Carvalho,Sport Recife,123,Sao Paulo,126,False,0,1,0,1
+328087,71,"Marcelo De Lima Henrique, Brazil",2020-08-27T00:00:00+00:00,Morumbí,Sao Paulo,126,Atletico Paranaense,134,True,1,0,0,0
+328029,71,"Rodolpho Toski Marques, Brazil",2020-08-27T00:30:00+00:00,Arena Corinthians,Corinthians,131,Fortaleza EC,154,,1,1,0,0
+328036,71,"Thiago Duarte Peixoto, Brazil",2020-08-29T20:00:00+00:00,Estádio Nilton Santos,Botafogo,120,Internacional,119,False,0,2,0,2
+328041,71,"Bruno Arleu de Araujo, Brazil",2020-08-30T00:00:00+00:00,Estádio Governador Roberto Santos,Bahia,118,Palmeiras,121,,1,1,0,0
+328035,71,"Braulio Da Silva Machado, Brazil",2020-08-30T00:00:00+00:00,Estádio do Maracanã,Fluminense,124,Vasco DA Gama,133,True,2,1,1,0
+328043,71,Rafael Traci,2020-08-30T00:00:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Fortaleza EC,154,Bragantino,794,True,3,0,1,0
+328037,71,"Flavio Rodrigues De Souza, Brazil",2020-08-30T14:00:00+00:00,Morumbí,Sao Paulo,126,Corinthians,131,True,2,1,1,1
+328038,71,"Wilton Pereira Sampaio, Brazil",2020-08-30T19:00:00+00:00,Estádio Urbano Caldeira,Santos,128,Flamengo,127,False,0,1,0,1
+328042,71,"Raphael Claus, Brazil",2020-08-30T19:00:00+00:00,Estádio Major Antônio Couto Pereira,Coritiba,147,Sport Recife,123,True,1,0,0,0
+328044,71,"Igor Junio Benevenuto, Brazil",2020-08-30T21:00:00+00:00,Estádio Olímpico Pedro Ludovico Teixeira,Atletico Goianiense,144,Ceara,129,False,0,2,0,0
+328045,71,"Marielson Alves Silva, Brazil",2020-09-02T22:15:00+00:00,Estádio do Maracanã,Fluminense,124,Atletico Goianiense,144,,1,1,1,0
+328054,71,"Jose Mendonca da Silva Junior, Brazil",2020-09-02T22:15:00+00:00,Estádio de Hailé Pinheiro,Goias,151,Corinthians,131,False,1,2,0,1
+328051,71,"Savio Pereira Sampaio, Brazil",2020-09-02T23:30:00+00:00,Estádio Governador Roberto Santos,Bahia,118,Flamengo,127,False,3,5,2,3
+328046,71,"Felipe Fernandes de Lima, Brazil",2020-09-02T23:30:00+00:00,Estádio Nilton Santos,Botafogo,120,Coritiba,147,,0,0,0,0
+328052,71,"Wagner do Nascimento Magalhaes, Brazil",2020-09-02T23:30:00+00:00,Arena da Baixada,Atletico Paranaense,134,Bragantino,794,,1,1,1,1
+328053,71,"Luiz Flavio De Oliveira, Brazil",2020-09-03T00:00:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Ceara,129,Fortaleza EC,154,True,1,0,1,0
+328047,71,"Wilton Pereira Sampaio, Brazil",2020-09-03T00:30:00+00:00,Allianz Parque,Palmeiras,121,Internacional,119,,1,1,0,0
+328048,71,"Rodrigo Dalonso Ferreira, Brazil",2020-09-03T00:30:00+00:00,Estádio Urbano Caldeira,Santos,128,Vasco DA Gama,133,,2,2,1,1
+328049,71,"Jean Pierre Goncalves Lima, Brazil",2020-09-03T23:00:00+00:00,Estádio Governador Magalhães Pinto,Atletico-MG,1062,Sao Paulo,126,True,3,0,2,0
+328050,71,"Dyorgines Jose Padovani de Andrade, Brazil",2020-09-04T00:00:00+00:00,Arena do Grêmio,Gremio,130,Sport Recife,123,False,1,2,0,1
+328055,71,"Flavio Rodrigues De Souza, Brazil",2020-09-05T20:00:00+00:00,Estádio do Maracanã,Flamengo,127,Fortaleza EC,154,True,2,1,1,1
+328063,71,"Reway Wagner, Brazil",2020-09-06T00:00:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Ceara,129,Santos,128,False,0,1,0,1
+328059,71,"Rafael Traci, Brazil",2020-09-06T00:00:00+00:00,Neo Química Arena,Corinthians,131,Botafogo,120,,2,2,1,1
+328058,71,"Marcelo De Lima Henrique, Brazil",2020-09-06T14:00:00+00:00,Estádio Nabi Abi Chedid,Bragantino,794,Palmeiras,121,False,1,2,0,0
+328060,71,"Braulio Da Silva Machado, Brazil",2020-09-06T19:00:00+00:00,Estádio José Pinheiro Borda,Internacional,119,Bahia,118,,2,2,1,1
+328057,71,"Paulo Roberto Alves Junior, Brazil",2020-09-06T19:00:00+00:00,Morumbí,Sao Paulo,126,Fluminense,124,True,3,1,0,1
+328056,71,"Raphael Claus, Brazil",2020-09-06T21:00:00+00:00,Estádio Club de Regatas Vasco da Gama,Vasco DA Gama,133,Atletico Paranaense,134,True,1,0,1,0
+328061,71,"Vinicius Gomes do Amara, Brazil",2020-09-06T23:30:00+00:00,Estádio Adelmar da Costa Carvalho,Sport Recife,123,Goias,151,True,2,1,0,0
+328062,71,"Diego Pombo Lopez, Brazil",2020-09-06T23:30:00+00:00,Estádio Major Antônio Couto Pereira,Coritiba,147,Atletico-MG,1062,False,0,1,0,1
+328064,71,"Ricardo Marques Ribeiro, Brazil",2020-09-07T00:00:00+00:00,Estádio Olímpico Pedro Ludovico Teixeira,Atletico Goianiense,144,Gremio,130,,1,1,1,1
+328072,71,"Vinicius Goncalves Dias Araujo, Brazil",2020-09-09T20:30:00+00:00,Arena da Baixada,Atletico Paranaense,134,Botafogo,120,,1,1,0,0
+328074,71,"Caio Max Augusto Vieira, Brazil",2020-09-09T21:00:00+00:00,Estádio de Hailé Pinheiro,Goias,151,Coritiba,147,,3,3,1,2
+328073,71,"Felipe Fernandes de Lima, Brazil",2020-09-09T21:00:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Fortaleza EC,154,Sport Recife,123,True,1,0,0,0
+328067,71,"Savio Pereira Sampaio, Brazil",2020-09-09T22:15:00+00:00,Morumbí,Sao Paulo,126,Bragantino,794,,1,1,0,0
+328065,71,"Raphael Claus, Brazil",2020-09-10T00:30:00+00:00,Estádio do Maracanã,Fluminense,124,Flamengo,127,False,1,2,0,2
+328068,71,"Wagner do Nascimento Magalhaes, Brazil",2020-09-10T00:30:00+00:00,Estádio Urbano Caldeira,Santos,128,Atletico-MG,1062,True,3,1,2,1
+328071,71,José Mendonça,2020-09-10T22:15:00+00:00,Estádio Governador Roberto Santos,Bahia,118,Gremio,130,False,0,2,0,1
+328070,71,"Rodrigo Dalonso Ferreira, Brazil",2020-09-10T22:15:00+00:00,Estádio José Pinheiro Borda,Internacional,119,Ceara,129,True,2,0,1,0
+328069,71,"Leandro Pedro Vuaden, Brazil",2020-09-10T22:15:00+00:00,Neo Química Arena,Corinthians,131,Palmeiras,121,False,0,2,0,1
+328066,71,"Heber Roberto Lopes, Brazil",2020-09-11T00:00:00+00:00,Estádio Club de Regatas Vasco da Gama,Vasco DA Gama,133,Atletico Goianiense,144,False,1,2,0,0
+328082,71,"Jean Pierre Goncalves Lima, Brazil",2020-09-12T19:30:00+00:00,Arena da Baixada,Atletico Paranaense,134,Coritiba,147,True,1,0,1,0
+328078,71,"Luiz Flavio De Oliveira, Brazil",2020-09-13T00:00:00+00:00,Estádio Urbano Caldeira,Santos,128,Sao Paulo,126,,2,2,1,2
+328075,71,"Braulio Da Silva Machado, Brazil",2020-09-13T19:00:00+00:00,Estádio do Maracanã,Fluminense,124,Corinthians,131,True,2,1,1,0
+328080,71,"Igor Junio Benevenuto, Brazil",2020-09-13T19:00:00+00:00,Arena do Grêmio,Gremio,130,Fortaleza EC,154,,1,1,0,1
+328081,71,"Vinicius Gomes do Amara, Brazil",2020-09-13T21:00:00+00:00,Estádio Governador Roberto Santos,Bahia,118,Atletico Goianiense,144,False,0,1,0,1
+328083,71,"Marielson Alves Silva, Brazil",2020-09-13T21:00:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Ceara,129,Flamengo,127,True,2,0,0,0
+328084,71,"Flavio Rodrigues De Souza, Brazil",2020-09-13T21:00:00+00:00,Estádio de Hailé Pinheiro,Goias,151,Internacional,119,True,1,0,1,0
+328079,71,"Ramon Abatti Abel, Brazil",2020-09-13T21:00:00+00:00,Estádio Governador Magalhães Pinto,Atletico-MG,1062,Bragantino,794,True,2,1,1,0
+328077,71,"Diego Pombo Lopez, Brazil",2020-09-13T22:45:00+00:00,Allianz Parque,Palmeiras,121,Sport Recife,123,,2,2,2,1
+328076,71,"Wilton Pereira Sampaio, Brazil",2020-09-13T23:30:00+00:00,Estádio Nilton Santos,Botafogo,120,Vasco DA Gama,133,False,2,3,0,1
+328089,71,"Wagner do Nascimento Magalhaes, Brazil",2020-09-17T00:30:00+00:00,Neo Química Arena,Corinthians,131,Bahia,118,True,3,2,2,1
+328094,71,"Edina Alves Batista, Brazil",2020-09-20T00:00:00+00:00,Estádio Olímpico Pedro Ludovico Teixeira,Atletico Goianiense,144,Atletico-MG,1062,False,3,4,1,0
+328093,71,"Marielson Alves Silva, Brazil",2020-09-20T00:00:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Fortaleza EC,154,Internacional,119,True,1,0,0,0
+328088,71,"Jefferson Ferreira de Moraes, Brazil",2020-09-20T00:00:00+00:00,Estádio Nabi Abi Chedid,Bragantino,794,Ceara,129,True,4,2,3,1
+328090,71,"Rodrigo D'alonso Ferreira, Brazil",2020-09-20T19:00:00+00:00,Arena do Grêmio,Gremio,130,Palmeiras,121,,1,1,0,0
+328092,71,"Luiz Flavio De Oliveira, Brazil",2020-09-20T19:00:00+00:00,Estádio Major Antônio Couto Pereira,Coritiba,147,Vasco DA Gama,133,True,1,0,0,0
+328086,71,"Jose Mendonca da Silva Junior, Brazil",2020-09-20T21:15:00+00:00,Estádio Nilton Santos,Botafogo,120,Santos,128,,0,0,0,0
+328091,71,"Leandro Pedro Vuaden, Brazil",2020-09-20T23:30:00+00:00,Estádio Adelmar da Costa Carvalho,Sport Recife,123,Fluminense,124,True,1,0,1,0
+328101,71,"Wilton Pereira Sampaio, Brazil",2020-09-24T00:30:00+00:00,Estádio Adelmar da Costa Carvalho,Sport Recife,123,Corinthians,131,True,1,0,1,0
+328100,71,"Marcelo De Lima Henrique, Brazil",2020-09-27T00:00:00+00:00,Estádio José Pinheiro Borda,Internacional,119,Sao Paulo,126,,1,1,1,1
+328102,71,"Ricardo Marques Ribeiro, Brazil",2020-09-27T00:00:00+00:00,Arena da Baixada,Atletico Paranaense,134,Bahia,118,True,1,0,0,0
+328099,71,"Caio Max Augusto Vieira, Brazil",2020-09-27T00:00:00+00:00,Estádio Governador Magalhães Pinto,Atletico-MG,1062,Gremio,130,True,3,1,1,0
+328096,71,"Rodolpho Toski Marques, Brazil",2020-09-27T14:00:00+00:00,Estádio Club de Regatas Vasco da Gama,Vasco DA Gama,133,Bragantino,794,,1,1,0,0
+328097,71,"Jean Pierre Goncalves Lima, Brazil",2020-09-27T19:00:00+00:00,Allianz Parque,Palmeiras,121,Flamengo,127,,1,1,0,0
+328103,71,"Ramon Abatti Abel, Brazil",2020-09-27T21:15:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Ceara,129,Goias,151,,2,2,0,1
+328104,71,"Leandro Pedro Vuaden, Brazil",2020-09-27T21:15:00+00:00,Estádio Olímpico Pedro Ludovico Teixeira,Atletico Goianiense,144,Botafogo,120,,1,1,0,1
+328098,71,"Heber Roberto Lopes, Brazil",2020-09-27T23:30:00+00:00,Estádio Urbano Caldeira,Santos,128,Fortaleza EC,154,,1,1,1,0
+328095,71,"Vinicius Goncalves Dias Araujo, Brazil",2020-09-28T23:00:00+00:00,Estádio Nilton Santos,Fluminense,124,Coritiba,147,True,4,0,1,0
+327986,71,"Savio Pereira Sampaio, Brazil",2020-10-01T00:30:00+00:00,Estádio Nilton Santos,Botafogo,120,Bahia,118,False,1,2,0,1
+327989,71,"Paulo Roberto Alves Junior, Brazil",2020-10-01T00:30:00+00:00,Neo Química Arena,Corinthians,131,Atletico Goianiense,144,,0,0,0,0
+328110,71,"Raphael Claus, Brazil",2020-10-03T20:00:00+00:00,Arena do Grêmio,Gremio,130,Internacional,119,,1,1,0,0
+328107,71,"Bruno Arleu de Araujo, Brazil",2020-10-04T00:00:00+00:00,Allianz Parque,Palmeiras,121,Ceara,129,True,2,1,1,1
+328108,71,"Edina Alves Batista, Brazil",2020-10-04T00:00:00+00:00,Estádio Nabi Abi Chedid,Bragantino,794,Corinthians,131,,0,0,0,0
+328106,71,"Anderson Daronco, Brazil",2020-10-04T14:00:00+00:00,Estádio Nilton Santos,Botafogo,120,Fluminense,124,,1,1,0,1
+328105,71,"Rodrigo D'alonso Ferreira, Brazil",2020-10-04T19:00:00+00:00,Estádio do Maracanã,Flamengo,127,Atletico Paranaense,134,True,3,1,0,0
+328112,71,"Wagner do Nascimento Magalhaes, Brazil",2020-10-04T19:00:00+00:00,Estádio Major Antônio Couto Pereira,Coritiba,147,Sao Paulo,126,,1,1,1,0
+328111,71,"Rafael Traci, Brazil",2020-10-04T21:15:00+00:00,Estádio Governador Roberto Santos,Bahia,118,Sport Recife,123,False,1,2,0,1
+328114,71,"Marielson Alves Silva, Brazil",2020-10-04T21:15:00+00:00,Estádio de Hailé Pinheiro,Goias,151,Santos,128,False,2,3,1,1
+328113,71,"Jose Mendonca da Silva Junior, Brazil",2020-10-04T21:15:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Fortaleza EC,154,Atletico Goianiense,144,,0,0,0,0
+328109,71,"Leandro Pedro Vuaden, Brazil",2020-10-04T23:30:00+00:00,Estádio Governador Magalhães Pinto,Atletico-MG,1062,Vasco DA Gama,133,True,4,1,4,1
+328121,71,"Jean Pierre Goncalves Lima, Brazil",2020-10-07T22:15:00+00:00,Estádio Governador Roberto Santos,Bahia,118,Vasco DA Gama,133,True,3,0,3,0
+328115,71,"Caio Max Augusto Vieira, Brazil",2020-10-07T22:15:00+00:00,Estádio do Maracanã,Flamengo,127,Sport Recife,123,True,3,0,0,0
+328120,71,"Ramon Abatti Abel, Brazil",2020-10-07T22:15:00+00:00,Arena do Grêmio,Gremio,130,Coritiba,147,True,2,1,2,0
+328117,71,"Dyorgines Jose Padovani de Andrade, Brazil",2020-10-07T23:30:00+00:00,Morumbí,Sao Paulo,126,Atletico Goianiense,144,True,3,0,1,0
+328124,71,"Luiz Flavio De Oliveira, Brazil",2020-10-07T23:30:00+00:00,Estádio de Hailé Pinheiro,Goias,151,Fluminense,124,False,2,4,1,1
+328119,71,"Marcelo De Lima Henrique, Brazil",2020-10-08T00:00:00+00:00,Neo Química Arena,Corinthians,131,Santos,128,,1,1,1,1
+328116,71,"Rodolpho Toski Marques, Brazil",2020-10-08T00:30:00+00:00,Estádio Nilton Santos,Botafogo,120,Palmeiras,121,True,2,1,0,0
+328123,71,"Savio Pereira Sampaio, Brazil",2020-10-08T00:30:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Fortaleza EC,154,Atletico-MG,1062,True,2,1,1,1
+328122,71,"Wilton Pereira Sampaio, Brazil",2020-10-09T00:00:00+00:00,Arena da Baixada,Atletico Paranaense,134,Ceara,129,,0,0,0,0
+328118,71,"Felipe Fernandes de Lima, Brazil",2020-10-09T00:00:00+00:00,Estádio Nabi Abi Chedid,Bragantino,794,Internacional,119,False,0,2,0,2
+328126,71,"Flavio Rodrigues De Souza, Brazil",2020-10-10T20:00:00+00:00,Estádio Club de Regatas Vasco da Gama,Vasco DA Gama,133,Flamengo,127,False,1,2,1,0
+328127,71,"Leandro Pedro Vuaden, Brazil",2020-10-11T00:00:00+00:00,Allianz Parque,Palmeiras,121,Sao Paulo,126,False,0,2,0,0
+328132,71,"Ricardo Marques Ribeiro, Brazil",2020-10-11T00:00:00+00:00,Estádio Major Antônio Couto Pereira,Coritiba,147,Fortaleza EC,154,,0,0,0,0
+328129,71,"Vinicius Goncalves Dias Araujo, Brazil",2020-10-11T00:00:00+00:00,Estádio Governador Magalhães Pinto,Atletico-MG,1062,Goias,151,True,3,0,2,0
+328125,71,"Jose Mendonca da Silva Junior, Brazil",2020-10-11T19:00:00+00:00,Estádio do Maracanã,Fluminense,124,Bahia,118,True,1,0,0,0
+328128,71,"Braulio Da Silva Machado, Brazil",2020-10-11T19:00:00+00:00,Estádio Urbano Caldeira,Santos,128,Gremio,130,True,2,1,1,0
+328131,71,"Rodrigo D'alonso Ferreira, Brazil",2020-10-11T21:15:00+00:00,Estádio Adelmar da Costa Carvalho,Sport Recife,123,Botafogo,120,False,1,2,0,2
+328134,71,"Heber Roberto Lopes, Brazil",2020-10-11T21:15:00+00:00,Estádio Olímpico Pedro Ludovico Teixeira,Atletico Goianiense,144,Bragantino,794,True,2,1,1,1
+328130,71,"Bruno Arleu de Araujo, Brazil",2020-10-11T23:30:00+00:00,Estádio José Pinheiro Borda,Internacional,119,Atletico Paranaense,134,True,2,1,2,1
+328133,71,"Anderson Daronco, Brazil",2020-10-11T23:30:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Ceara,129,Corinthians,131,True,2,1,1,1
+328085,71,"Paulo Roberto Alves Junior, Brazil",2020-10-13T21:00:00+00:00,Estádio do Maracanã,Flamengo,127,Goias,151,True,2,1,1,1
+328137,71,"Jefferson Ferreira de Moraes, Brazil",2020-10-14T21:00:00+00:00,Allianz Parque,Palmeiras,121,Coritiba,147,False,1,3,1,2
+328140,71,"Luiz Flavio De Oliveira, Brazil",2020-10-14T22:15:00+00:00,Arena do Grêmio,Gremio,130,Botafogo,120,True,3,1,1,1
+328138,71,"Igor Junio Benevenuto, Brazil",2020-10-14T23:30:00+00:00,Estádio Urbano Caldeira,Santos,128,Atletico Goianiense,144,False,0,1,0,0
+328141,71,"Wagner do Nascimento Magalhaes, Brazil",2020-10-15T00:30:00+00:00,Estádio Adelmar da Costa Carvalho,Sport Recife,123,Internacional,119,False,3,5,1,2
+328142,71,"Savio Pereira Sampaio, Brazil",2020-10-15T00:30:00+00:00,Arena da Baixada,Atletico Paranaense,134,Corinthians,131,False,0,1,0,0
+328139,71,"Raphael Claus, Brazil",2020-10-15T00:30:00+00:00,Estádio Governador Magalhães Pinto,Atletico-MG,1062,Fluminense,124,,1,1,0,1
+328135,71,"Daniel Nobre Bins, Brazil",2020-10-15T23:00:00+00:00,Estádio do Maracanã,Flamengo,127,Bragantino,794,,1,1,0,0
+328144,71,"Rodrigo Carvalhaes de Miranda, Brazil",2020-10-16T23:00:00+00:00,Estádio de Hailé Pinheiro,Goias,151,Bahia,118,,1,1,0,0
+328145,71,"Gilberto Rodrigues Castro Junior, Brazil",2020-10-18T00:00:00+00:00,Estádio do Maracanã,Fluminense,124,Ceara,129,,2,2,1,1
+328147,71,"Rafael Traci, Brazil",2020-10-18T00:00:00+00:00,Morumbí,Sao Paulo,126,Gremio,130,,0,0,0,0
+328154,71,"Pablo Ramon Goncalves Pinheiro, Brazil",2020-10-18T00:00:00+00:00,Estádio Olímpico Pedro Ludovico Teixeira,Atletico Goianiense,144,Atletico Paranaense,134,,1,1,1,0
+328152,71,"Bruno Arleu de Araujo, Brazil",2020-10-18T00:00:00+00:00,Estádio Major Antônio Couto Pereira,Coritiba,147,Santos,128,False,1,2,0,2
+328149,71,"Leandro Pedro Vuaden, Brazil",2020-10-18T19:00:00+00:00,Neo Química Arena,Corinthians,131,Flamengo,127,False,1,5,0,1
+328150,71,"Braulio Da Silva Machado, Brazil",2020-10-18T21:15:00+00:00,Estádio José Pinheiro Borda,Internacional,119,Vasco DA Gama,133,True,2,0,2,0
+328153,71,"Marcelo De Lima Henrique, Brazil",2020-10-18T23:30:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Fortaleza EC,154,Palmeiras,121,True,2,0,2,0
+328148,71,"Ricardo Marques Ribeiro, Brazil",2020-10-18T23:30:00+00:00,Estádio Nabi Abi Chedid,Bragantino,794,Sport Recife,123,True,2,0,0,0
+328151,71,"Anderson Daronco, Brazil",2020-10-19T23:00:00+00:00,Estádio Governador Roberto Santos,Bahia,118,Atletico-MG,1062,True,3,1,0,1
+328146,71,"Edina Alves Batista, Brazil",2020-10-19T23:00:00+00:00,Estádio Nilton Santos,Botafogo,120,Goias,151,,0,0,0,0
+328156,71,"Caio Max Augusto Vieira, Brazil",2020-10-22T00:30:00+00:00,Estádio Club de Regatas Vasco da Gama,Vasco DA Gama,133,Corinthians,131,False,1,2,0,1
+328158,71,"Ramon Abatti Abel, Brazil",2020-10-24T20:00:00+00:00,Estádio Nabi Abi Chedid,Bragantino,794,Goias,151,True,2,0,1,0
+328163,71,Felipe Fernandes de Lima,2020-10-25T00:00:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Ceara,129,Coritiba,147,True,2,1,1,1
+328159,71,Paulo Roberto Alves Júnior,2020-10-25T01:00:00+00:00,Estádio Governador Magalhães Pinto,Atletico-MG,1062,Sport Recife,123,,0,0,0,0
+328155,71,"Anderson Daronco, Brazil",2020-10-25T19:00:00+00:00,Estádio do Maracanã,Fluminense,124,Santos,128,True,3,1,1,1
+328164,71,"Savio Pereira Sampaio, Brazil",2020-10-25T19:00:00+00:00,Estádio Olímpico Pedro Ludovico Teixeira,Atletico Goianiense,144,Palmeiras,121,False,0,3,0,1
+328160,71,"Wilton Pereira Sampaio, Brazil",2020-10-25T21:15:00+00:00,Estádio José Pinheiro Borda,Internacional,119,Flamengo,127,,2,2,2,1
+328162,71,"Flavio Rodrigues De Souza, Brazil",2020-10-25T21:15:00+00:00,Arena da Baixada,Atletico Paranaense,134,Gremio,130,False,1,2,1,0
+328166,71,"Diego Pombo Lopez, Brazil",2020-10-31T20:00:00+00:00,Estádio Nilton Santos,Botafogo,120,Ceara,129,,2,2,2,1
+328169,71,"Paulo Roberto Alves Junior, Brazil",2020-10-31T22:00:00+00:00,Neo Química Arena,Corinthians,131,Internacional,119,True,1,0,1,0
+328172,71,"Daniel Nobre Bins, Brazil",2020-10-31T22:00:00+00:00,Estádio Major Antônio Couto Pereira,Coritiba,147,Atletico Goianiense,144,True,1,0,1,0
+328173,71,Marielson Alves Silva,2020-11-01T00:00:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Fortaleza EC,154,Fluminense,124,False,0,1,0,0
+328171,71,"Jefferson Ferreira de Moraes, Brazil",2020-11-01T19:00:00+00:00,Estádio Adelmar da Costa Carvalho,Sport Recife,123,Atletico Paranaense,134,True,1,0,0,0
+328165,71,"Caio Max Augusto Vieira, Brazil",2020-11-01T19:00:00+00:00,Estádio do Maracanã,Flamengo,127,Sao Paulo,126,False,1,4,1,2
+328168,71,"Heber Roberto Lopes, Brazil",2020-11-01T21:15:00+00:00,Estádio Urbano Caldeira,Santos,128,Bahia,118,True,3,1,3,1
+328174,71,"Igor Junio Benevenuto, Brazil",2020-11-01T23:30:00+00:00,Estádio de Hailé Pinheiro,Goias,151,Vasco DA Gama,133,,1,1,0,1
+328167,71,"Braulio Da Silva Machado, Brazil",2020-11-02T20:00:00+00:00,Allianz Parque,Palmeiras,121,Atletico-MG,1062,True,3,0,1,0
+328170,71,"Savio Pereira Sampaio, Brazil",2020-11-02T23:00:00+00:00,Arena do Grêmio,Gremio,130,Bragantino,794,True,2,1,0,0
+328183,71,"Ramon Abatti Abel, Brazil",2020-11-07T21:00:00+00:00,Arena da Baixada,Atletico Paranaense,134,Fortaleza EC,154,True,2,1,0,1
+328184,71,"Gilberto Rodrigues Castro Junior, Brazil",2020-11-07T22:00:00+00:00,Morumbí,Sao Paulo,126,Goias,151,True,2,1,1,1
+328179,71,Jean Pierre Goncalves Lima,2020-11-08T00:00:00+00:00,Estádio Olímpico Pedro Ludovico Teixeira,Atletico Goianiense,144,Corinthians,131,,1,1,1,0
+328182,71,"Dyorgines Jose Padovani de Andrade, Brazil",2020-11-08T19:00:00+00:00,Estádio José Pinheiro Borda,Internacional,119,Coritiba,147,,2,2,1,0
+328177,71,"Anderson Daronco, Brazil",2020-11-08T19:00:00+00:00,Estádio Club de Regatas Vasco da Gama,Vasco DA Gama,133,Palmeiras,121,False,0,1,0,0
+328176,71,"Jefferson Ferreira de Moraes, Brazil",2020-11-08T21:15:00+00:00,Arena Fonte Nova,Bahia,118,Botafogo,120,True,1,0,0,0
+328178,71,"Vinicius Furlan, Brazil",2020-11-08T21:15:00+00:00,Estádio Nabi Abi Chedid,Bragantino,794,Santos,128,,1,1,0,0
+328175,71,"Savio Pereira Sampaio, Brazil",2020-11-08T21:15:00+00:00,Estádio Governador Magalhães Pinto,Atletico-MG,1062,Flamengo,127,True,4,0,2,0
+328180,71,"Edina Alves Batista, Brazil",2020-11-08T23:30:00+00:00,Estádio do Maracanã,Fluminense,124,Gremio,130,False,0,1,0,1
+328181,71,"Ricardo Marques Ribeiro, Brazil",2020-11-08T23:30:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Ceara,129,Sport Recife,123,,0,0,0,0
+328161,71,"Wagner do Nascimento Magalhaes, Brazil",2020-11-11T21:45:00+00:00,Arena Fonte Nova,Bahia,118,Fortaleza EC,154,True,2,1,1,0
+328186,71,"Heber Roberto Lopes, Brazil",2020-11-14T19:30:00+00:00,Estádio Adelmar da Costa Carvalho,Sport Recife,123,Vasco DA Gama,133,False,0,2,0,1
+328190,71,"Savio Pereira Sampaio, Brazil",2020-11-14T19:30:00+00:00,Estádio Urbano Caldeira,Santos,128,Internacional,119,True,2,0,0,0
+328192,71,"Flavio Rodrigues De Souza, Brazil",2020-11-14T20:00:00+00:00,Estádio de Hailé Pinheiro,Goias,151,Atletico Paranaense,134,False,0,1,0,1
+328193,71,"Jose Mendonca da Silva Junior, Brazil",2020-11-14T22:00:00+00:00,Arena do Grêmio,Gremio,130,Ceara,129,True,4,2,3,1
+328189,71,"Rodrigo D'alonso Ferreira, Brazil",2020-11-14T22:00:00+00:00,Neo Química Arena,Corinthians,131,Atletico-MG,1062,False,1,2,1,0
+328187,71,"Marcelo De Lima Henrique, Brazil",2020-11-14T22:00:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Fortaleza EC,154,Sao Paulo,126,False,2,3,1,1
+328185,71,"Leandro Pedro Vuaden, Brazil",2020-11-15T00:30:00+00:00,Allianz Parque,Palmeiras,121,Fluminense,124,True,2,0,0,0
+328194,71,"Rafael Traci, Brazil",2020-11-15T00:30:00+00:00,Estádio do Maracanã,Flamengo,127,Atletico Goianiense,144,,1,1,1,0
+328191,71,"Igor Junio Benevenuto, Brazil",2020-11-16T21:00:00+00:00,Estádio Major Antônio Couto Pereira,Coritiba,147,Bahia,118,False,1,2,1,1
+328188,71,"Rodolpho Toski Marques, Brazil",2020-11-16T23:00:00+00:00,Estádio Nilton Santos,Botafogo,120,Bragantino,794,False,1,2,1,1
+328039,71,"Dyorgines Jose Padovani de Andrade, Brazil",2020-11-18T22:00:00+00:00,Estádio Governador Magalhães Pinto,Atletico-MG,1062,Atletico Paranaense,134,False,0,2,0,2
+328136,71,"Jean Pierre Goncalves Lima, Brazil",2020-11-19T22:00:00+00:00,Estádio Club de Regatas Vasco da Gama,Vasco DA Gama,133,Fortaleza EC,154,,0,0,0,0
+328201,71,"Anderson Daronco, Brazil",2020-11-20T23:00:00+00:00,Estádio Nabi Abi Chedid,Bragantino,794,Bahia,118,True,4,0,3,0
+328202,71,"Ricardo Marques Ribeiro, Brazil",2020-11-21T22:00:00+00:00,Estádio do Maracanã,Flamengo,127,Coritiba,147,True,3,1,2,0
+328198,71,"Marcelo De Lima Henrique, Brazil",2020-11-21T22:00:00+00:00,Arena da Baixada,Atletico Paranaense,134,Santos,128,True,1,0,0,0
+328197,71,Bruno Arleu de Araujo,2020-11-22T00:00:00+00:00,Estádio de Hailé Pinheiro,Goias,151,Palmeiras,121,True,1,0,0,0
+328196,71,"Braulio Da Silva Machado, Brazil",2020-11-22T19:00:00+00:00,Morumbí,Sao Paulo,126,Vasco DA Gama,133,,1,1,1,1
+328199,71,"Raphael Claus, Brazil",2020-11-22T19:00:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Ceara,129,Atletico-MG,1062,,2,2,0,1
+328195,71,"Luiz Flavio De Oliveira, Brazil",2020-11-22T21:15:00+00:00,Estádio José Pinheiro Borda,Internacional,119,Fluminense,124,False,1,2,1,0
+328203,71,"Heber Roberto Lopes, Brazil",2020-11-22T21:15:00+00:00,Estádio Nilton Santos,Botafogo,120,Fortaleza EC,154,False,1,2,0,0
+328200,71,"Caio Max Augusto Vieira, Brazil",2020-11-22T23:30:00+00:00,Neo Química Arena,Corinthians,131,Gremio,130,,0,0,0,0
+328204,71,"Edina Alves Batista, Brazil",2020-11-23T23:00:00+00:00,Estádio Adelmar da Costa Carvalho,Sport Recife,123,Atletico Goianiense,144,False,0,1,0,0
+328143,71,"Wagner do Nascimento Magalhaes, Brazil",2020-11-25T22:15:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Ceara,129,Sao Paulo,126,,1,1,0,1
+328209,71,Leandro Vuaden,2020-11-26T00:30:00+00:00,Estádio Major Antônio Couto Pereira,Coritiba,147,Corinthians,131,False,0,1,0,1
+328206,71,Savio Pereira,2020-11-26T00:30:00+00:00,Estádio Governador Magalhães Pinto,Atletico-MG,1062,Botafogo,120,True,2,1,1,0
+328214,71,"Felipe Fernandes de Lima, Brazil",2020-11-26T23:00:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Fortaleza EC,154,Goias,151,,1,1,0,1
+328212,71,"Anderson Daronco, Brazil",2020-11-28T20:00:00+00:00,Allianz Parque,Palmeiras,121,Atletico Paranaense,134,True,3,0,2,0
+328211,71,"Wilton Pereira Sampaio, Brazil",2020-11-28T20:00:00+00:00,Estádio Urbano Caldeira,Santos,128,Sport Recife,123,True,4,2,2,2
+328207,71,"Leandro Pedro Vuaden, Brazil",2020-11-28T22:00:00+00:00,Arena Fonte Nova,Bahia,118,Sao Paulo,126,False,1,3,0,0
+328210,71,"Ramon Abatti Abel, Brazil",2020-11-29T00:00:00+00:00,Estádio Antônio Accioly,Atletico Goianiense,144,Internacional,119,,0,0,0,0
+328040,71,"Rodrigo D'alonso Ferreira, Brazil",2020-11-30T21:00:00+00:00,Arena do Grêmio,Gremio,130,Goias,151,True,2,1,1,0
+328213,71,"Vinicius Goncalves Dias Araujo, Brazil",2020-11-30T21:00:00+00:00,Estádio Club de Regatas Vasco da Gama,Vasco DA Gama,133,Ceara,129,False,1,4,0,2
+328208,71,Dyorgines José Padovani Andrade,2020-11-30T23:00:00+00:00,Estadio Jornalista Mário Filho,Fluminense,124,Bragantino,794,,0,0,0,0
+328219,71,Braulio da Silva Machado,2020-12-03T00:30:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Fortaleza EC,154,Corinthians,131,,0,0,0,0
+327994,71,"Caio Max Augusto Vieira, Brazil",2020-12-03T22:00:00+00:00,Estádio de Hailé Pinheiro,Goias,151,Sao Paulo,126,False,0,3,0,1
+328215,71,"Anderson Daronco, Brazil",2020-12-05T20:00:00+00:00,Estádio Nilton Santos,Botafogo,120,Flamengo,127,False,0,1,0,0
+328217,71,"Flavio Rodrigues De Souza, Brazil",2020-12-05T20:00:00+00:00,Estádio Urbano Caldeira,Santos,128,Palmeiras,121,,2,2,1,0
+328223,71,"Jean Pierre Goncalves Lima, Brazil",2020-12-05T22:00:00+00:00,Arena Fonte Nova,Bahia,118,Ceara,129,False,0,2,0,0
+328222,71,"Ramon Abatti Abel, Brazil",2020-12-05T22:00:00+00:00,Estádio do Maracanã,Fluminense,124,Atletico Paranaense,134,True,3,1,1,1
+328218,71,Jefferson Ferreira de Moraes,2020-12-06T00:00:00+00:00,Estádio Major Antônio Couto Pereira,Coritiba,147,Bragantino,794,,0,0,0,0
+328221,71,"Felipe Fernandes de Lima, Brazil",2020-12-06T19:00:00+00:00,Morumbí,Sao Paulo,126,Sport Recife,123,True,1,0,1,0
+328216,71,"Raphael Claus, Brazil",2020-12-06T19:00:00+00:00,Arena do Grêmio,Gremio,130,Vasco DA Gama,133,True,4,0,1,0
+328220,71,"Bruno Arleu de Araujo, Brazil",2020-12-06T21:15:00+00:00,Estádio Governador Magalhães Pinto,Atletico-MG,1062,Internacional,119,,2,2,1,1
+328224,71,Marcelo de Lima Henrique,2020-12-07T23:00:00+00:00,Estádio Antônio Accioly,Atletico Goianiense,144,Goias,151,False,0,1,0,1
+328157,71,"Ricardo Marques Ribeiro, Brazil",2020-12-10T00:30:00+00:00,Morumbí,Sao Paulo,126,Botafogo,120,True,4,0,3,0
+328229,71,"Vinicius Goncalves Dias Araujo, Brazil",2020-12-12T20:00:00+00:00,Arena da Baixada,Atletico Paranaense,134,Atletico-MG,1062,False,0,1,0,1
+328233,71,"Heber Roberto Lopes, Brazil",2020-12-12T20:00:00+00:00,Estádio Nabi Abi Chedid,Bragantino,794,Fortaleza EC,154,True,2,1,1,1
+328226,71,"Caio Max Augusto Vieira, Brazil",2020-12-12T22:00:00+00:00,Estádio José Pinheiro Borda,Internacional,119,Botafogo,120,True,2,1,1,1
+328231,71,"Rafael Traci, Brazil",2020-12-12T22:00:00+00:00,Allianz Parque,Palmeiras,121,Bahia,118,True,3,0,3,0
+328234,71,Leandro Vuaden,2020-12-13T00:00:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Ceara,129,Atletico Goianiense,144,False,1,2,0,0
+328230,71,Edina Alves Batista,2020-12-13T00:00:00+00:00,Estádio de Hailé Pinheiro,Goias,151,Gremio,130,,0,0,0,0
+328228,71,"Paulo Roberto Alves Junior, Brazil",2020-12-13T19:00:00+00:00,Estádio do Maracanã,Flamengo,127,Santos,128,True,4,1,1,0
+328232,71,"Marcelo De Lima Henrique, Brazil",2020-12-13T21:15:00+00:00,Estádio Adelmar da Costa Carvalho,Sport Recife,123,Coritiba,147,True,1,0,1,0
+328227,71,"Raphael Claus, Brazil",2020-12-13T21:15:00+00:00,Neo Química Arena,Corinthians,131,Sao Paulo,126,True,1,0,1,0
+328225,71,"Rodolpho Toski Marques, Brazil",2020-12-13T23:30:00+00:00,Estádio Club de Regatas Vasco da Gama,Vasco DA Gama,133,Fluminense,124,,1,1,0,1
+328239,71,"Wilton Pereira Sampaio, Brazil",2020-12-17T00:30:00+00:00,Morumbí,Sao Paulo,126,Atletico-MG,1062,True,3,0,1,0
+328235,71,"Rodrigo D'alonso Ferreira, Brazil",2020-12-17T00:30:00+00:00,Estádio Antônio Accioly,Atletico Goianiense,144,Fluminense,124,True,2,1,1,0
+328240,71,"Jose Mendonca da Silva Junior, Brazil",2020-12-19T22:00:00+00:00,Estádio Adelmar da Costa Carvalho,Sport Recife,123,Gremio,130,,1,1,1,0
+328237,71,Savio Pereira,2020-12-20T00:00:00+00:00,Estádio José Pinheiro Borda,Internacional,119,Palmeiras,121,True,2,0,1,0
+328236,71,Luiz Flavio De Oliveira,2020-12-20T00:00:00+00:00,Estádio Major Antônio Couto Pereira,Coritiba,147,Botafogo,120,False,1,2,1,0
+328238,71,"Ricardo Marques Ribeiro, Brazil",2020-12-20T19:00:00+00:00,Estádio Club de Regatas Vasco da Gama,Vasco DA Gama,133,Santos,128,True,1,0,1,0
+328242,71,"Braulio Da Silva Machado, Brazil",2020-12-20T19:00:00+00:00,Estádio Nabi Abi Chedid,Bragantino,794,Atletico Paranaense,134,False,0,1,0,1
+328241,71,"Flavio Rodrigues De Souza, Brazil",2020-12-20T21:15:00+00:00,Estádio do Maracanã,Flamengo,127,Bahia,118,True,4,3,2,0
+328243,71,"Anderson Daronco, Brazil",2020-12-20T23:30:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Fortaleza EC,154,Ceara,129,False,0,2,0,0
+328244,71,Bruno Arleu de Araujo,2020-12-21T23:00:00+00:00,Neo Química Arena,Corinthians,131,Goias,151,True,2,1,1,1
+328252,71,"Dyorgines Jose Padovani de Andrade, Brazil",2020-12-26T20:00:00+00:00,Estádio Governador Magalhães Pinto,Atletico-MG,1062,Coritiba,147,True,2,0,0,0
+328251,71,"Braulio Da Silva Machado, Brazil",2020-12-26T22:00:00+00:00,Estádio de Hailé Pinheiro,Goias,151,Sport Recife,123,True,1,0,1,0
+328245,71,"Rafael Traci, Brazil",2020-12-26T22:00:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Fortaleza EC,154,Flamengo,127,,0,0,0,0
+328247,71,Anderson Daronco,2020-12-27T00:00:00+00:00,Estadio Jornalista Mário Filho,Fluminense,124,Sao Paulo,126,False,1,2,0,1
+328250,71,"Paulo Roberto Alves Junior, Brazil",2020-12-27T19:00:00+00:00,Arena Fonte Nova,Bahia,118,Internacional,119,False,1,2,0,1
+328249,71,"Heber Roberto Lopes, Brazil",2020-12-27T19:00:00+00:00,Estádio Nilton Santos,Botafogo,120,Corinthians,131,False,0,2,0,1
+328248,71,"Raphael Claus, Brazil",2020-12-27T21:15:00+00:00,Allianz Parque,Palmeiras,121,Bragantino,794,True,1,0,1,0
+328253,71,"Rodolpho Toski Marques, Brazil",2020-12-27T21:15:00+00:00,Estádio Urbano Caldeira,Santos,128,Ceara,129,,1,1,1,1
+328246,71,"Jean Pierre Goncalves Lima, Brazil",2020-12-27T21:15:00+00:00,Arena da Baixada,Atletico Paranaense,134,Vasco DA Gama,133,True,3,0,2,0
+328254,71,"Felipe Fernandes de Lima, Brazil",2020-12-27T23:30:00+00:00,Arena do Grêmio,Gremio,130,Atletico Goianiense,144,True,2,1,1,0
+328262,71,"Rodrigo D'alonso Ferreira, Brazil",2021-01-06T22:15:00+00:00,Estádio Nilton Santos,Botafogo,120,Atletico Paranaense,134,False,0,2,0,1
+328261,71,"Ramon Abatti Abel, Brazil",2021-01-06T22:15:00+00:00,Arena do Grêmio,Gremio,130,Bahia,118,True,2,1,1,0
+328263,71,"Raphael Claus, Brazil",2021-01-06T23:30:00+00:00,Estádio Adelmar da Costa Carvalho,Sport Recife,123,Fortaleza EC,154,True,1,0,1,0
+328264,71,"Wagner do Nascimento Magalhaes, Brazil",2021-01-06T23:30:00+00:00,Estádio Major Antônio Couto Pereira,Coritiba,147,Goias,151,False,1,2,0,2
+328255,71,Leandro Vuaden,2021-01-07T00:30:00+00:00,Estadio Jornalista Mário Filho,Flamengo,127,Fluminense,124,False,1,2,1,0
+328257,71,Luiz Flavio De Oliveira,2021-01-07T00:30:00+00:00,Estádio Nabi Abi Chedid,Bragantino,794,Sao Paulo,126,True,4,2,4,1
+328260,71,"Felipe Fernandes de Lima, Brazil",2021-01-07T22:00:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Ceara,129,Internacional,119,False,0,2,0,0
+328256,71,"Savio Pereira Sampaio, Brazil",2021-01-08T00:00:00+00:00,Estádio Antônio Accioly,Atletico Goianiense,144,Vasco DA Gama,133,,0,0,0,0
+328267,71,"Dyorgines Jose Padovani de Andrade, Brazil",2021-01-09T22:00:00+00:00,Estádio Adelmar da Costa Carvalho,Sport Recife,123,Palmeiras,121,False,0,1,0,1
+328272,71,"Ricardo Marques Ribeiro, Brazil",2021-01-09T22:00:00+00:00,Estádio Major Antônio Couto Pereira,Coritiba,147,Atletico Paranaense,134,,0,0,0,0
+328270,71,Jefferson Ferreira de Moraes,2021-01-10T00:00:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Fortaleza EC,154,Gremio,130,,0,0,0,0
+328268,71,"Braulio Da Silva Machado, Brazil",2021-01-10T19:00:00+00:00,Morumbí,Sao Paulo,126,Santos,128,False,0,1,0,0
+328273,71,"Paulo Roberto Alves Junior, Brazil",2021-01-10T19:00:00+00:00,Estádio do Maracanã,Flamengo,127,Ceara,129,False,0,2,0,1
+328274,71,"Edina Alves Batista, Brazil",2021-01-10T21:15:00+00:00,Estádio José Pinheiro Borda,Internacional,119,Goias,151,True,1,0,1,0
+328271,71,"Anderson Daronco, Brazil",2021-01-10T21:15:00+00:00,Estádio Antônio Accioly,Atletico Goianiense,144,Bahia,118,,1,1,1,0
+328266,71,"Raphael Claus, Brazil",2021-01-10T23:30:00+00:00,Estádio Club de Regatas Vasco da Gama,Vasco DA Gama,133,Botafogo,120,True,3,0,1,0
+328269,71,Caio Max Augusto Vieira,2021-01-11T23:00:00+00:00,Estádio Nabi Abi Chedid,Bragantino,794,Atletico-MG,1062,,2,2,1,0
+328265,71,"Rafael Traci, Brazil",2021-01-14T00:30:00+00:00,Neo Química Arena,Corinthians,131,Fluminense,124,True,5,0,1,0
+328280,71,Bruno Arleu de Araujo,2021-01-16T00:30:00+00:00,Allianz Parque,Palmeiras,121,Gremio,130,,1,1,1,0
+328281,71,"Heber Roberto Lopes, Brazil",2021-01-16T22:00:00+00:00,Estádio Nilton Santos,Fluminense,124,Sport Recife,123,True,1,0,0,0
+328282,71,Flavio Rodrigues De Souza,2021-01-17T00:00:00+00:00,Estádio Club de Regatas Vasco da Gama,Vasco DA Gama,133,Coritiba,147,False,0,1,0,1
+328276,71,"Leandro Pedro Vuaden, Brazil",2021-01-17T19:00:00+00:00,Estádio Urbano Caldeira,Santos,128,Botafogo,120,True,2,1,1,1
+328277,71,"Wilton Pereira Sampaio, Brazil",2021-01-17T19:00:00+00:00,Arena da Baixada,Atletico Paranaense,134,Sao Paulo,126,,1,1,1,0
+328284,71,"Braulio Da Silva Machado, Brazil",2021-01-17T21:15:00+00:00,Estádio Governador Magalhães Pinto,Atletico-MG,1062,Atletico Goianiense,144,True,3,1,2,0
+328283,71,"Rodrigo Dalonso Ferreira, Brazil",2021-01-17T23:30:00+00:00,Estádio José Pinheiro Borda,Internacional,119,Fortaleza EC,154,True,4,2,2,1
+328278,71,"Marcelo De Lima Henrique, Brazil",2021-01-17T23:30:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Ceara,129,Bragantino,794,False,1,2,0,0
+328259,71,"Jean Pierre Goncalves Lima, Brazil",2021-01-18T22:00:00+00:00,Allianz Parque,Palmeiras,121,Corinthians,131,True,4,0,2,0
+328275,71,Rodolpho Toski Marques,2021-01-18T23:00:00+00:00,Estádio de Hailé Pinheiro,Goias,151,Flamengo,127,False,0,3,0,1
+328294,71,"Ramon Abatti Abel, Brazil",2021-01-20T20:00:00+00:00,Estádio Nilton Santos,Botafogo,120,Atletico Goianiense,144,False,1,3,0,0
+328292,71,"Luiz Flavio De Oliveira, Brazil",2021-01-20T21:00:00+00:00,Arena Fonte Nova,Bahia,118,Atletico Paranaense,134,True,1,0,0,0
+328289,71,"Raphael Claus, Brazil",2021-01-20T22:15:00+00:00,Arena do Grêmio,Gremio,130,Atletico-MG,1062,,1,1,0,1
+328285,71,"Felipe Fernandes de Lima, Brazil",2021-01-20T23:30:00+00:00,Estádio Major Antônio Couto Pereira,Coritiba,147,Fluminense,124,,3,3,2,0
+328290,71,Marcelo de Lima Henrique,2021-01-21T00:30:00+00:00,Estádio Cícero Pompeu de Toledo,Sao Paulo,126,Internacional,119,False,1,5,1,2
+328286,71,Leandro Vuaden,2021-01-21T00:30:00+00:00,Estádio Nabi Abi Chedid,Bragantino,794,Vasco DA Gama,133,True,4,1,1,0
+328287,71,"Savio Pereira Sampaio, Brazil",2021-01-21T22:00:00+00:00,Estádio do Maracanã,Flamengo,127,Palmeiras,121,True,2,0,1,0
+328293,71,"Heber Roberto Lopes, Brazil",2021-01-21T22:00:00+00:00,Estádio de Hailé Pinheiro,Goias,151,Ceara,129,False,0,4,0,2
+328288,71,"Ricardo Marques Ribeiro, Brazil",2021-01-21T22:00:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Fortaleza EC,154,Santos,128,True,2,0,0,0
+328291,71,"Anderson Daronco, Brazil",2021-01-22T00:00:00+00:00,Neo Química Arena,Corinthians,131,Sport Recife,123,True,3,0,1,0
+328302,71,"Rodrigo D'alonso Ferreira, Brazil",2021-01-23T22:00:00+00:00,Morumbí,Sao Paulo,126,Coritiba,147,,1,1,0,0
+328299,71,Vinicius Gonçalves Dias Araujo,2021-01-24T00:00:00+00:00,Estádio Club de Regatas Vasco da Gama,Vasco DA Gama,133,Atletico-MG,1062,True,3,2,2,0
+328300,71,"Luiz Flavio De Oliveira, Brazil",2021-01-24T19:00:00+00:00,Estádio José Pinheiro Borda,Internacional,119,Gremio,130,True,2,1,0,0
+328297,71,"Braulio Da Silva Machado, Brazil",2021-01-24T19:00:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Ceara,129,Palmeiras,121,True,2,1,2,1
+328295,71,"Leandro Pedro Vuaden, Brazil",2021-01-24T19:00:00+00:00,Arena da Baixada,Atletico Paranaense,134,Flamengo,127,True,2,1,1,1
+328301,71,"Raphael Claus, Brazil",2021-01-24T21:15:00+00:00,Estádio Adelmar da Costa Carvalho,Sport Recife,123,Bahia,118,True,2,0,0,0
+328304,71,"Wagner do Nascimento Magalhaes, Brazil",2021-01-24T21:15:00+00:00,Estádio Urbano Caldeira,Santos,128,Goias,151,False,3,4,2,0
+328303,71,"Rafael Traci, Brazil",2021-01-24T21:15:00+00:00,Estádio Antônio Accioly,Atletico Goianiense,144,Fortaleza EC,154,True,2,0,1,0
+328296,71,"Edina Alves Batista, Brazil",2021-01-24T23:30:00+00:00,Estádio Club de Regatas Vasco da Gama,Fluminense,124,Botafogo,120,True,2,0,0,0
+328298,71,"Bruno Arleu de Araujo, Brazil",2021-01-25T23:00:00+00:00,Neo Química Arena,Corinthians,131,Bragantino,794,False,0,2,0,2
+327987,71,Anderson Daronco,2021-01-26T23:00:00+00:00,Allianz Parque,Palmeiras,121,Vasco DA Gama,133,,1,1,1,1
+328258,71,Paulo Roberto Alves Júnior,2021-01-26T23:00:00+00:00,Estádio Governador Magalhães Pinto,Atletico-MG,1062,Santos,128,True,2,0,2,0
+328279,71,"Ricardo Marques Ribeiro, Brazil",2021-01-28T22:00:00+00:00,Arena Fonte Nova,Bahia,118,Corinthians,131,True,2,1,2,0
+328205,71,"Rodolpho Toski Marques, Brazil",2021-01-28T23:00:00+00:00,Arena do Grêmio,Gremio,130,Flamengo,127,False,2,4,1,0
+328312,71,"Rodrigo D'alonso Ferreira, Brazil",2021-01-31T19:00:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Ceara,129,Atletico Paranaense,134,False,0,2,0,0
+328311,71,"Wilton Pereira Sampaio, Brazil",2021-01-31T19:00:00+00:00,Estádio Club de Regatas Vasco da Gama,Vasco DA Gama,133,Bahia,118,,0,0,0,0
+328307,71,"Braulio Da Silva Machado, Brazil",2021-01-31T19:00:00+00:00,Estádio Antônio Accioly,Atletico Goianiense,144,Sao Paulo,126,True,2,1,1,1
+328310,71,"Vinicius Goncalves Dias Araujo, Brazil",2021-01-31T19:00:00+00:00,Estádio Major Antônio Couto Pereira,Coritiba,147,Gremio,130,,1,1,0,1
+328313,71,"Leandro Pedro Vuaden, Brazil",2021-01-31T20:00:00+00:00,Estádio Governador Magalhães Pinto,Atletico-MG,1062,Fortaleza EC,154,True,2,0,0,0
+328308,71,"Savio Pereira Sampaio, Brazil",2021-01-31T21:15:00+00:00,Estádio José Pinheiro Borda,Internacional,119,Bragantino,794,True,2,1,1,1
+328314,71,"Raphael Claus, Brazil",2021-01-31T23:30:00+00:00,Estádio Nilton Santos,Fluminense,124,Goias,151,True,3,0,3,0
+328305,71,"Rafael Traci, Brazil",2021-02-01T23:00:00+00:00,Estádio Adelmar da Costa Carvalho,Sport Recife,123,Flamengo,127,False,0,3,0,2
+328306,71,"Felipe Fernandes de Lima, Brazil",2021-02-02T19:00:00+00:00,Allianz Parque,Palmeiras,121,Botafogo,120,,1,1,1,0
+328318,71,"Wilton Pereira Sampaio, Brazil",2021-02-03T19:00:00+00:00,Arena do Grêmio,Gremio,130,Santos,128,,3,3,1,1
+328324,71,"Paulo Roberto Alves Junior, Brazil",2021-02-03T22:15:00+00:00,Estádio Nabi Abi Chedid,Bragantino,794,Atletico Goianiense,144,True,2,0,0,0
+328315,71,Flavio Rodrigues De Souza,2021-02-04T00:30:00+00:00,Arena Fonte Nova,Bahia,118,Fluminense,124,False,0,1,0,1
+328323,71,Heber Lopes,2021-02-04T00:30:00+00:00,Neo Química Arena,Corinthians,131,Ceara,129,True,2,1,2,1
+328319,71,Bruno Arleu de Araujo,2021-02-04T00:30:00+00:00,Estádio de Hailé Pinheiro,Goias,151,Atletico-MG,1062,True,1,0,1,0
+328322,71,"Anderson Daronco, Brazil",2021-02-04T21:30:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Fortaleza EC,154,Coritiba,147,True,3,1,2,1
+328316,71,Raphael Claus,2021-02-05T00:00:00+00:00,Estadio Jornalista Mário Filho,Flamengo,127,Vasco DA Gama,133,True,2,0,1,0
+328320,71,Ricardo Marques Ribeiro,2021-02-05T00:00:00+00:00,Arena da Baixada,Atletico Paranaense,134,Internacional,119,,0,0,0,0
+328321,71,"Luiz Flavio De Oliveira, Brazil",2021-02-05T23:00:00+00:00,Estádio Nilton Santos,Botafogo,120,Sport Recife,123,False,0,1,0,1
+328334,71,"Rafael Traci, Brazil",2021-02-06T22:00:00+00:00,Arena Fonte Nova,Bahia,118,Goias,151,,3,3,2,1
+328328,71,Marcelo de Lima Henrique,2021-02-07T00:00:00+00:00,Estádio Antônio Accioly,Atletico Goianiense,144,Santos,128,,1,1,1,0
+328325,71,"Wilton Pereira Sampaio, Brazil",2021-02-07T23:30:00+00:00,Estádio Nabi Abi Chedid,Bragantino,794,Flamengo,127,,1,1,0,1
+328330,71,"Rodrigo D'alonso Ferreira, Brazil",2021-02-08T23:00:00+00:00,Estádio Nilton Santos,Botafogo,120,Gremio,130,False,2,5,0,2
+328331,71,"Rodolpho Toski Marques, Brazil",2021-02-10T22:00:00+00:00,Estádio José Pinheiro Borda,Internacional,119,Sport Recife,123,False,1,2,1,2
+328326,71,"Braulio Da Silva Machado, Brazil",2021-02-10T22:15:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Fortaleza EC,154,Vasco DA Gama,133,True,3,0,2,0
+328333,71,"Savio Pereira Sampaio, Brazil",2021-02-11T00:00:00+00:00,Morumbí,Sao Paulo,126,Ceara,129,,1,1,0,0
+328329,71,"Luiz Flavio De Oliveira, Brazil",2021-02-11T00:30:00+00:00,Estádio do Maracanã,Fluminense,124,Atletico-MG,1062,,0,0,0,0
+328332,71,"Jean Pierre Goncalves Lima, Brazil",2021-02-11T00:30:00+00:00,Neo Química Arena,Corinthians,131,Atletico Paranaense,134,,3,3,2,2
+328336,71,"Felipe Fernandes de Lima, Brazil",2021-02-13T20:00:00+00:00,Estádio de Hailé Pinheiro,Goias,151,Botafogo,120,True,2,0,1,0
+328342,71,"Bruno Arleu de Araujo, Brazil",2021-02-13T22:00:00+00:00,Estádio Urbano Caldeira,Santos,128,Coritiba,147,True,2,0,1,0
+328341,71,"Raphael Claus, Brazil",2021-02-13T22:00:00+00:00,Estádio Governador Magalhães Pinto,Atletico-MG,1062,Bahia,118,,1,1,1,0
+328339,71,"Rafael Traci, Brazil",2021-02-14T19:00:00+00:00,Estádio do Maracanã,Flamengo,127,Corinthians,131,True,2,1,1,1
+328340,71,"Flavio Rodrigues De Souza, Brazil",2021-02-14T19:00:00+00:00,Estádio Club de Regatas Vasco da Gama,Vasco DA Gama,133,Internacional,119,False,0,2,0,1
+328343,71,"Ricardo Marques Ribeiro, Brazil",2021-02-14T21:15:00+00:00,Allianz Parque,Palmeiras,121,Fortaleza EC,154,True,3,0,3,0
+328344,71,"Wagner do Nascimento Magalhaes, Brazil",2021-02-14T21:15:00+00:00,Arena da Baixada,Atletico Paranaense,134,Atletico Goianiense,144,True,2,1,0,0
+328337,71,"Paulo Roberto Alves Junior, Brazil",2021-02-14T23:30:00+00:00,Arena do Grêmio,Gremio,130,Sao Paulo,126,False,1,2,1,0
+328335,71,"Wilton Pereira Sampaio, Brazil",2021-02-15T21:00:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Ceara,129,Fluminense,124,False,1,3,0,1
+328338,71,"Leandro Pedro Vuaden, Brazil",2021-02-15T23:00:00+00:00,Estádio Adelmar da Costa Carvalho,Sport Recife,123,Bragantino,794,,0,0,0,0
+328309,71,"Vinicius Goncalves Dias Araujo, Brazil",2021-02-17T22:00:00+00:00,Estádio Urbano Caldeira,Santos,128,Corinthians,131,True,1,0,0,0
+328327,71,"Ramon Abatti Abel, Brazil",2021-02-17T22:30:00+00:00,Estádio Major Antônio Couto Pereira,Coritiba,147,Palmeiras,121,True,1,0,0,0
+328317,71,Leandro Vuaden,2021-02-20T00:30:00+00:00,Estádio Cícero Pompeu de Toledo,Sao Paulo,126,Palmeiras,121,,1,1,0,0
+328353,71,"Marcelo De Lima Henrique, Brazil",2021-02-20T21:30:00+00:00,Estádio Major Antônio Couto Pereira,Coritiba,147,Ceara,129,False,0,2,0,0
+328351,71,Luiz Flavio De Oliveira,2021-02-21T00:00:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Fortaleza EC,154,Bahia,118,False,0,4,0,1
+328349,71,"Rodolpho Toski Marques, Brazil",2021-02-21T19:00:00+00:00,Estádio Adelmar da Costa Carvalho,Sport Recife,123,Atletico-MG,1062,False,2,3,1,1
+328350,71,"Raphael Claus, Brazil",2021-02-21T19:00:00+00:00,Estádio do Maracanã,Flamengo,127,Internacional,119,True,2,1,1,1
+328346,71,"Anderson Daronco, Brazil",2021-02-21T19:00:00+00:00,Neo Química Arena,Corinthians,131,Vasco DA Gama,133,,0,0,0,0
+328345,71,"Savio Pereira Sampaio, Brazil",2021-02-21T21:15:00+00:00,Estádio Urbano Caldeira,Santos,128,Fluminense,124,,1,1,0,1
+328352,71,"Ricardo Marques Ribeiro, Brazil",2021-02-21T21:15:00+00:00,Arena do Grêmio,Gremio,130,Atletico Paranaense,134,True,1,0,0,0
+328348,71,"Jean Pierre Goncalves Lima, Brazil",2021-02-21T23:30:00+00:00,Estádio de Hailé Pinheiro,Goias,151,Bragantino,794,,0,0,0,0
+328354,71,"Caio Max Augusto Vieira, Brazil",2021-02-22T21:00:00+00:00,Allianz Parque,Palmeiras,121,Atletico Goianiense,144,,1,1,1,1
+328347,71,"Braulio Da Silva Machado, Brazil",2021-02-22T23:00:00+00:00,Estádio Nilton Santos,Botafogo,120,Sao Paulo,126,True,1,0,0,0
+328358,71,"Paulo Roberto Alves Junior, Brazil",2021-02-26T00:30:00+00:00,Arena Fonte Nova,Bahia,118,Santos,128,True,2,0,1,0
+328359,71,"Wilton Pereira Sampaio, Brazil",2021-02-26T00:30:00+00:00,Estádio José Pinheiro Borda,Internacional,119,Corinthians,131,,0,0,0,0
+328363,71,"Anderson Daronco, Brazil",2021-02-26T00:30:00+00:00,Estádio do Maracanã,Fluminense,124,Fortaleza EC,154,True,2,0,1,0
+328355,71,"Rodolpho Toski Marques, Brazil",2021-02-26T00:30:00+00:00,Morumbí,Sao Paulo,126,Flamengo,127,True,2,1,1,0
+328356,71,"Raphael Claus, Brazil",2021-02-26T00:30:00+00:00,Estádio Governador Plácido Aderaldo Castelo,Ceara,129,Botafogo,120,True,2,1,1,0
+328364,71,"Leandro Pedro Vuaden, Brazil",2021-02-26T00:30:00+00:00,Estádio Club de Regatas Vasco da Gama,Vasco DA Gama,133,Goias,151,True,3,2,1,2
+328361,71,"Flavio Rodrigues De Souza, Brazil",2021-02-26T00:30:00+00:00,Arena da Baixada,Atletico Paranaense,134,Sport Recife,123,True,2,0,1,0
+328362,71,"Edina Alves Batista, Brazil",2021-02-26T00:30:00+00:00,Estádio Antônio Accioly,Atletico Goianiense,144,Coritiba,147,True,3,1,3,0
+328360,71,"Ramon Abatti Abel, Brazil",2021-02-26T00:30:00+00:00,Estádio Nabi Abi Chedid,Bragantino,794,Gremio,130,True,1,0,0,0
+328357,71,"Heber Roberto Lopes, Brazil",2021-02-26T00:30:00+00:00,Estádio Governador Magalhães Pinto,Atletico-MG,1062,Palmeiras,121,True,2,0,0,0
