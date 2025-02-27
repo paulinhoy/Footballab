@@ -1,0 +1,381 @@
+fixture_id,id_league,referee,date,venue.name,home.name,home.id,away.name,away.id,home.winner,home,away,halftime.home,halftime.away
+1037952,140,"Antonio Alberola Rojas, Spain",2023-08-11T17:30:00+00:00,Power Horse Stadium,Almeria,723,Rayo Vallecano,728,False,0,2,0,2
+1037956,140,"Jose Maria Sanchez Martinez, Spain",2023-08-11T20:00:00+00:00,Estadio Ramón Sánchez Pizjuán,Sevilla,536,Valencia,532,False,1,2,0,0
+1037960,140,"Francisco Hernandez Maeso, Spain",2023-08-12T15:00:00+00:00,Reale Arena,Real Sociedad,548,Girona,547,,1,1,1,0
+1037957,140,"Victor Garcia Verdura, Spain",2023-08-12T17:30:00+00:00,Estadio de Gran Canaria,Las Palmas,534,Mallorca,798,,1,1,1,0
+1037953,140,"Jesus Gil Manzano, Spain",2023-08-12T19:30:00+00:00,San Mamés Barria,Athletic Club,531,Real Madrid,541,False,0,2,0,2
+1037955,140,"Pablo Gonzales Fuertes, Spain",2023-08-13T15:00:00+00:00,Estadio Abanca-Balaídos,Celta Vigo,538,Osasuna,727,False,0,2,0,1
+1037959,140,"Miguel Angel Ortiz Arias, Spain",2023-08-13T17:30:00+00:00,Estadio de la Cerámica,Villarreal,533,Real Betis,543,False,1,2,0,1
+1037958,140,"Cesar Soto Grado, Spain",2023-08-13T19:30:00+00:00,Estadio Coliseum,Getafe,546,Barcelona,529,,0,0,0,0
+1037961,140,"Isidro Diaz de Mera Escuderos, Spain",2023-08-14T17:30:00+00:00,Estadio Nuevo Mirandilla,Cadiz,724,Alaves,542,True,1,0,1,0
+1037954,140,"Juan Luis Pulido Santana, Spain",2023-08-14T19:30:00+00:00,Estádio Cívitas Metropolitano,Atletico Madrid,530,Granada CF,715,True,3,1,1,0
+1037964,140,"Javier Alberola Rojas, Spain",2023-08-18T17:30:00+00:00,Estadi Mallorca Son Moix,Mallorca,798,Villarreal,533,False,0,1,0,0
+1037971,140,"Javier Iglesias Villanueva, Spain",2023-08-18T19:30:00+00:00,Estadio de Mestalla,Valencia,532,Las Palmas,534,True,1,0,0,0
+1037969,140,"Miguel Angel Ortiz Arias, Spain",2023-08-19T15:00:00+00:00,Reale Arena,Real Sociedad,548,Celta Vigo,538,,1,1,1,0
+1037962,140,"Jose Maria Sanchez Martinez, Spain",2023-08-19T17:30:00+00:00,Power Horse Stadium,Almeria,723,Real Madrid,541,False,1,3,1,1
+1037967,140,"José Luis Munuera Montero, Spain",2023-08-19T19:30:00+00:00,Estadio El Sadar,Osasuna,727,Athletic Club,531,False,0,2,0,2
+1037970,140,"Jorge Figueroa Vazquez, Spain",2023-08-20T17:00:00+00:00,Estadi Municipal de Montilivi,Girona,547,Getafe,546,True,3,0,1,0
+1037963,140,"Alejandro Muniz Ruiz, Spain",2023-08-20T17:30:00+00:00,Estadi Olímpic Lluís Companys,Barcelona,529,Cadiz,724,True,2,0,0,0
+1037968,140,"Ricardo De Burgos Bengoetxea, Spain",2023-08-20T19:30:00+00:00,Estadio Benito Villamarín,Real Betis,543,Atletico Madrid,530,,0,0,0,0
+1037966,140,"Guillermo Cuadra Fernandez, Spain",2023-08-21T17:00:00+00:00,Estadio de Mendizorroza,Alaves,542,Sevilla,536,True,4,3,2,2
+1037965,140,"Pablo Gonzales Fuertes, Spain",2023-08-21T19:30:00+00:00,Estadio Nuevo Los Cármenes,Granada CF,715,Rayo Vallecano,728,False,0,2,0,0
+1037975,140,"Guillermo Cuadra Fernandez, Spain",2023-08-25T17:30:00+00:00,Estadio de Gran Canaria,Las Palmas,534,Real Sociedad,548,,0,0,0,0
+1037973,140,"Isidro Diaz de Mera Escuderos, Spain",2023-08-25T19:30:00+00:00,Estadio Abanca-Balaídos,Celta Vigo,538,Real Madrid,541,False,0,1,0,0
+1037976,140,"Victor Garcia Verdura, Spain",2023-08-26T17:00:00+00:00,Estadio Nuevo Mirandilla,Cadiz,724,Almeria,723,,1,1,0,0
+1037974,140,"Francisco Hernandez Maeso, Spain",2023-08-26T17:30:00+00:00,Estadio Nuevo Los Cármenes,Granada CF,715,Mallorca,798,True,3,2,1,1
+1037979,140,"Jesus Gil Manzano, Spain",2023-08-26T19:30:00+00:00,Estadio Ramón Sánchez Pizjuán,Sevilla,536,Girona,547,False,1,2,1,1
+1037978,140,"Alejandro Hernandez, Spain",2023-08-27T15:30:00+00:00,Estadio de la Cerámica,Villarreal,533,Barcelona,529,False,3,4,2,2
+1037980,140,"Juan Luis Pulido Santana, Spain",2023-08-27T17:30:00+00:00,Estadio de Mestalla,Valencia,532,Osasuna,727,False,1,2,0,1
+1037972,140,"Cesar Soto Grado, Spain",2023-08-27T19:30:00+00:00,San Mamés Barria,Athletic Club,531,Real Betis,543,True,4,2,3,2
+1037981,140,"Juan Martinez Munuera, Spain",2023-08-28T17:30:00+00:00,Estadio Coliseum,Getafe,546,Alaves,542,True,1,0,0,0
+1037977,140,"José Luis Munuera Montero, Spain",2023-08-28T19:30:00+00:00,Estadio de Vallecas,Rayo Vallecano,728,Atletico Madrid,530,False,0,7,0,3
+1037985,140,"Juan Luis Pulido Santana, Spain",2023-09-01T17:30:00+00:00,Estadio Nuevo Mirandilla,Cadiz,724,Villarreal,533,True,3,1,2,1
+1037982,140,"Ricardo De Burgos Bengoetxea, Spain",2023-09-01T20:00:00+00:00,Power Horse Stadium,Almeria,723,Celta Vigo,538,False,2,3,0,2
+1037991,140,"Javier Iglesias Villanueva, Spain",2023-09-02T12:00:00+00:00,Reale Arena,Real Sociedad,548,Granada CF,715,True,5,3,2,1
+1037990,140,"Mario Melero Lopez, Spain",2023-09-02T14:15:00+00:00,Estadio Santiago Bernabéu,Real Madrid,541,Getafe,546,True,2,1,0,1
+1037987,140,"Pablo Gonzales Fuertes, Spain",2023-09-02T16:30:00+00:00,Estadio de Mendizorroza,Alaves,542,Valencia,532,True,1,0,1,0
+1037984,140,"Alejandro Muniz Ruiz, Spain",2023-09-02T19:00:00+00:00,Estadio Benito Villamarín,Real Betis,543,Rayo Vallecano,728,True,1,0,0,0
+1037986,140,"Mateo Busquets Ferrer, Spain",2023-09-03T12:00:00+00:00,Estadi Municipal de Montilivi,Girona,547,Las Palmas,534,True,1,0,0,0
+1037988,140,"Jorge Figueroa Vazquez, Spain",2023-09-03T14:15:00+00:00,Estadi Mallorca Son Moix,Mallorca,798,Athletic Club,531,,0,0,0,0
+1037989,140,"Miguel Angel Ortiz Arias, Spain",2023-09-03T19:00:00+00:00,Estadio El Sadar,Osasuna,727,Barcelona,529,False,1,2,0,1
+1038001,140,"Victor Garcia Verdura, Spain",2023-09-15T19:00:00+00:00,Estadio de Vallecas,Rayo Vallecano,728,Alaves,542,True,2,0,1,0
+1037992,140,"Guillermo Cuadra Fernandez, Spain",2023-09-16T12:00:00+00:00,San Mamés Barria,Athletic Club,531,Cadiz,724,True,3,0,0,0
+1037998,140,"Jesus Gil Manzano, Spain",2023-09-16T14:15:00+00:00,Estadio de Mestalla,Valencia,532,Atletico Madrid,530,True,3,0,2,0
+1037994,140,"José Luis Munuera Montero, Spain",2023-09-16T16:30:00+00:00,Estadio Abanca-Balaídos,Celta Vigo,538,Mallorca,798,False,0,1,0,0
+1037993,140,"Jose Maria Sanchez Martinez, Spain",2023-09-16T19:00:00+00:00,Estadi Olímpic Lluís Companys,Barcelona,529,Real Betis,543,True,5,0,2,0
+1037995,140,"Alejandro Hernandez, Spain",2023-09-17T12:00:00+00:00,Estadio Coliseum,Getafe,546,Osasuna,727,True,3,2,1,1
+1037997,140,"Francisco Hernandez Maeso, Spain",2023-09-17T14:15:00+00:00,Estadio de la Cerámica,Villarreal,533,Almeria,723,True,2,1,1,1
+1038000,140,"Juan Martinez Munuera, Spain",2023-09-17T16:30:00+00:00,Estadio Ramón Sánchez Pizjuán,Sevilla,536,Las Palmas,534,True,1,0,0,0
+1037996,140,"Cesar Soto Grado, Spain",2023-09-17T19:00:00+00:00,Estadio Santiago Bernabéu,Real Madrid,541,Real Sociedad,548,True,2,1,0,1
+1037999,140,"Isidro Diaz de Mera Escuderos, Spain",2023-09-18T19:00:00+00:00,Estadio Nuevo Los Cármenes,Granada CF,715,Girona,547,False,2,4,0,3
+1038009,140,"Alejandro Muniz Ruiz, Spain",2023-09-22T19:00:00+00:00,Estadio de Mendizorroza,Alaves,542,Athletic Club,531,False,0,2,0,1
+1038006,140,"Pablo Gonzales Fuertes, Spain",2023-09-23T12:00:00+00:00,Estadi Municipal de Montilivi,Girona,547,Mallorca,798,True,5,3,4,1
+1038007,140,"Javier Iglesias Villanueva, Spain",2023-09-23T14:15:00+00:00,Estadio El Sadar,Osasuna,727,Sevilla,536,,0,0,0,0
+1038004,140,"Mario Melero Lopez, Spain",2023-09-23T16:30:00+00:00,Estadi Olímpic Lluís Companys,Barcelona,529,Celta Vigo,538,True,3,2,0,1
+1038002,140,"Mateo Busquets Ferrer, Spain",2023-09-23T19:00:00+00:00,Power Horse Stadium,Almeria,723,Valencia,532,,2,2,0,1
+1038010,140,"Juan Luis Pulido Santana, Spain",2023-09-24T12:00:00+00:00,Reale Arena,Real Sociedad,548,Getafe,546,True,4,3,1,2
+1038008,140,"Jorge Figueroa Vazquez, Spain",2023-09-24T14:15:00+00:00,Estadio de Vallecas,Rayo Vallecano,728,Villarreal,533,,1,1,1,1
+1038011,140,"Ricardo De Burgos Bengoetxea, Spain",2023-09-24T16:30:00+00:00,Estadio de Gran Canaria,Las Palmas,534,Granada CF,715,True,1,0,0,0
+1038005,140,"Miguel Angel Ortiz Arias, Spain",2023-09-24T16:30:00+00:00,Estadio Benito Villamarín,Real Betis,543,Cadiz,724,,1,1,0,1
+1038003,140,"Javier Alberola Rojas, Spain",2023-09-24T19:00:00+00:00,Estádio Cívitas Metropolitano,Atletico Madrid,530,Real Madrid,541,True,3,1,2,1
+1038014,140,"Guillermo Cuadra Fernandez, Spain",2023-09-26T17:00:00+00:00,Estadio Ramón Sánchez Pizjuán,Sevilla,536,Almeria,723,True,5,1,3,0
+1038016,140,"Alejandro Ruiz Aguilera, Spain",2023-09-26T19:30:00+00:00,Estadi Mallorca Son Moix,Mallorca,798,Barcelona,529,,2,2,2,1
+1038012,140,"Isidro Diaz de Mera Escuderos, Spain",2023-09-27T17:00:00+00:00,San Mamés Barria,Athletic Club,531,Getafe,546,,2,2,1,0
+1038018,140,"Jose Maria Sanchez Martinez, Spain",2023-09-27T17:00:00+00:00,Estadio de la Cerámica,Villarreal,533,Girona,547,False,1,2,0,0
+1038020,140,"José Luis Munuera Montero, Spain",2023-09-27T17:00:00+00:00,Estadio Santiago Bernabéu,Real Madrid,541,Las Palmas,534,True,2,0,1,0
+1038019,140,"Alejandro Hernandez, Spain",2023-09-27T19:30:00+00:00,Estadio de Mestalla,Valencia,532,Real Sociedad,548,False,0,1,0,1
+1038013,140,"Francisco Hernandez Maeso, Spain",2023-09-27T19:30:00+00:00,Estadio Nuevo Mirandilla,Cadiz,724,Rayo Vallecano,728,,0,0,0,0
+1038021,140,"Cesar Soto Grado, Spain",2023-09-28T17:00:00+00:00,Estadio Abanca-Balaídos,Celta Vigo,538,Alaves,542,,1,1,1,0
+1038017,140,"Victor Garcia Verdura, Spain",2023-09-28T17:00:00+00:00,Estadio Nuevo Los Cármenes,Granada CF,715,Real Betis,543,,1,1,0,0
+1038015,140,"Juan Martinez Munuera, Spain",2023-09-28T19:30:00+00:00,Estadio El Sadar,Osasuna,727,Atletico Madrid,530,False,0,2,0,1
+1038024,140,"Miguel Angel Ortiz Arias, Spain",2023-09-29T19:00:00+00:00,Estadi Olímpic Lluís Companys,Barcelona,529,Sevilla,536,True,1,0,0,0
+1038026,140,"Mateo Busquets Ferrer, Spain",2023-09-30T12:00:00+00:00,Estadio Coliseum,Getafe,546,Villarreal,533,,0,0,0,0
+1038031,140,"Mario Melero Lopez, Spain",2023-09-30T14:15:00+00:00,Estadio de Vallecas,Rayo Vallecano,728,Mallorca,798,,2,2,1,1
+1038027,140,"Juan Luis Pulido Santana, Spain",2023-09-30T16:30:00+00:00,Estadi Municipal de Montilivi,Girona,547,Real Madrid,541,False,0,3,0,2
+1038029,140,"Jesus Gil Manzano, Spain",2023-09-30T19:00:00+00:00,Reale Arena,Real Sociedad,548,Athletic Club,531,True,3,0,1,0
+1038022,140,"Pablo Gonzales Fuertes, Spain",2023-10-01T12:00:00+00:00,Power Horse Stadium,Almeria,723,Granada CF,715,,3,3,3,0
+1038028,140,"Jorge Figueroa Vazquez, Spain",2023-10-01T14:15:00+00:00,Estadio de Mendizorroza,Alaves,542,Osasuna,727,False,0,2,0,1
+1038023,140,"Javier Iglesias Villanueva, Spain",2023-10-01T19:00:00+00:00,Estádio Cívitas Metropolitano,Atletico Madrid,530,Cadiz,724,True,3,2,1,2
+1038025,140,"Ricardo De Burgos Bengoetxea, Spain",2023-10-01T19:00:00+00:00,Estadio Benito Villamarín,Real Betis,543,Valencia,532,True,3,0,1,0
+1038030,140,"Javier Alberola Rojas, Spain",2023-10-02T19:00:00+00:00,Estadio de Gran Canaria,Las Palmas,534,Celta Vigo,538,True,2,1,0,0
+1038037,140,"Victor Garcia Verdura, Spain",2023-10-06T19:00:00+00:00,San Mamés Barria,Athletic Club,531,Almeria,723,True,3,0,1,0
+1038033,140,"Juan Martinez Munuera, Spain",2023-10-07T12:00:00+00:00,Estadio Nuevo Mirandilla,Cadiz,724,Girona,547,False,0,1,0,0
+1038039,140,"Guillermo Cuadra Fernandez, Spain",2023-10-07T14:15:00+00:00,Estadio Santiago Bernabéu,Real Madrid,541,Osasuna,727,True,4,0,1,0
+1038035,140,"Francisco Hernandez Maeso, Spain",2023-10-07T16:30:00+00:00,Estadi Mallorca Son Moix,Mallorca,798,Valencia,532,,1,1,1,1
+1038040,140,"Isidro Diaz de Mera Escuderos, Spain",2023-10-07T19:00:00+00:00,Estadio Ramón Sánchez Pizjuán,Sevilla,536,Rayo Vallecano,728,,2,2,0,2
+1038041,140,"Alejandro Muniz Ruiz, Spain",2023-10-08T12:00:00+00:00,Estadio de la Cerámica,Villarreal,533,Las Palmas,534,False,1,2,0,1
+1038032,140,"José Luis Munuera Montero, Spain",2023-10-08T14:15:00+00:00,Estádio Cívitas Metropolitano,Atletico Madrid,530,Real Sociedad,548,True,2,1,1,0
+1038034,140,"Jose Maria Sanchez Martinez, Spain",2023-10-08T16:30:00+00:00,Estadio Abanca-Balaídos,Celta Vigo,538,Getafe,546,,2,2,2,2
+1038036,140,"Alejandro Hernandez, Spain",2023-10-08T16:30:00+00:00,Estadio de Mendizorroza,Alaves,542,Real Betis,543,,1,1,1,1
+1038038,140,"Cesar Soto Grado, Spain",2023-10-08T19:00:00+00:00,Estadio Nuevo Los Cármenes,Granada CF,715,Barcelona,529,,2,2,2,1
+1038050,140,"Mateo Busquets Ferrer, Spain",2023-10-20T19:00:00+00:00,Estadio El Sadar,Osasuna,727,Granada CF,715,True,2,0,1,0
+1038048,140,"Jorge Figueroa Vazquez, Spain",2023-10-21T12:00:00+00:00,Reale Arena,Real Sociedad,548,Mallorca,798,True,1,0,0,0
+1038046,140,"Cesar Soto Grado, Spain",2023-10-21T14:15:00+00:00,Estadio Coliseum,Getafe,546,Real Betis,543,,1,1,1,1
+1038049,140,"Ricardo De Burgos Bengoetxea, Spain",2023-10-21T16:30:00+00:00,Estadio Ramón Sánchez Pizjuán,Sevilla,536,Real Madrid,541,,1,1,0,0
+1038045,140,"Guillermo Cuadra Fernandez, Spain",2023-10-21T19:00:00+00:00,Estadio Abanca-Balaídos,Celta Vigo,538,Atletico Madrid,530,False,0,3,0,1
+1038042,140,"Javier Iglesias Villanueva, Spain",2023-10-22T12:00:00+00:00,Estadio de Gran Canaria,Las Palmas,534,Rayo Vallecano,728,False,0,1,0,0
+1038043,140,"Miguel Angel Ortiz Arias, Spain",2023-10-22T14:15:00+00:00,Estadi Municipal de Montilivi,Girona,547,Almeria,723,True,5,2,3,2
+1038051,140,"Jesus Gil Manzano, Spain",2023-10-22T16:30:00+00:00,Estadio de la Cerámica,Villarreal,533,Alaves,542,,1,1,0,0
+1038044,140,"Juan Martinez Munuera, Spain",2023-10-22T19:00:00+00:00,Estadi Olímpic Lluís Companys,Barcelona,529,Athletic Club,531,True,1,0,0,0
+1038047,140,"Pablo Gonzales Fuertes, Spain",2023-10-23T19:00:00+00:00,Estadio de Mestalla,Valencia,532,Cadiz,724,True,2,0,2,0
+1038059,140,"Isidro Diaz de Mera Escuderos, Spain",2023-10-27T19:00:00+00:00,Estadi Municipal de Montilivi,Girona,547,Celta Vigo,538,True,1,0,0,0
+1038052,140,"Francisco Hernandez Maeso, Spain",2023-10-28T12:00:00+00:00,Power Horse Stadium,Almeria,723,Las Palmas,534,False,1,2,0,1
+1038054,140,"Jesus Gil Manzano, Spain",2023-10-28T14:15:00+00:00,Estadi Olímpic Lluís Companys,Barcelona,529,Real Madrid,541,False,1,2,1,0
+1038060,140,"Pablo Gonzales Fuertes, Spain",2023-10-28T16:30:00+00:00,Estadi Mallorca Son Moix,Mallorca,798,Getafe,546,,0,0,0,0
+1038056,140,"Cesar Soto Grado, Spain",2023-10-28T19:00:00+00:00,Estadio Nuevo Mirandilla,Cadiz,724,Sevilla,536,,2,2,2,1
+1038055,140,"Jose Maria Sanchez Martinez, Spain",2023-10-29T13:00:00+00:00,Estadio Benito Villamarín,Real Betis,543,Osasuna,727,True,2,1,1,0
+1038057,140,"Mateo Busquets Ferrer, Spain",2023-10-29T15:15:00+00:00,Estadio de Vallecas,Rayo Vallecano,728,Real Sociedad,548,,2,2,1,1
+1038053,140,"Jorge Figueroa Vazquez, Spain",2023-10-29T17:30:00+00:00,San Mamés Barria,Athletic Club,531,Valencia,532,,2,2,1,0
+1038061,140,"Alejandro Muniz Ruiz, Spain",2023-10-29T20:00:00+00:00,Estádio Cívitas Metropolitano,Atletico Madrid,530,Alaves,542,True,2,1,2,0
+1038058,140,"Javier Iglesias Villanueva, Spain",2023-10-30T20:00:00+00:00,Estadio Nuevo Los Cármenes,Granada CF,715,Villarreal,533,False,2,3,2,3
+1038066,140,"Mario Melero Lopez, Spain",2023-11-03T20:00:00+00:00,Estadio de Gran Canaria,Las Palmas,534,Atletico Madrid,530,True,2,1,0,0
+1038069,140,"José Luis Munuera Montero, Spain",2023-11-04T13:00:00+00:00,Estadio El Sadar,Osasuna,727,Girona,547,False,2,4,1,1
+1038062,140,"Miguel Angel Ortiz Arias, Spain",2023-11-04T15:15:00+00:00,Estadio Benito Villamarín,Real Betis,543,Mallorca,798,True,2,0,1,0
+1038063,140,"Alejandro Hernandez, Spain",2023-11-04T17:30:00+00:00,Estadio Abanca-Balaídos,Celta Vigo,538,Sevilla,536,,1,1,1,0
+1038067,140,"Javier Alberola Rojas, Spain",2023-11-04T20:00:00+00:00,Reale Arena,Real Sociedad,548,Barcelona,529,False,0,1,0,0
+1038064,140,"Juan Luis Pulido Santana, Spain",2023-11-05T13:00:00+00:00,Estadio de Mendizorroza,Alaves,542,Almeria,723,True,1,0,0,0
+1038071,140,"Victor Garcia Verdura, Spain",2023-11-05T15:15:00+00:00,Estadio de Mestalla,Valencia,532,Granada CF,715,True,1,0,1,0
+1038065,140,"Guillermo Cuadra Fernandez, Spain",2023-11-05T17:30:00+00:00,Estadio de la Cerámica,Villarreal,533,Athletic Club,531,False,2,3,0,3
+1038070,140,"Juan Martinez Munuera, Spain",2023-11-05T20:00:00+00:00,Estadio Santiago Bernabéu,Real Madrid,541,Rayo Vallecano,728,,0,0,0,0
+1038068,140,"Ricardo De Burgos Bengoetxea, Spain",2023-11-06T20:00:00+00:00,Estadio Coliseum,Getafe,546,Cadiz,724,True,1,0,0,0
+1038073,140,"Juan Luis Pulido Santana, Spain",2023-11-10T20:00:00+00:00,San Mamés Barria,Athletic Club,531,Celta Vigo,538,True,4,3,2,2
+1038079,140,"Pablo Gonzales Fuertes, Spain",2023-11-11T13:00:00+00:00,Estadio de Vallecas,Rayo Vallecano,728,Girona,547,False,1,2,1,1
+1038072,140,"Isidro Diaz de Mera Escuderos, Spain",2023-11-11T15:15:00+00:00,Power Horse Stadium,Almeria,723,Real Sociedad,548,False,1,3,0,0
+1038078,140,"Alejandro Muniz Ruiz, Spain",2023-11-11T17:30:00+00:00,Estadio Nuevo Los Cármenes,Granada CF,715,Getafe,546,,1,1,1,1
+1038080,140,"Jorge Figueroa Vazquez, Spain",2023-11-11T17:30:00+00:00,Estadio El Sadar,Osasuna,727,Las Palmas,534,,1,1,0,0
+1038075,140,"Jose Maria Sanchez Martinez, Spain",2023-11-11T20:00:00+00:00,Estadio Santiago Bernabéu,Real Madrid,541,Valencia,532,True,5,1,2,0
+1038081,140,"Mateo Busquets Ferrer, Spain",2023-11-12T15:15:00+00:00,Estadi Olímpic Lluís Companys,Barcelona,529,Alaves,542,True,2,1,0,1
+1038076,140,"Jesus Gil Manzano, Spain",2023-11-12T17:30:00+00:00,Estadio Ramón Sánchez Pizjuán,Sevilla,536,Real Betis,543,,1,1,0,0
+1038074,140,"Francisco Hernandez Maeso, Spain",2023-11-12T20:00:00+00:00,Estádio Cívitas Metropolitano,Atletico Madrid,530,Villarreal,533,True,3,1,1,1
+1038086,140,"Javier Alberola Rojas, Spain",2023-11-24T20:00:00+00:00,Estadio de Mendizorroza,Alaves,542,Granada CF,715,True,3,1,2,0
+1038089,140,"José Luis Munuera Montero, Spain",2023-11-25T13:00:00+00:00,Estadio de Vallecas,Rayo Vallecano,728,Barcelona,529,,1,1,1,0
+1038090,140,"Cesar Soto Grado, Spain",2023-11-25T15:15:00+00:00,Estadio de Mestalla,Valencia,532,Celta Vigo,538,,0,0,0,0
+1038087,140,"Alejandro Hernandez, Spain",2023-11-25T17:30:00+00:00,Estadio Coliseum,Getafe,546,Almeria,723,True,2,1,2,1
+1038082,140,"Juan Martinez Munuera, Spain",2023-11-25T20:00:00+00:00,Estádio Cívitas Metropolitano,Atletico Madrid,530,Mallorca,798,True,1,0,0,0
+1038091,140,"Ricardo De Burgos Bengoetxea, Spain",2023-11-26T13:00:00+00:00,Estadio de la Cerámica,Villarreal,533,Osasuna,727,True,3,1,0,0
+1038085,140,"Miguel Angel Ortiz Arias, Spain",2023-11-26T15:15:00+00:00,Reale Arena,Real Sociedad,548,Sevilla,536,True,2,1,2,0
+1038084,140,"Guillermo Cuadra Fernandez, Spain",2023-11-26T17:30:00+00:00,Estadio Nuevo Mirandilla,Cadiz,724,Real Madrid,541,False,0,3,0,1
+1038083,140,"Victor Garcia Verdura, Spain",2023-11-26T20:00:00+00:00,Estadio Benito Villamarín,Real Betis,543,Las Palmas,534,True,1,0,1,0
+1038088,140,"Mario Melero Lopez, Spain",2023-11-27T20:00:00+00:00,Estadi Municipal de Montilivi,Girona,547,Athletic Club,531,,1,1,0,0
+1038077,140,"Javier Iglesias Villanueva, Spain",2023-11-29T20:00:00+00:00,Estadi Mallorca Son Moix,Mallorca,798,Cadiz,724,,1,1,1,1
+1038099,140,"Mateo Busquets Ferrer, Spain",2023-12-01T20:00:00+00:00,Estadio de Gran Canaria,Las Palmas,534,Getafe,546,True,2,0,1,0
+1038094,140,"Ignacio Iglesias Villanueva, Spain",2023-12-02T13:00:00+00:00,Estadi Municipal de Montilivi,Girona,547,Valencia,532,True,2,1,0,0
+1038093,140,"Alejandro Hernandez, Spain",2023-12-02T15:15:00+00:00,San Mamés Barria,Athletic Club,531,Rayo Vallecano,728,True,4,0,1,0
+1038100,140,"Pablo Gonzales Fuertes, Spain",2023-12-02T17:30:00+00:00,Estadio Santiago Bernabéu,Real Madrid,541,Granada CF,715,True,2,0,1,0
+1038095,140,"Juan Luis Pulido Santana, Spain",2023-12-02T20:00:00+00:00,Estadio El Sadar,Osasuna,727,Real Sociedad,548,,1,1,1,1
+1038101,140,"Jorge Figueroa Vazquez, Spain",2023-12-03T13:00:00+00:00,Estadi Mallorca Son Moix,Mallorca,798,Alaves,542,,0,0,0,0
+1038092,140,"Alejandro Muniz Ruiz, Spain",2023-12-03T15:15:00+00:00,Power Horse Stadium,Almeria,723,Real Betis,543,,0,0,0,0
+1038096,140,"Isidro Diaz de Mera Escuderos, Spain",2023-12-03T17:30:00+00:00,Estadio Ramón Sánchez Pizjuán,Sevilla,536,Villarreal,533,,1,1,0,0
+1038097,140,"Jose Maria Sanchez Martinez, Spain",2023-12-03T20:00:00+00:00,Estadi Olímpic Lluís Companys,Barcelona,529,Atletico Madrid,530,True,1,0,1,0
+1038098,140,"Jesus Gil Manzano, Spain",2023-12-04T20:00:00+00:00,Estadio Abanca-Balaídos,Celta Vigo,538,Cadiz,724,,1,1,0,1
+1038105,140,"Guillermo Cuadra Fernandez, Spain",2023-12-08T20:00:00+00:00,Estadio Coliseum,Getafe,546,Valencia,532,True,1,0,0,0
+1038107,140,"José Luis Munuera Montero, Spain",2023-12-09T13:00:00+00:00,Estadio de Mendizorroza,Alaves,542,Las Palmas,534,False,0,1,0,1
+1038103,140,"Cesar Soto Grado, Spain",2023-12-09T15:15:00+00:00,Estadio Benito Villamarín,Real Betis,543,Real Madrid,541,,1,1,0,0
+1038111,140,"Mario Melero Lopez, Spain",2023-12-09T17:30:00+00:00,Estadio de la Cerámica,Villarreal,533,Real Sociedad,548,False,0,3,0,3
+1038106,140,"Javier Alberola Rojas, Spain",2023-12-09T20:00:00+00:00,Estadi Mallorca Son Moix,Mallorca,798,Sevilla,536,True,1,0,1,0
+1038108,140,"Ricardo De Burgos Bengoetxea, Spain",2023-12-10T13:00:00+00:00,Estádio Cívitas Metropolitano,Atletico Madrid,530,Almeria,723,True,2,1,2,0
+1038104,140,"Juan Martinez Munuera, Spain",2023-12-10T17:30:00+00:00,Estadio Nuevo Mirandilla,Cadiz,724,Osasuna,727,,1,1,1,0
+1038102,140,"Isidro Diaz de Mera Escuderos, Spain",2023-12-10T20:00:00+00:00,Estadi Olímpic Lluís Companys,Barcelona,529,Girona,547,False,2,4,1,2
+1038109,140,"Miguel Angel Ortiz Arias, Spain",2023-12-11T15:15:00+00:00,Estadio Nuevo Los Cármenes,Granada CF,715,Athletic Club,531,,1,1,0,1
+1038110,140,"Victor Garcia Verdura, Spain",2023-12-11T20:00:00+00:00,Estadio de Vallecas,Rayo Vallecano,728,Celta Vigo,538,,0,0,0,0
+1038115,140,"Javier Iglesias Villanueva, Spain",2023-12-15T20:00:00+00:00,Estadio El Sadar,Osasuna,727,Rayo Vallecano,728,True,1,0,0,0
+1038114,140,"Jose Maria Sanchez Martinez, Spain",2023-12-16T13:00:00+00:00,Estadio Abanca-Balaídos,Celta Vigo,538,Granada CF,715,True,1,0,1,0
+1038113,140,"Jesus Gil Manzano, Spain",2023-12-16T15:15:00+00:00,San Mamés Barria,Athletic Club,531,Atletico Madrid,530,True,2,0,0,0
+1038120,140,"Juan Luis Pulido Santana, Spain",2023-12-16T17:30:00+00:00,Estadio Ramón Sánchez Pizjuán,Sevilla,536,Getafe,546,False,0,3,0,2
+1038117,140,"Miguel Angel Ortiz Arias, Spain",2023-12-16T20:00:00+00:00,Estadio de Mestalla,Valencia,532,Barcelona,529,,1,1,0,0
+1038112,140,"Pablo Gonzales Fuertes, Spain",2023-12-17T13:00:00+00:00,Power Horse Stadium,Almeria,723,Mallorca,798,,0,0,0,0
+1038118,140,"Mateo Busquets Ferrer, Spain",2023-12-17T15:15:00+00:00,Reale Arena,Real Sociedad,548,Real Betis,543,,0,0,0,0
+1038119,140,"Alejandro Muniz Ruiz, Spain",2023-12-17T17:30:00+00:00,Estadio de Gran Canaria,Las Palmas,534,Cadiz,724,,1,1,1,0
+1038116,140,"Jorge Figueroa Vazquez, Spain",2023-12-17T20:00:00+00:00,Estadio Santiago Bernabéu,Real Madrid,541,Villarreal,533,True,4,1,2,0
+1038121,140,"Francisco Hernandez Maeso, Spain",2023-12-18T20:00:00+00:00,Estadi Municipal de Montilivi,Girona,547,Alaves,542,True,3,0,2,0
+1038127,140,"Javier Alberola Rojas, Spain",2023-12-19T18:00:00+00:00,Estadio de Vallecas,Rayo Vallecano,728,Valencia,532,False,0,1,0,0
+1038123,140,"José Luis Munuera Montero, Spain",2023-12-19T20:30:00+00:00,Estádio Cívitas Metropolitano,Atletico Madrid,530,Getafe,546,,3,3,1,0
+1038128,140,"Mateo Busquets Ferrer, Spain",2023-12-19T20:30:00+00:00,Estadio Nuevo Los Cármenes,Granada CF,715,Sevilla,536,False,0,3,0,2
+1038130,140,"Guillermo Cuadra Fernandez, Spain",2023-12-20T18:00:00+00:00,Estadi Olímpic Lluís Companys,Barcelona,529,Almeria,723,True,3,2,1,1
+1038122,140,"Juan Martinez Munuera, Spain",2023-12-20T20:30:00+00:00,San Mamés Barria,Athletic Club,531,Las Palmas,534,True,1,0,0,0
+1038131,140,"Cesar Soto Grado, Spain",2023-12-20T20:30:00+00:00,Estadio de la Cerámica,Villarreal,533,Celta Vigo,538,True,3,2,2,0
+1038124,140,"Ricardo De Burgos Bengoetxea, Spain",2023-12-21T18:00:00+00:00,Estadio Benito Villamarín,Real Betis,543,Girona,547,,1,1,0,1
+1038125,140,"Javier Iglesias Villanueva, Spain",2023-12-21T18:00:00+00:00,Estadio Nuevo Mirandilla,Cadiz,724,Real Sociedad,548,,0,0,0,0
+1038129,140,"Isidro Diaz de Mera Escuderos, Spain",2023-12-21T20:30:00+00:00,Estadio de Mendizorroza,Alaves,542,Real Madrid,541,False,0,1,0,0
+1038126,140,"Mario Melero Lopez, Spain",2023-12-21T20:30:00+00:00,Estadi Mallorca Son Moix,Mallorca,798,Osasuna,727,True,3,2,1,1
+1037983,140,"Cesar Soto Grado, Spain",2023-12-23T15:15:00+00:00,Estádio Cívitas Metropolitano,Atletico Madrid,530,Sevilla,536,True,1,0,0,0
+1038132,140,"Jorge Figueroa Vazquez, Spain",2024-01-02T16:00:00+00:00,Estádio Cívitas Metropolitano,Getafe,546,Rayo Vallecano,728,False,0,2,0,1
+1038141,140,"Victor Garcia Verdura, Spain",2024-01-02T18:15:00+00:00,Reale Arena,Real Sociedad,548,Alaves,542,,1,1,0,0
+1038133,140,"Jesus Gil Manzano, Spain",2024-01-02T20:30:00+00:00,Estadio de Mestalla,Valencia,532,Villarreal,533,True,3,1,2,0
+1038139,140,"Juan Luis Pulido Santana, Spain",2024-01-03T16:00:00+00:00,Estadio Nuevo Los Cármenes,Granada CF,715,Cadiz,724,True,2,0,1,0
+1038138,140,"Miguel Angel Ortiz Arias, Spain",2024-01-03T18:15:00+00:00,Estadio Abanca-Balaídos,Celta Vigo,538,Real Betis,543,True,2,1,1,1
+1038140,140,"Alejandro Muniz Ruiz, Spain",2024-01-03T18:15:00+00:00,Estadio Santiago Bernabéu,Real Madrid,541,Mallorca,798,True,1,0,0,0
+1038136,140,"Alejandro Hernandez, Spain",2024-01-03T20:30:00+00:00,Estadi Municipal de Montilivi,Girona,547,Atletico Madrid,530,True,4,3,3,2
+1038134,140,"Cesar Soto Grado, Spain",2024-01-04T16:00:00+00:00,Estadio El Sadar,Osasuna,727,Almeria,723,True,1,0,1,0
+1038135,140,"Jose Maria Sanchez Martinez, Spain",2024-01-04T18:15:00+00:00,Estadio Ramón Sánchez Pizjuán,Sevilla,536,Athletic Club,531,False,0,2,0,1
+1038137,140,"Pablo González Fuertes, Spain",2024-01-04T20:30:00+00:00,Estadio de Gran Canaria,Las Palmas,534,Barcelona,529,False,1,2,1,0
+1038151,140,"Alejandro Hernandez, Spain",2024-01-12T20:00:00+00:00,Estadio Ramón Sánchez Pizjuán,Sevilla,536,Alaves,542,False,2,3,0,2
+1038149,140,"Javier Iglesias Villanueva, Spain",2024-01-13T13:00:00+00:00,Estadio de Gran Canaria,Las Palmas,534,Villarreal,533,True,3,0,1,0
+1038150,140,"Victor Garcia Verdura, Spain",2024-01-13T15:15:00+00:00,Estadi Mallorca Son Moix,Mallorca,798,Celta Vigo,538,,1,1,1,1
+1038143,140,"José Luis Munuera Montero, Spain",2024-01-13T17:30:00+00:00,San Mamés Barria,Athletic Club,531,Real Sociedad,548,True,2,1,2,0
+1038146,140,"Guillermo Cuadra Fernandez, Spain",2024-01-13T20:00:00+00:00,Estadio Benito Villamarín,Real Betis,543,Granada CF,715,True,1,0,0,0
+1038142,140,"Mateo Busquets Ferrer, Spain",2024-01-14T13:00:00+00:00,Power Horse Stadium,Almeria,723,Girona,547,,0,0,0,0
+1038147,140,"Isidro Diaz de Mera Escuderos, Spain",2024-01-14T15:15:00+00:00,Estadio Nuevo Mirandilla,Cadiz,724,Valencia,532,False,1,4,1,1
+1038154,140,"Alejandro Muniz Ruiz, Spain",2024-01-19T20:00:00+00:00,Estadio de Mendizorroza,Alaves,542,Cadiz,724,True,1,0,0,0
+1038161,140,"Mario Melero Lopez, Spain",2024-01-20T13:00:00+00:00,Estadio de Vallecas,Rayo Vallecano,728,Las Palmas,534,False,0,2,0,1
+1038160,140,"Miguel Angel Ortiz Arias, Spain",2024-01-20T15:15:00+00:00,Estadio de la Cerámica,Villarreal,533,Mallorca,798,,1,1,1,0
+1038156,140,"Juan Luis Pulido Santana, Spain",2024-01-20T17:30:00+00:00,Estadio de Mestalla,Valencia,532,Athletic Club,531,True,1,0,0,0
+1038152,140,"Jorge Figueroa Vazquez, Spain",2024-01-20T20:00:00+00:00,Estadio Abanca-Balaídos,Celta Vigo,538,Real Sociedad,548,False,0,1,0,1
+1038159,140,"Jose Maria Sanchez Martinez, Spain",2024-01-21T13:00:00+00:00,Estadio El Sadar,Osasuna,727,Getafe,546,True,3,2,2,0
+1038155,140,"Francisco Hernandez Maeso, Spain",2024-01-21T15:15:00+00:00,Estadio Santiago Bernabéu,Real Madrid,541,Almeria,723,True,3,2,0,2
+1038158,140,"Jesus Gil Manzano, Spain",2024-01-21T17:30:00+00:00,Estadio Benito Villamarín,Real Betis,543,Barcelona,529,False,2,4,0,1
+1038153,140,"Pablo González Fuertes, Spain",2024-01-21T20:00:00+00:00,Estadi Municipal de Montilivi,Girona,547,Sevilla,536,True,5,1,3,1
+1038157,140,"Juan Martinez Munuera, Spain",2024-01-22T20:00:00+00:00,Estadio Nuevo Los Cármenes,Granada CF,715,Atletico Madrid,530,False,0,1,0,0
+1038171,140,"Miguel Angel Ortiz Arias, Spain",2024-01-26T20:00:00+00:00,Power Horse Stadium,Almeria,723,Alaves,542,False,0,3,0,1
+1038170,140,"Alejandro Hernandez, Spain",2024-01-27T13:00:00+00:00,Reale Arena,Real Sociedad,548,Rayo Vallecano,728,,0,0,0,0
+1038166,140,"Cesar Soto Grado, Spain",2024-01-27T15:15:00+00:00,Estadio de Gran Canaria,Las Palmas,534,Real Madrid,541,False,1,2,0,0
+1038163,140,"José Luis Munuera Montero, Spain",2024-01-27T17:30:00+00:00,Estadi Olímpic Lluís Companys,Barcelona,529,Villarreal,533,False,3,5,0,1
+1038168,140,"Javier Iglesias Villanueva, Spain",2024-01-27T20:00:00+00:00,Estadi Mallorca Son Moix,Mallorca,798,Real Betis,543,False,0,1,0,1
+1038164,140,"Mario Melero Lopez, Spain",2024-01-28T13:00:00+00:00,Estadio Abanca-Balaídos,Celta Vigo,538,Girona,547,False,0,1,0,1
+1038167,140,"Mateo Busquets Ferrer, Spain",2024-01-28T15:15:00+00:00,Estadio Nuevo Mirandilla,Cadiz,724,Athletic Club,531,,0,0,0,0
+1038169,140,"Guillermo Cuadra Fernandez, Spain",2024-01-28T17:30:00+00:00,Estadio Ramón Sánchez Pizjuán,Sevilla,536,Osasuna,727,,1,1,1,0
+1038162,140,"Ricardo De Burgos Bengoetxea, Spain",2024-01-28T20:00:00+00:00,Estádio Cívitas Metropolitano,Atletico Madrid,530,Valencia,532,True,2,0,1,0
+1038165,140,"Victor Garcia Verdura, Spain",2024-01-29T20:00:00+00:00,Estadio Coliseum,Getafe,546,Granada CF,715,True,2,0,2,0
+1038145,140,"Jorge Figueroa Vazquez, Spain",2024-01-31T18:00:00+00:00,Estadi Olímpic Lluís Companys,Barcelona,529,Osasuna,727,True,1,0,0,0
+1038144,140,"Cesar Soto Grado, Spain",2024-01-31T20:00:00+00:00,Estádio Cívitas Metropolitano,Atletico Madrid,530,Rayo Vallecano,728,True,2,1,1,1
+1038148,140,"Ricardo De Burgos Bengoetxea, Spain",2024-02-01T20:00:00+00:00,Estadio Coliseum,Getafe,546,Real Madrid,541,False,0,2,0,1
+1038172,140,"Jorge Figueroa Vazquez, Spain",2024-02-02T20:00:00+00:00,San Mamés Barria,Athletic Club,531,Mallorca,798,True,4,0,2,0
+1038178,140,"Alejandro Muniz Ruiz, Spain",2024-02-03T13:00:00+00:00,Estadio de Mestalla,Valencia,532,Almeria,723,True,2,1,2,0
+1038176,140,"Mateo Busquets Ferrer, Spain",2024-02-03T15:15:00+00:00,Estadio Nuevo Los Cármenes,Granada CF,715,Las Palmas,534,,1,1,1,0
+1038177,140,"Juan Martinez Munuera, Spain",2024-02-03T17:30:00+00:00,Estadio de Mendizorroza,Alaves,542,Barcelona,529,False,1,3,0,1
+1038174,140,"Jesus Gil Manzano, Spain",2024-02-03T20:00:00+00:00,Estadi Municipal de Montilivi,Girona,547,Real Sociedad,548,,0,0,0,0
+1038180,140,"Pablo González Fuertes, Spain",2024-02-04T13:00:00+00:00,Estadio de la Cerámica,Villarreal,533,Cadiz,724,,0,0,0,0
+1038181,140,"Javier Alberola Rojas, Spain",2024-02-04T15:15:00+00:00,Estadio El Sadar,Osasuna,727,Celta Vigo,538,False,0,3,0,2
+1038173,140,"Juan Luis Pulido Santana, Spain",2024-02-04T17:30:00+00:00,Estadio Benito Villamarín,Real Betis,543,Getafe,546,,1,1,1,1
+1038179,140,"Jose Maria Sanchez Martinez, Spain",2024-02-04T20:00:00+00:00,Estadio Santiago Bernabéu,Real Madrid,541,Atletico Madrid,530,,1,1,1,0
+1038175,140,"Francisco Hernandez Maeso, Spain",2024-02-05T20:00:00+00:00,Estadio de Vallecas,Rayo Vallecano,728,Sevilla,536,False,1,2,1,2
+1038188,140,"Ricardo De Burgos Bengoetxea, Spain",2024-02-09T20:00:00+00:00,Estadio Nuevo Mirandilla,Cadiz,724,Real Betis,543,False,0,2,0,1
+1038186,140,"Mario Melero Lopez, Spain",2024-02-10T13:00:00+00:00,Estadio de Mendizorroza,Alaves,542,Villarreal,533,,1,1,1,1
+1038191,140,"Isidro Diaz de Mera Escuderos, Spain",2024-02-10T15:15:00+00:00,Reale Arena,Real Sociedad,548,Osasuna,727,False,0,1,0,0
+1038190,140,"Juan Martinez Munuera, Spain",2024-02-10T17:30:00+00:00,Estadio Santiago Bernabéu,Real Madrid,541,Girona,547,True,4,0,2,0
+1038185,140,"Guillermo Cuadra Fernandez, Spain",2024-02-10T20:00:00+00:00,Estadio de Gran Canaria,Las Palmas,534,Valencia,532,True,2,0,0,0
+1038189,140,"Alejandro Hernandez, Spain",2024-02-11T13:00:00+00:00,Estadio Coliseum,Getafe,546,Celta Vigo,538,True,3,2,2,0
+1038184,140,"José Luis Munuera Montero, Spain",2024-02-11T15:15:00+00:00,Estadi Mallorca Son Moix,Mallorca,798,Rayo Vallecano,728,True,2,1,0,0
+1038187,140,"Javier Iglesias Villanueva, Spain",2024-02-11T17:30:00+00:00,Estadio Ramón Sánchez Pizjuán,Sevilla,536,Atletico Madrid,530,True,1,0,1,0
+1038183,140,"Miguel Angel Ortiz Arias, Spain",2024-02-11T20:00:00+00:00,Estadi Olímpic Lluís Companys,Barcelona,529,Granada CF,715,,3,3,1,1
+1038182,140,"Victor Garcia Verdura, Spain",2024-02-12T20:00:00+00:00,Power Horse Stadium,Almeria,723,Athletic Club,531,,0,0,0,0
+1038199,140,"Javier Alberola Rojas, Spain",2024-02-16T20:00:00+00:00,Estadio de la Cerámica,Villarreal,533,Getafe,546,,1,1,0,1
+1038193,140,"Jorge Figueroa Vazquez, Spain",2024-02-17T13:00:00+00:00,Estádio Cívitas Metropolitano,Atletico Madrid,530,Las Palmas,534,True,5,0,2,0
+1038198,140,"Francisco Hernandez Maeso, Spain",2024-02-17T15:15:00+00:00,Estadio El Sadar,Osasuna,727,Cadiz,724,True,2,0,0,0
+1038197,140,"Juan Luis Pulido Santana, Spain",2024-02-17T17:30:00+00:00,Estadio Abanca-Balaídos,Celta Vigo,538,Barcelona,529,False,1,2,0,1
+1038200,140,"Cesar Soto Grado, Spain",2024-02-17T20:00:00+00:00,Estadio de Mestalla,Valencia,532,Sevilla,536,,0,0,0,0
+1038195,140,"Alejandro Muniz Ruiz, Spain",2024-02-18T13:00:00+00:00,Estadio de Vallecas,Rayo Vallecano,728,Real Madrid,541,,1,1,1,1
+1038196,140,"Jesus Gil Manzano, Spain",2024-02-18T15:15:00+00:00,Estadio Nuevo Los Cármenes,Granada CF,715,Almeria,723,,1,1,0,1
+1038194,140,"Pablo González Fuertes, Spain",2024-02-18T17:30:00+00:00,Estadi Mallorca Son Moix,Mallorca,798,Real Sociedad,548,False,1,2,1,1
+1038201,140,"Mateo Busquets Ferrer, Spain",2024-02-18T20:00:00+00:00,Estadio Benito Villamarín,Real Betis,543,Alaves,542,,0,0,0,0
+1038192,140,"Jose Maria Sanchez Martinez, Spain",2024-02-19T20:00:00+00:00,San Mamés Barria,Athletic Club,531,Girona,547,True,3,2,1,0
+1038207,140,"Javier Iglesias Villanueva, Spain",2024-02-23T20:00:00+00:00,Reale Arena,Real Sociedad,548,Villarreal,533,False,1,3,0,1
+1038203,140,"Alejandro Muniz Ruiz, Spain",2024-02-24T15:15:00+00:00,Estadi Olímpic Lluís Companys,Barcelona,529,Getafe,546,True,4,0,1,0
+1038210,140,"Victor Garcia Verdura, Spain",2024-02-24T17:30:00+00:00,Estadio de Mendizorroza,Alaves,542,Mallorca,798,,1,1,0,0
+1038202,140,"Javier Alberola Rojas, Spain",2024-02-24T20:00:00+00:00,Power Horse Stadium,Almeria,723,Atletico Madrid,530,,2,2,1,1
+1038204,140,"Miguel Angel Ortiz Arias, Spain",2024-02-25T13:00:00+00:00,Estadio Nuevo Mirandilla,Cadiz,724,Celta Vigo,538,,2,2,0,1
+1038211,140,"Guillermo Cuadra Fernandez, Spain",2024-02-25T15:15:00+00:00,Estadio Benito Villamarín,Real Betis,543,Athletic Club,531,True,3,1,2,1
+1038209,140,"José Luis Munuera Montero, Spain",2024-02-25T17:30:00+00:00,Estadio de Gran Canaria,Las Palmas,534,Osasuna,727,,1,1,0,0
+1038206,140,"Isidro Diaz de Mera Escuderos, Spain",2024-02-25T20:00:00+00:00,Estadio Santiago Bernabéu,Real Madrid,541,Sevilla,536,True,1,0,0,0
+1038205,140,"Ricardo De Burgos Bengoetxea, Spain",2024-02-26T20:00:00+00:00,Estadi Municipal de Montilivi,Girona,547,Rayo Vallecano,728,True,3,0,0,0
+1038215,140,"Jose Maria Sanchez Martinez, Spain",2024-03-01T20:00:00+00:00,Estadio Abanca-Balaídos,Celta Vigo,538,Almeria,723,True,1,0,0,0
+1038219,140,"Mateo Busquets Ferrer, Spain",2024-03-02T13:00:00+00:00,Estadio Ramón Sánchez Pizjuán,Sevilla,536,Real Sociedad,548,True,3,2,2,1
+1038216,140,"Javier Alberola Rojas, Spain",2024-03-02T15:15:00+00:00,Estadio de Vallecas,Rayo Vallecano,728,Cadiz,724,,1,1,0,0
+1038214,140,"Pablo González Fuertes, Spain",2024-03-02T17:30:00+00:00,Estadio Coliseum,Getafe,546,Las Palmas,534,,3,3,3,1
+1038218,140,"Jesus Gil Manzano, Spain",2024-03-02T20:00:00+00:00,Estadio de Mestalla,Valencia,532,Real Madrid,541,,2,2,2,1
+1038220,140,"Juan Luis Pulido Santana, Spain",2024-03-03T13:00:00+00:00,Estadio de la Cerámica,Villarreal,533,Granada CF,715,True,5,1,3,0
+1038213,140,"Cesar Soto Grado, Spain",2024-03-03T15:15:00+00:00,Estádio Cívitas Metropolitano,Atletico Madrid,530,Real Betis,543,True,2,1,2,0
+1038217,140,"Francisco Hernandez Maeso, Spain",2024-03-03T17:30:00+00:00,Estadi Mallorca Son Moix,Mallorca,798,Girona,547,True,1,0,1,0
+1038212,140,"Alejandro Hernandez, Spain",2024-03-03T20:00:00+00:00,San Mamés Barria,Athletic Club,531,Barcelona,529,,0,0,0,0
+1038221,140,"Jorge Figueroa Vazquez, Spain",2024-03-04T20:00:00+00:00,Estadio El Sadar,Osasuna,727,Alaves,542,True,1,0,0,0
+1038223,140,"Javier Iglesias Villanueva, Spain",2024-03-08T20:00:00+00:00,Estadi Olímpic Lluís Companys,Barcelona,529,Mallorca,798,True,1,0,0,0
+1038231,140,"Juan Luis Pulido Santana, Spain",2024-03-09T13:00:00+00:00,Estadio de Mestalla,Valencia,532,Getafe,546,True,1,0,1,0
+1038229,140,"Pablo González Fuertes, Spain",2024-03-09T15:15:00+00:00,Estadio Nuevo Mirandilla,Cadiz,724,Atletico Madrid,530,True,2,0,1,0
+1038226,140,"Juan Martinez Munuera, Spain",2024-03-09T17:30:00+00:00,Estadio Nuevo Los Cármenes,Granada CF,715,Real Sociedad,548,False,2,3,2,1
+1038225,140,"Mateo Busquets Ferrer, Spain",2024-03-09T20:00:00+00:00,Estadi Municipal de Montilivi,Girona,547,Osasuna,727,True,2,0,1,0
+1038227,140,"José Luis Munuera Montero, Spain",2024-03-10T13:00:00+00:00,Estadio de Mendizorroza,Alaves,542,Rayo Vallecano,728,True,1,0,1,0
+1038228,140,"Miguel Angel Ortiz Arias, Spain",2024-03-10T15:15:00+00:00,Estadio de Gran Canaria,Las Palmas,534,Athletic Club,531,False,0,2,0,1
+1038230,140,"Mario Melero Lopez, Spain",2024-03-10T17:30:00+00:00,Estadio Santiago Bernabéu,Real Madrid,541,Celta Vigo,538,True,4,0,1,0
+1038224,140,"Alejandro Hernandez, Spain",2024-03-10T20:00:00+00:00,Estadio Benito Villamarín,Real Betis,543,Villarreal,533,False,2,3,2,1
+1038222,140,"Ricardo De Burgos Bengoetxea, Spain",2024-03-11T20:00:00+00:00,Power Horse Stadium,Almeria,723,Sevilla,536,,2,2,1,0
+1038237,140,"Cesar Soto Grado, Spain",2024-03-15T20:00:00+00:00,Reale Arena,Real Sociedad,548,Cadiz,724,True,2,0,1,0
+1038240,140,"Ricardo De Burgos Bengoetxea, Spain",2024-03-16T13:00:00+00:00,Estadi Mallorca Son Moix,Mallorca,798,Granada CF,715,True,1,0,0,0
+1038234,140,"Juan Martinez Munuera, Spain",2024-03-16T15:15:00+00:00,Estadio El Sadar,Osasuna,727,Real Madrid,541,False,2,4,1,2
+1038233,140,"José Luis Munuera Montero, Spain",2024-03-16T17:30:00+00:00,Estadio Coliseum,Getafe,546,Girona,547,True,1,0,1,0
+1038241,140,"Alejandro Muniz Ruiz, Spain",2024-03-16T20:00:00+00:00,San Mamés Barria,Athletic Club,531,Alaves,542,True,2,0,2,0
+1038238,140,"Francisco Hernandez Maeso, Spain",2024-03-17T13:00:00+00:00,Estadio Ramón Sánchez Pizjuán,Sevilla,536,Celta Vigo,538,False,1,2,1,0
+1038239,140,"Jorge Figueroa Vazquez, Spain",2024-03-17T15:15:00+00:00,Estadio de la Cerámica,Villarreal,533,Valencia,532,True,1,0,0,0
+1038235,140,"Victor Garcia Verdura, Spain",2024-03-17T15:15:00+00:00,Estadio de Gran Canaria,Las Palmas,534,Almeria,723,False,0,1,0,1
+1038236,140,"Juan Luis Pulido Santana, Spain",2024-03-17T17:30:00+00:00,Estadio de Vallecas,Rayo Vallecano,728,Real Betis,543,True,2,0,1,0
+1038232,140,"Jose Maria Sanchez Martinez, Spain",2024-03-17T20:00:00+00:00,Estádio Cívitas Metropolitano,Atletico Madrid,530,Barcelona,529,False,0,3,0,1
+1038244,140,"Guillermo Cuadra Fernandez, Spain",2024-03-29T20:00:00+00:00,Estadio Nuevo Mirandilla,Cadiz,724,Granada CF,715,True,1,0,0,0
+1038246,140,"Javier Iglesias Villanueva, Spain",2024-03-30T13:00:00+00:00,Estadio Coliseum,Getafe,546,Sevilla,536,False,0,1,0,1
+1038242,140,"Pablo González Fuertes, Spain",2024-03-30T15:15:00+00:00,Power Horse Stadium,Almeria,723,Osasuna,727,False,0,3,0,2
+1038251,140,"Miguel Angel Ortiz Arias, Spain",2024-03-30T17:30:00+00:00,Estadio de Mestalla,Valencia,532,Mallorca,798,,0,0,0,0
+1038243,140,"Mateo Busquets Ferrer, Spain",2024-03-30T20:00:00+00:00,Estadi Olímpic Lluís Companys,Barcelona,529,Las Palmas,534,True,1,0,0,0
+1038245,140,"Alejandro Hernandez, Spain",2024-03-31T12:00:00+00:00,Estadio Abanca-Balaídos,Celta Vigo,538,Rayo Vallecano,728,,0,0,0,0
+1038250,140,"Jesus Gil Manzano, Spain",2024-03-31T14:15:00+00:00,Estadi Municipal de Montilivi,Girona,547,Real Betis,543,True,3,2,1,1
+1038247,140,"Francisco Hernandez Maeso, Spain",2024-03-31T16:30:00+00:00,Estadio de Mendizorroza,Alaves,542,Real Sociedad,548,False,0,1,0,0
+1038248,140,"Javier Alberola Rojas, Spain",2024-03-31T19:00:00+00:00,Estadio Santiago Bernabéu,Real Madrid,541,Athletic Club,531,True,2,0,1,0
+1038249,140,"Mario Melero Lopez, Spain",2024-04-01T19:00:00+00:00,Estadio de la Cerámica,Villarreal,533,Atletico Madrid,530,False,1,2,0,1
+1038208,140,"Alejandro Hernandez, Spain",2024-04-04T18:00:00+00:00,Estadio Nuevo Los Cármenes,Granada CF,715,Valencia,532,False,0,1,0,0
+1038254,140,"Juan Martinez Munuera, Spain",2024-04-12T19:00:00+00:00,Estadio Benito Villamarín,Real Betis,543,Celta Vigo,538,True,2,1,0,0
+1038253,140,"Ricardo De Burgos Bengoetxea, Spain",2024-04-13T12:00:00+00:00,Estádio Cívitas Metropolitano,Atletico Madrid,530,Girona,547,True,3,1,2,1
+1038260,140,"Jorge Figueroa Vazquez, Spain",2024-04-13T14:15:00+00:00,Estadio de Vallecas,Rayo Vallecano,728,Getafe,546,,0,0,0,0
+1038255,140,"Jose Maria Sanchez Martinez, Spain",2024-04-13T16:30:00+00:00,Estadi Mallorca Son Moix,Mallorca,798,Real Madrid,541,False,0,1,0,0
+1038259,140,"Juan Luis Pulido Santana, Spain",2024-04-13T19:00:00+00:00,Estadio Nuevo Mirandilla,Cadiz,724,Barcelona,529,False,0,1,0,1
+1038257,140,"Alejandro Muniz Ruiz, Spain",2024-04-14T12:00:00+00:00,Estadio de Gran Canaria,Las Palmas,534,Sevilla,536,False,0,2,0,1
+1038261,140,"Victor Garcia Verdura, Spain",2024-04-14T14:15:00+00:00,Estadio Nuevo Los Cármenes,Granada CF,715,Alaves,542,True,2,0,2,0
+1038252,140,"Guillermo Cuadra Fernandez, Spain",2024-04-14T16:30:00+00:00,San Mamés Barria,Athletic Club,531,Villarreal,533,,1,1,0,0
+1038258,140,"Isidro Diaz de Mera Escuderos, Spain",2024-04-14T19:00:00+00:00,Reale Arena,Real Sociedad,548,Almeria,723,,2,2,1,1
+1038256,140,"José Luis Munuera Montero, Spain",2024-04-15T19:00:00+00:00,Estadio El Sadar,Osasuna,727,Valencia,532,False,0,1,0,1
+1038263,140,"Javier Iglesias Villanueva, Spain",2024-04-19T19:00:00+00:00,San Mamés Barria,Athletic Club,531,Granada CF,715,,1,1,1,1
+1038264,140,"Francisco Hernandez Maeso, Spain",2024-04-20T12:00:00+00:00,Estadio Abanca-Balaídos,Celta Vigo,538,Las Palmas,534,True,4,1,2,1
+1038271,140,"Mario Melero Lopez, Spain",2024-04-20T14:15:00+00:00,Estadio de Vallecas,Rayo Vallecano,728,Osasuna,727,True,2,1,0,1
+1038268,140,"Mateo Busquets Ferrer, Spain",2024-04-20T16:30:00+00:00,Estadio de Mestalla,Valencia,532,Real Betis,543,False,1,2,0,1
+1038269,140,"Javier Alberola Rojas, Spain",2024-04-20T19:00:00+00:00,Estadi Municipal de Montilivi,Girona,547,Cadiz,724,True,4,1,2,0
+1038265,140,"Victor Garcia Verdura, Spain",2024-04-21T12:00:00+00:00,Estadio Coliseum,Getafe,546,Real Sociedad,548,,1,1,1,1
+1038262,140,"Miguel Angel Ortiz Arias, Spain",2024-04-21T14:15:00+00:00,Power Horse Stadium,Almeria,723,Villarreal,533,False,1,2,1,1
+1038266,140,"Jesus Gil Manzano, Spain",2024-04-21T16:30:00+00:00,Estadio de Mendizorroza,Alaves,542,Atletico Madrid,530,True,2,0,1,0
+1038267,140,"Cesar Soto Grado, Spain",2024-04-21T19:00:00+00:00,Estadio Santiago Bernabéu,Real Madrid,541,Barcelona,529,True,3,2,1,1
+1038270,140,"Alejandro Hernandez, Spain",2024-04-22T19:00:00+00:00,Estadio Ramón Sánchez Pizjuán,Sevilla,536,Mallorca,798,True,2,1,0,0
+1038281,140,"José Luis Munuera Montero, Spain",2024-04-26T19:00:00+00:00,Reale Arena,Real Sociedad,548,Real Madrid,541,False,0,1,0,1
+1038279,140,"Jorge Figueroa Vazquez, Spain",2024-04-27T12:00:00+00:00,Estadio de Gran Canaria,Las Palmas,534,Girona,547,False,0,2,0,1
+1038272,140,"Guillermo Cuadra Fernandez, Spain",2024-04-27T14:15:00+00:00,Power Horse Stadium,Almeria,723,Getafe,546,False,1,3,1,1
+1038277,140,"Juan Luis Pulido Santana, Spain",2024-04-27T16:30:00+00:00,Estadio de Mendizorroza,Alaves,542,Celta Vigo,538,True,3,0,0,0
+1038278,140,"Juan Martinez Munuera, Spain",2024-04-27T19:00:00+00:00,Estádio Cívitas Metropolitano,Atletico Madrid,530,Athletic Club,531,True,3,1,1,1
+1038275,140,"Isidro Diaz de Mera Escuderos, Spain",2024-04-28T12:00:00+00:00,Estadio Nuevo Mirandilla,Cadiz,724,Mallorca,798,,1,1,0,1
+1038276,140,"Alejandro Muniz Ruiz, Spain",2024-04-28T14:15:00+00:00,Estadio Nuevo Los Cármenes,Granada CF,715,Osasuna,727,True,3,0,1,0
+1038280,140,"Pablo González Fuertes, Spain",2024-04-28T16:30:00+00:00,Estadio de la Cerámica,Villarreal,533,Rayo Vallecano,728,True,3,0,1,0
+1038274,140,"Jose Maria Sanchez Martinez, Spain",2024-04-28T19:00:00+00:00,Estadio Benito Villamarín,Real Betis,543,Sevilla,536,,1,1,1,0
+1038273,140,"Ricardo De Burgos Bengoetxea, Spain",2024-04-29T19:00:00+00:00,Estadi Olímpic Lluís Companys,Barcelona,529,Valencia,532,True,4,2,1,2
+1038284,140,"Jesus Gil Manzano, Spain",2024-05-03T19:00:00+00:00,Estadio Coliseum,Getafe,546,Athletic Club,531,False,0,2,0,1
+1038290,140,"Miguel Angel Ortiz Arias, Spain",2024-05-04T12:00:00+00:00,Reale Arena,Real Sociedad,548,Las Palmas,534,True,2,0,2,0
+1038288,140,"Javier Iglesias Villanueva, Spain",2024-05-04T14:15:00+00:00,Estadio Santiago Bernabéu,Real Madrid,541,Cadiz,724,True,3,0,0,0
+1038286,140,"Alejandro Hernandez, Spain",2024-05-04T16:30:00+00:00,Estadi Municipal de Montilivi,Girona,547,Barcelona,529,True,4,2,1,2
+1038285,140,"Javier Alberola Rojas, Spain",2024-05-04T19:00:00+00:00,Estadi Mallorca Son Moix,Mallorca,798,Atletico Madrid,530,False,0,1,0,1
+1038287,140,"Victor Garcia Verdura, Spain",2024-05-05T12:00:00+00:00,Estadio El Sadar,Osasuna,727,Real Betis,543,False,0,2,0,2
+1038282,140,"Cesar Soto Grado, Spain",2024-05-05T14:15:00+00:00,Estadio Abanca-Balaídos,Celta Vigo,538,Villarreal,533,True,3,2,2,1
+1038291,140,"Mario Melero Lopez, Spain",2024-05-05T16:30:00+00:00,Estadio de Mestalla,Valencia,532,Alaves,542,False,0,1,0,0
+1038289,140,"Mateo Busquets Ferrer, Spain",2024-05-05T19:00:00+00:00,Estadio Ramón Sánchez Pizjuán,Sevilla,536,Granada CF,715,True,3,0,1,0
+1038283,140,"Francisco Hernandez Maeso, Spain",2024-05-05T19:00:00+00:00,Estadio de Vallecas,Rayo Vallecano,728,Almeria,723,False,0,1,0,1
+1038297,140,"José Luis Munuera Montero, Spain",2024-05-10T19:00:00+00:00,Estadio de Mendizorroza,Alaves,542,Girona,547,,2,2,1,2
+1038301,140,"Juan Martinez Munuera, Spain",2024-05-11T12:00:00+00:00,Estadi Mallorca Son Moix,Mallorca,798,Las Palmas,534,True,1,0,1,0
+1038300,140,"Isidro Diaz de Mera Escuderos, Spain",2024-05-11T14:15:00+00:00,Estadio de la Cerámica,Villarreal,533,Sevilla,536,True,3,2,1,2
+1038296,140,"Pablo González Fuertes, Spain",2024-05-11T16:30:00+00:00,Estadio Nuevo Los Cármenes,Granada CF,715,Real Madrid,541,False,0,4,0,2
+1038292,140,"Jose Maria Sanchez Martinez, Spain",2024-05-11T19:00:00+00:00,San Mamés Barria,Athletic Club,531,Osasuna,727,,2,2,0,1
+1038295,140,"Ricardo De Burgos Bengoetxea, Spain",2024-05-12T12:00:00+00:00,Estadio Nuevo Mirandilla,Cadiz,724,Getafe,546,True,1,0,1,0
+1038293,140,"Jorge Figueroa Vazquez, Spain",2024-05-12T14:15:00+00:00,Estádio Cívitas Metropolitano,Atletico Madrid,530,Celta Vigo,538,True,1,0,0,0
+1038299,140,"Juan Luis Pulido Santana, Spain",2024-05-12T16:30:00+00:00,Estadio de Mestalla,Valencia,532,Rayo Vallecano,728,,0,0,0,0
+1038298,140,"Alejandro Muniz Ruiz, Spain",2024-05-12T19:00:00+00:00,Estadio Benito Villamarín,Real Betis,543,Almeria,723,True,3,2,2,1
+1038294,140,"Guillermo Cuadra Fernandez, Spain",2024-05-13T19:00:00+00:00,Estadi Olímpic Lluís Companys,Barcelona,529,Real Sociedad,548,True,2,0,1,0
+1038309,140,"Francisco Hernandez Maeso, Spain",2024-05-14T17:30:00+00:00,Estadio El Sadar,Osasuna,727,Mallorca,798,,1,1,1,0
+1038311,140,"Mateo Busquets Ferrer, Spain",2024-05-14T19:30:00+00:00,Estadio Santiago Bernabéu,Real Madrid,541,Alaves,542,True,5,0,3,0
+1038303,140,"Jose Maria Sanchez Martinez, Spain",2024-05-14T20:00:00+00:00,Estadi Municipal de Montilivi,Girona,547,Villarreal,533,False,0,1,0,0
+1038308,140,"Miguel Angel Ortiz Arias, Spain",2024-05-15T17:30:00+00:00,Estadio Ramón Sánchez Pizjuán,Sevilla,536,Cadiz,724,False,0,1,0,0
+1038310,140,"Isidro Diaz de Mera Escuderos, Spain",2024-05-15T17:30:00+00:00,Estadio de Vallecas,Rayo Vallecano,728,Granada CF,715,True,2,1,1,0
+1038305,140,"Victor Garcia Verdura, Spain",2024-05-15T20:00:00+00:00,Estadio Abanca-Balaídos,Celta Vigo,538,Athletic Club,531,True,2,1,0,1
+1038306,140,"Mario Melero Lopez, Spain",2024-05-15T20:00:00+00:00,Estadio Coliseum,Getafe,546,Atletico Madrid,530,False,0,3,0,2
+1038307,140,"Javier Iglesias Villanueva, Spain",2024-05-16T17:30:00+00:00,Estadio de Gran Canaria,Las Palmas,534,Real Betis,543,,2,2,1,1
+1038302,140,"Javier Alberola Rojas, Spain",2024-05-16T19:30:00+00:00,Power Horse Stadium,Almeria,723,Barcelona,529,False,0,2,0,1
+1038304,140,"Cesar Soto Grado, Spain",2024-05-16T20:00:00+00:00,Reale Arena,Real Sociedad,548,Valencia,532,True,1,0,1,0
+1038317,140,"Jorge Figueroa Vazquez, Spain",2024-05-18T19:00:00+00:00,Estadio de Mendizorroza,Alaves,542,Getafe,546,True,1,0,1,0
+1038314,140,"Jesus Gil Manzano, Spain",2024-05-19T17:00:00+00:00,Estadi Olímpic Lluís Companys,Barcelona,529,Rayo Vallecano,728,True,3,0,1,0
+1038313,140,"Pablo González Fuertes, Spain",2024-05-19T17:00:00+00:00,Estádio Cívitas Metropolitano,Atletico Madrid,530,Osasuna,727,False,1,4,0,1
+1038312,140,"Juan Luis Pulido Santana, Spain",2024-05-19T17:00:00+00:00,San Mamés Barria,Athletic Club,531,Sevilla,536,True,2,0,2,0
+1038320,140,"Guillermo Cuadra Fernandez, Spain",2024-05-19T17:00:00+00:00,Estadio de Mestalla,Valencia,532,Girona,547,False,1,3,0,1
+1038321,140,"Alejandro Hernandez, Spain",2024-05-19T17:00:00+00:00,Estadio de la Cerámica,Villarreal,533,Real Madrid,541,,4,4,1,4
+1038315,140,"Miguel Martinez Munuera, Spain",2024-05-19T17:00:00+00:00,Estadio Benito Villamarín,Real Betis,543,Real Sociedad,548,False,0,2,0,2
+1038319,140,"Javier Alberola Rojas, Spain",2024-05-19T17:00:00+00:00,Estadio Nuevo Los Cármenes,Granada CF,715,Celta Vigo,538,False,1,2,0,0
+1038316,140,"Cesar Soto Grado, Spain",2024-05-19T17:00:00+00:00,Estadio Nuevo Mirandilla,Cadiz,724,Las Palmas,534,,0,0,0,0
+1038318,140,"Ricardo De Burgos Bengoetxea, Spain",2024-05-19T17:00:00+00:00,Estadi Mallorca Son Moix,Mallorca,798,Almeria,723,,2,2,1,1
+1038325,140,"Alejandro Muniz Ruiz, Spain",2024-05-24T19:00:00+00:00,Estadi Municipal de Montilivi,Girona,547,Granada CF,715,True,7,0,3,0
+1038326,140,"Mario Melero Lopez, Spain",2024-05-25T12:00:00+00:00,Estadio El Sadar,Osasuna,727,Villarreal,533,,1,1,1,0
+1038328,140,"Jose Maria Sanchez Martinez, Spain",2024-05-25T14:15:00+00:00,Reale Arena,Real Sociedad,548,Atletico Madrid,530,False,0,2,0,1
+1038322,140,"Mateo Busquets Ferrer, Spain",2024-05-25T16:30:00+00:00,Power Horse Stadium,Almeria,723,Cadiz,724,True,6,1,0,1
+1038327,140,"José Luis Munuera Montero, Spain",2024-05-25T16:30:00+00:00,Estadio de Vallecas,Rayo Vallecano,728,Athletic Club,531,False,0,1,0,0
+1038330,140,"Isidro Diaz de Mera Escuderos, Spain",2024-05-25T19:00:00+00:00,Estadio Santiago Bernabéu,Real Madrid,541,Real Betis,543,,0,0,0,0
+1038324,140,"Victor Garcia Verdura, Spain",2024-05-26T12:00:00+00:00,Estadio Coliseum,Getafe,546,Mallorca,798,False,1,2,0,0
+1038331,140,"Francisco Hernandez Maeso, Spain",2024-05-26T14:15:00+00:00,Estadio de Gran Canaria,Las Palmas,534,Alaves,542,,1,1,0,0
+1038323,140,"Miguel Angel Ortiz Arias, Spain",2024-05-26T14:15:00+00:00,Abanca-Balaídos,Celta Vigo,538,Valencia,532,,2,2,0,1
+1038329,140,"Javier Iglesias Villanueva, Spain",2024-05-26T19:00:00+00:00,Estadio Ramón Sánchez Pizjuán,Sevilla,536,Barcelona,529,False,1,2,1,1

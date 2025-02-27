@@ -1,0 +1,381 @@
+id_partida,id_league,referee,date,Stadium,Home_Team,home.id,Away_Team,away.id,home.winner,Gols_Home,Gols_Away,Half_Time_Gols_Home,Half_Time_Gols_Away,Empate
+592143,39,C. Kavanagh,2020-09-12T11:30:00+00:00,Craven Cottage,Fulham,36,Arsenal,42,False,0,3,0,1,0
+592142,39,J. Moss,2020-09-12T14:00:00+00:00,Selhurst Park,Crystal Palace,52,Southampton,41,True,1,0,1,0,0
+592144,39,M. Oliver,2020-09-12T16:30:00+00:00,Anfield,Liverpool,40,Leeds,63,True,4,3,3,2,0
+592148,39,S. Attwell,2020-09-12T19:00:00+00:00,London Stadium,West Ham,48,Newcastle,34,False,0,2,0,0,0
+592147,39,A. Taylor,2020-09-13T13:00:00+00:00,The Hawthorns,West Brom,60,Leicester,46,False,0,3,0,0,0
+592146,39,M. Atkinson,2020-09-13T15:30:00+00:00,Tottenham Hotspur Stadium,Tottenham,47,Everton,45,False,0,1,0,0,0
+592150,39,M. Dean,2020-09-14T17:00:00+00:00,Bramall Lane,Sheffield Utd,62,Wolves,39,False,0,2,0,2,0
+592149,39,C. Pawson,2020-09-14T19:15:00+00:00,The American Express Community Stadium,Brighton,51,Chelsea,49,False,1,3,0,1,0
+592154,39,M. Dean,2020-09-19T11:30:00+00:00,Goodison Park,Everton,45,West Brom,60,True,5,2,2,1,0
+592155,39,A. Taylor,2020-09-19T14:00:00+00:00,Elland Road,Leeds,63,Fulham,36,True,4,3,2,1,0
+592157,39,M. Atkinson,2020-09-19T16:30:00+00:00,Old Trafford,Manchester United,33,Crystal Palace,52,False,1,3,0,1,0
+592151,39,M. Oliver,2020-09-19T19:00:00+00:00,Emirates Stadium,Arsenal,42,West Ham,48,True,2,1,1,1,0
+592159,39,D. Coote,2020-09-20T11:00:00+00:00,St. Mary's Stadium,Southampton,41,Tottenham,47,False,2,5,1,1,0
+592158,39,K. Friend,2020-09-20T13:00:00+00:00,St. James' Park,Newcastle,34,Brighton,51,False,0,3,0,2,0
+592153,39,P. Tierney,2020-09-20T15:30:00+00:00,Stamford Bridge,Chelsea,49,Liverpool,40,False,0,2,0,0,0
+592156,39,L. Mason,2020-09-20T18:00:00+00:00,King Power Stadium,Leicester,46,Burnley,44,True,4,2,1,1,0
+592152,39,G. Scott,2020-09-21T17:00:00+00:00,Villa Park,Aston Villa,66,Sheffield Utd,62,True,1,0,0,0,0
+592160,39,A. Marriner,2020-09-21T19:15:00+00:00,Molineux Stadium,Wolves,39,Manchester City,50,False,1,3,0,2,0
+592161,39,C. Kavanagh,2020-09-26T11:30:00+00:00,The American Express Community Stadium,Brighton,51,Manchester United,33,False,2,3,1,1,0
+592163,39,K. Friend,2020-09-26T14:00:00+00:00,Selhurst Park,Crystal Palace,52,Everton,45,False,1,2,1,2,0
+592169,39,J. Moss,2020-09-26T16:30:00+00:00,The Hawthorns,West Brom,60,Chelsea,49,False,3,3,3,0,1
+592162,39,A. Marriner,2020-09-26T19:00:00+00:00,Turf Moor,Burnley,44,Southampton,41,False,0,1,0,1,0
+592167,39,P. Tierney,2020-09-27T11:00:00+00:00,Bramall Lane,Sheffield Utd,62,Leeds,63,False,0,1,0,0,0
+592168,39,P. Bankes,2020-09-27T13:00:00+00:00,Tottenham Hotspur Stadium,Tottenham,47,Newcastle,34,False,1,1,1,0,1
+592166,39,M. Oliver,2020-09-27T15:30:00+00:00,Etihad Stadium,Manchester City,50,Leicester,46,False,2,5,1,1,0
+592170,39,M. Atkinson,2020-09-27T18:00:00+00:00,London Stadium,West Ham,48,Wolves,39,True,4,0,1,0,0
+592164,39,S. Attwell,2020-09-28T16:45:00+00:00,Craven Cottage,Fulham,36,Aston Villa,66,False,0,3,0,2,0
+592165,39,C. Pawson,2020-09-28T19:00:00+00:00,Anfield,Liverpool,40,Arsenal,42,True,3,1,2,1,0
+592173,39,M. Oliver,2020-10-03T11:30:00+00:00,Stamford Bridge,Chelsea,49,Crystal Palace,52,True,4,0,0,0,0
+592174,39,S. Hooper,2020-10-03T14:00:00+00:00,Goodison Park,Everton,45,Brighton,51,True,4,2,2,1,0
+592175,39,M. Dean,2020-10-03T16:30:00+00:00,Elland Road,Leeds,63,Manchester City,50,False,1,1,0,1,1
+592178,39,D. Coote,2020-10-03T19:00:00+00:00,St. James' Park,Newcastle,34,Burnley,44,True,3,1,1,0,0
+592179,39,C. Kavanagh,2020-10-04T11:00:00+00:00,St. Mary's Stadium,Southampton,41,West Brom,60,True,2,0,1,0,0
+592176,39,A. Madley,2020-10-04T11:00:00+00:00,King Power Stadium,Leicester,46,West Ham,48,False,0,3,0,2,0
+592180,39,D. England,2020-10-04T13:00:00+00:00,Molineux Stadium,Wolves,39,Fulham,36,True,1,0,0,0,0
+592171,39,L. Mason,2020-10-04T13:00:00+00:00,Emirates Stadium,Arsenal,42,Sheffield Utd,62,True,2,1,0,0,0
+592177,39,A. Taylor,2020-10-04T15:30:00+00:00,Old Trafford,Manchester United,33,Tottenham,47,False,1,6,1,4,0
+592172,39,M. Atkinson,2020-10-04T18:15:00+00:00,Villa Park,Aston Villa,66,Liverpool,40,True,7,2,4,1,0
+592183,39,M. Oliver,2020-10-17T11:30:00+00:00,Goodison Park,Everton,45,Liverpool,40,False,2,2,1,1,1
+592181,39,P. Bankes,2020-10-17T14:00:00+00:00,Stamford Bridge,Chelsea,49,Southampton,41,False,3,3,2,1,1
+592186,39,C. Kavanagh,2020-10-17T16:30:00+00:00,Etihad Stadium,Manchester City,50,Arsenal,42,True,1,0,1,0,0
+592187,39,C. Pawson,2020-10-17T19:00:00+00:00,St. James' Park,Newcastle,34,Manchester United,33,False,1,4,1,1,0
+592188,39,A. Marriner,2020-10-18T11:00:00+00:00,Bramall Lane,Sheffield Utd,62,Fulham,36,False,1,1,0,0,1
+592182,39,S. Attwell,2020-10-18T13:00:00+00:00,Selhurst Park,Crystal Palace,52,Brighton,51,False,1,1,1,0,1
+592189,39,P. Tierney,2020-10-18T15:30:00+00:00,Tottenham Hotspur Stadium,Tottenham,47,West Ham,48,False,3,3,3,0,1
+592185,39,J. Moss,2020-10-18T18:15:00+00:00,King Power Stadium,Leicester,46,Aston Villa,66,False,0,1,0,0,0
+592190,39,A. Taylor,2020-10-19T16:30:00+00:00,The Hawthorns,West Brom,60,Burnley,44,False,0,0,0,0,1
+592184,39,D. Coote,2020-10-19T19:00:00+00:00,Elland Road,Leeds,63,Wolves,39,False,0,1,0,0,0
+592192,39,P. Tierney,2020-10-23T19:00:00+00:00,Villa Park,Aston Villa,66,Leeds,63,False,0,3,0,0,0
+592199,39,A. Taylor,2020-10-24T11:30:00+00:00,London Stadium,West Ham,48,Manchester City,50,False,1,1,1,0,1
+592195,39,G. Scott,2020-10-24T14:00:00+00:00,Craven Cottage,Fulham,36,Crystal Palace,52,False,1,2,0,1,0
+592197,39,M. Atkinson,2020-10-24T16:30:00+00:00,Old Trafford,Manchester United,33,Chelsea,49,False,0,0,0,0,1
+592196,39,M. Dean,2020-10-24T19:00:00+00:00,Anfield,Liverpool,40,Sheffield Utd,62,True,2,1,1,1,0
+592198,39,K. Friend,2020-10-25T14:00:00+00:00,St. Mary's Stadium,Southampton,41,Everton,45,True,2,0,2,0,0
+592200,39,L. Mason,2020-10-25T16:30:00+00:00,Molineux Stadium,Wolves,39,Newcastle,34,False,1,1,0,0,1
+592191,39,C. Pawson,2020-10-25T19:15:00+00:00,Emirates Stadium,Arsenal,42,Leicester,46,False,0,1,0,0,0
+592193,39,J. Moss,2020-10-26T17:30:00+00:00,The American Express Community Stadium,Brighton,51,West Brom,60,False,1,1,1,0,1
+592194,39,M. Oliver,2020-10-26T20:00:00+00:00,Turf Moor,Burnley,44,Tottenham,47,False,0,1,0,0,0
+592210,39,M. Atkinson,2020-10-30T20:00:00+00:00,Molineux Stadium,Wolves,39,Crystal Palace,52,True,2,0,2,0,0
+592208,39,M. Oliver,2020-10-31T12:30:00+00:00,Bramall Lane,Sheffield Utd,62,Manchester City,50,False,0,1,0,1,0
+592202,39,D. Coote,2020-10-31T15:00:00+00:00,Turf Moor,Burnley,44,Chelsea,49,False,0,3,0,1,0
+592205,39,K. Friend,2020-10-31T17:30:00+00:00,Anfield,Liverpool,40,West Ham,48,True,2,1,1,1,0
+592201,39,D. England,2020-11-01T12:00:00+00:00,Villa Park,Aston Villa,66,Southampton,41,False,3,4,0,3,0
+592207,39,S. Attwell,2020-11-01T14:00:00+00:00,St. James' Park,Newcastle,34,Everton,45,True,2,1,0,0,0
+592206,39,M. Dean,2020-11-01T16:30:00+00:00,Old Trafford,Manchester United,33,Arsenal,42,False,0,1,0,0,0
+592209,39,G. Scott,2020-11-01T19:15:00+00:00,Tottenham Hotspur Stadium,Tottenham,47,Brighton,51,True,2,1,1,0,0
+592203,39,S. Hooper,2020-11-02T17:30:00+00:00,Craven Cottage,Fulham,36,West Brom,60,True,2,0,2,0,0
+592204,39,A. Marriner,2020-11-02T20:00:00+00:00,Elland Road,Leeds,63,Leicester,46,False,1,4,0,2,0
+592212,39,M. Dean,2020-11-06T17:30:00+00:00,The American Express Community Stadium,Brighton,51,Burnley,44,False,0,0,0,0,1
+592218,39,P. Bankes,2020-11-06T20:00:00+00:00,St. Mary's Stadium,Southampton,41,Newcastle,34,True,2,0,1,0,0
+592215,39,P. Tierney,2020-11-07T12:30:00+00:00,Goodison Park,Everton,45,Manchester United,33,False,1,3,1,2,0
+592214,39,C. Kavanagh,2020-11-07T15:00:00+00:00,Selhurst Park,Crystal Palace,52,Leeds,63,True,4,1,3,1,0
+592213,39,J. Moss,2020-11-07T17:30:00+00:00,Stamford Bridge,Chelsea,49,Sheffield Utd,62,True,4,1,2,1,0
+592220,39,R. Jones,2020-11-07T20:00:00+00:00,London Stadium,West Ham,48,Fulham,36,True,1,0,0,0,0
+592219,39,A. Madley,2020-11-08T12:00:00+00:00,The Hawthorns,West Brom,60,Tottenham,47,False,0,1,0,0,0
+592216,39,A. Taylor,2020-11-08T14:00:00+00:00,King Power Stadium,Leicester,46,Wolves,39,True,1,0,1,0,0
+592217,39,C. Pawson,2020-11-08T16:30:00+00:00,Etihad Stadium,Manchester City,50,Liverpool,40,False,1,1,1,1,1
+592211,39,M. Atkinson,2020-11-08T19:15:00+00:00,Emirates Stadium,Arsenal,42,Aston Villa,66,False,0,3,0,1,0
+592227,39,C. Pawson,2020-11-21T12:30:00+00:00,St. James' Park,Newcastle,34,Chelsea,49,False,0,2,0,1,0
+592221,39,M. Oliver,2020-11-21T15:00:00+00:00,Villa Park,Aston Villa,66,Brighton,51,False,1,2,0,1,0
+592229,39,M. Dean,2020-11-21T17:30:00+00:00,Tottenham Hotspur Stadium,Tottenham,47,Manchester City,50,True,2,0,1,0,0
+592226,39,D. Coote,2020-11-21T20:00:00+00:00,Old Trafford,Manchester United,33,West Brom,60,True,1,0,0,0,0
+592223,39,A. Madley,2020-11-22T12:00:00+00:00,Craven Cottage,Fulham,36,Everton,45,False,2,3,1,3,0
+592228,39,M. Atkinson,2020-11-22T14:00:00+00:00,Bramall Lane,Sheffield Utd,62,West Ham,48,False,0,1,0,0,0
+592224,39,A. Taylor,2020-11-22T16:30:00+00:00,Elland Road,Leeds,63,Arsenal,42,False,0,0,0,0,1
+592225,39,C. Kavanagh,2020-11-22T19:15:00+00:00,Anfield,Liverpool,40,Leicester,46,True,3,0,2,0,0
+592222,39,K. Friend,2020-11-23T17:30:00+00:00,Turf Moor,Burnley,44,Crystal Palace,52,True,1,0,1,0,0
+592230,39,A. Marriner,2020-11-23T20:00:00+00:00,Molineux Stadium,Wolves,39,Southampton,41,False,1,1,0,0,1
+592234,39,G. Scott,2020-11-27T20:00:00+00:00,Selhurst Park,Crystal Palace,52,Newcastle,34,False,0,2,0,0,0
+592232,39,S. Attwell,2020-11-28T12:30:00+00:00,The American Express Community Stadium,Brighton,51,Liverpool,40,False,1,1,0,0,1
+592237,39,L. Mason,2020-11-28T15:00:00+00:00,Etihad Stadium,Manchester City,50,Burnley,44,True,5,0,3,0,0
+592235,39,C. Kavanagh,2020-11-28T17:30:00+00:00,Goodison Park,Everton,45,Leeds,63,False,0,1,0,0,0
+592239,39,M. Dean,2020-11-28T20:00:00+00:00,The Hawthorns,West Brom,60,Sheffield Utd,62,True,1,0,1,0,0
+592238,39,J. Moss,2020-11-29T14:00:00+00:00,St. Mary's Stadium,Southampton,41,Manchester United,33,False,2,3,2,0,0
+592233,39,P. Tierney,2020-11-29T16:30:00+00:00,Stamford Bridge,Chelsea,49,Tottenham,47,False,0,0,0,0,1
+592231,39,M. Oliver,2020-11-29T19:15:00+00:00,Emirates Stadium,Arsenal,42,Wolves,39,False,1,2,1,2,0
+592236,39,S. Hooper,2020-11-30T17:30:00+00:00,King Power Stadium,Leicester,46,Fulham,36,False,1,2,0,2,0
+592240,39,P. Bankes,2020-11-30T20:00:00+00:00,London Stadium,West Ham,48,Aston Villa,66,True,2,1,1,1,0
+592243,39,A. Taylor,2020-12-05T12:30:00+00:00,Turf Moor,Burnley,44,Everton,45,False,1,1,1,1,1
+592246,39,J. Moss,2020-12-05T15:00:00+00:00,Etihad Stadium,Manchester City,50,Fulham,36,True,2,0,2,0,0
+592250,39,A. Marriner,2020-12-05T17:30:00+00:00,London Stadium,West Ham,48,Manchester United,33,False,1,3,1,0,0
+592244,39,K. Friend,2020-12-05T20:00:00+00:00,Stamford Bridge,Chelsea,49,Leeds,63,True,3,1,1,1,0
+592249,39,P. Tierney,2020-12-06T12:00:00+00:00,The Hawthorns,West Brom,60,Crystal Palace,52,False,1,5,1,1,0
+592247,39,S. Attwell,2020-12-06T14:15:00+00:00,Bramall Lane,Sheffield Utd,62,Leicester,46,False,1,2,1,1,0
+592248,39,M. Atkinson,2020-12-06T16:30:00+00:00,Tottenham Hotspur Stadium,Tottenham,47,Arsenal,42,True,2,0,2,0,0
+592245,39,C. Pawson,2020-12-06T19:15:00+00:00,Anfield,Liverpool,40,Wolves,39,True,4,0,1,0,0
+592242,39,D. Coote,2020-12-07T20:00:00+00:00,The American Express Community Stadium,Brighton,51,Southampton,41,False,1,2,1,1,0
+592255,39,M. Oliver,2020-12-11T20:00:00+00:00,Elland Road,Leeds,63,West Ham,48,False,1,2,1,1,0
+592260,39,M. Dean,2020-12-12T12:30:00+00:00,Molineux Stadium,Wolves,39,Aston Villa,66,False,0,1,0,0,0
+592258,39,D. England,2020-12-12T15:00:00+00:00,St. James' Park,Newcastle,34,West Brom,60,True,2,1,1,0,0
+592257,39,C. Kavanagh,2020-12-12T17:30:00+00:00,Old Trafford,Manchester United,33,Manchester City,50,False,0,0,0,0,1
+592253,39,J. Moss,2020-12-12T20:00:00+00:00,Goodison Park,Everton,45,Chelsea,49,True,1,0,1,0,0
+592259,39,A. Madley,2020-12-13T12:00:00+00:00,St. Mary's Stadium,Southampton,41,Sheffield Utd,62,True,3,0,1,0,0
+592252,39,K. Friend,2020-12-13T14:15:00+00:00,Selhurst Park,Crystal Palace,52,Tottenham,47,False,1,1,0,1,1
+592254,39,A. Marriner,2020-12-13T16:30:00+00:00,Craven Cottage,Fulham,36,Liverpool,40,False,1,1,1,0,1
+592251,39,G. Scott,2020-12-13T19:15:00+00:00,Emirates Stadium,Arsenal,42,Burnley,44,False,0,1,0,0,0
+592256,39,M. Atkinson,2020-12-13T19:15:00+00:00,King Power Stadium,Leicester,46,Brighton,51,True,3,0,3,0,0
+592268,39,S. Attwell,2020-12-15T18:00:00+00:00,Molineux Stadium,Wolves,39,Chelsea,49,True,2,1,0,0,0
+592270,39,P. Bankes,2020-12-15T20:00:00+00:00,Etihad Stadium,Manchester City,50,West Brom,60,False,1,1,1,1,1
+592261,39,P. Tierney,2020-12-16T18:00:00+00:00,Emirates Stadium,Arsenal,42,Southampton,41,False,1,1,0,1,1
+592265,39,L. Mason,2020-12-16T18:00:00+00:00,King Power Stadium,Leicester,46,Everton,45,False,0,2,0,1,0
+592264,39,S. Hooper,2020-12-16T18:00:00+00:00,Elland Road,Leeds,63,Newcastle,34,True,5,2,1,1,0
+592263,39,R. Jones,2020-12-16T20:00:00+00:00,Craven Cottage,Fulham,36,Brighton,51,False,0,0,0,0,1
+592269,39,A. Taylor,2020-12-16T20:00:00+00:00,Anfield,Liverpool,40,Tottenham,47,True,2,1,1,1,0
+592267,39,D. Coote,2020-12-16T20:00:00+00:00,London Stadium,West Ham,48,Crystal Palace,52,False,1,1,0,1,1
+592262,39,C. Pawson,2020-12-17T18:00:00+00:00,Villa Park,Aston Villa,66,Burnley,44,False,0,0,0,0,1
+592266,39,M. Oliver,2020-12-17T20:00:00+00:00,Bramall Lane,Sheffield Utd,62,Manchester United,33,False,2,3,1,2,0
+592274,39,J. Moss,2020-12-19T12:30:00+00:00,Selhurst Park,Crystal Palace,52,Liverpool,40,False,0,7,0,3,0
+592278,39,M. Dean,2020-12-19T15:00:00+00:00,St. Mary's Stadium,Southampton,41,Manchester City,50,False,0,1,0,1,0
+592275,39,A. Marriner,2020-12-19T17:30:00+00:00,Goodison Park,Everton,45,Arsenal,42,True,2,1,2,1,0
+592277,39,G. Scott,2020-12-19T20:00:00+00:00,St. James' Park,Newcastle,34,Fulham,36,False,1,1,0,1,1
+592271,39,P. Bankes,2020-12-20T12:00:00+00:00,The American Express Community Stadium,Brighton,51,Sheffield Utd,62,False,1,1,0,0,1
+592279,39,C. Pawson,2020-12-20T14:15:00+00:00,Tottenham Hotspur Stadium,Tottenham,47,Leicester,46,False,0,2,0,1,0
+592276,39,A. Taylor,2020-12-20T16:30:00+00:00,Old Trafford,Manchester United,33,Leeds,63,True,6,2,4,1,0
+592280,39,M. Atkinson,2020-12-20T19:15:00+00:00,The Hawthorns,West Brom,60,Aston Villa,66,False,0,3,0,1,0
+592272,39,L. Mason,2020-12-21T17:30:00+00:00,Turf Moor,Burnley,44,Wolves,39,True,2,1,1,0,0
+592273,39,C. Kavanagh,2020-12-21T20:00:00+00:00,Stamford Bridge,Chelsea,49,West Ham,48,True,3,0,1,0,0
+592285,39,M. Dean,2020-12-26T12:30:00+00:00,King Power Stadium,Leicester,46,Manchester United,33,False,2,2,1,1,1
+592283,39,D. England,2020-12-26T15:00:00+00:00,Craven Cottage,Fulham,36,Southampton,41,False,0,0,0,0,1
+592282,39,A. Taylor,2020-12-26T15:00:00+00:00,Villa Park,Aston Villa,66,Crystal Palace,52,True,3,0,1,0,0
+592281,39,M. Oliver,2020-12-26T17:30:00+00:00,Emirates Stadium,Arsenal,42,Chelsea,49,True,3,1,2,0,0
+592287,39,A. Marriner,2020-12-26T20:00:00+00:00,Etihad Stadium,Manchester City,50,Newcastle,34,True,2,0,1,0,0
+592288,39,D. Coote,2020-12-26T20:00:00+00:00,Bramall Lane,Sheffield Utd,62,Everton,45,False,0,1,0,0,0
+592284,39,R. Jones,2020-12-27T12:00:00+00:00,Elland Road,Leeds,63,Burnley,44,True,1,0,1,0,0
+592289,39,S. Hooper,2020-12-27T14:15:00+00:00,London Stadium,West Ham,48,Brighton,51,False,2,2,0,1,1
+592286,39,K. Friend,2020-12-27T16:30:00+00:00,Anfield,Liverpool,40,West Brom,60,False,1,1,1,0,1
+592290,39,P. Tierney,2020-12-27T19:15:00+00:00,Molineux Stadium,Wolves,39,Tottenham,47,False,1,1,0,1,1
+592294,39,G. Scott,2020-12-28T15:00:00+00:00,Selhurst Park,Crystal Palace,52,Leicester,46,False,1,1,0,0,1
+592293,39,S. Attwell,2020-12-28T17:30:00+00:00,Stamford Bridge,Chelsea,49,Aston Villa,66,False,1,1,1,0,1
+592298,39,A. Madley,2020-12-29T18:00:00+00:00,St. Mary's Stadium,Southampton,41,West Ham,48,False,0,0,0,0,1
+592292,39,C. Kavanagh,2020-12-29T18:00:00+00:00,Turf Moor,Burnley,44,Sheffield Utd,62,True,1,0,1,0,0
+592291,39,M. Atkinson,2020-12-29T18:00:00+00:00,The American Express Community Stadium,Brighton,51,Arsenal,42,False,0,1,0,0,0
+592300,39,L. Mason,2020-12-29T18:00:00+00:00,The Hawthorns,West Brom,60,Leeds,63,False,0,5,0,4,0
+592296,39,J. Moss,2020-12-29T20:00:00+00:00,Old Trafford,Manchester United,33,Wolves,39,True,1,0,0,0,0
+592297,39,P. Tierney,2020-12-30T20:00:00+00:00,St. James' Park,Newcastle,34,Liverpool,40,False,0,0,0,0,1
+592305,39,K. Friend,2021-01-01T17:30:00+00:00,Goodison Park,Everton,45,West Ham,48,False,0,1,0,0,0
+592306,39,M. Oliver,2021-01-01T20:00:00+00:00,Old Trafford,Manchester United,33,Aston Villa,66,True,2,1,1,0,0
+592309,39,D. Coote,2021-01-02T12:30:00+00:00,Tottenham Hotspur Stadium,Tottenham,47,Leeds,63,True,3,0,2,0,0
+592304,39,S. Attwell,2021-01-02T15:00:00+00:00,Selhurst Park,Crystal Palace,52,Sheffield Utd,62,True,2,0,2,0,0
+592301,39,A. Madley,2021-01-02T17:30:00+00:00,The American Express Community Stadium,Brighton,51,Wolves,39,False,3,3,1,3,1
+592310,39,M. Atkinson,2021-01-02T20:00:00+00:00,The Hawthorns,West Brom,60,Arsenal,42,False,0,4,0,2,0
+592307,39,R. Jones,2021-01-03T14:15:00+00:00,St. James' Park,Newcastle,34,Leicester,46,False,1,2,0,0,0
+592303,39,A. Taylor,2021-01-03T16:30:00+00:00,Stamford Bridge,Chelsea,49,Manchester City,50,False,1,3,0,3,0
+592308,39,A. Marriner,2021-01-04T20:00:00+00:00,St. Mary's Stadium,Southampton,41,Liverpool,40,True,1,0,1,0,0
+592316,39,A. Madley,2021-01-12T18:00:00+00:00,Bramall Lane,Sheffield Utd,62,Newcastle,34,True,1,0,0,0,0
+592318,39,M. Atkinson,2021-01-12T20:15:00+00:00,Molineux Stadium,Wolves,39,Everton,45,False,1,2,1,1,0
+592141,39,K. Friend,2021-01-12T20:15:00+00:00,Turf Moor,Burnley,44,Manchester United,33,False,0,1,0,0,0
+592320,39,D. England,2021-01-13T18:00:00+00:00,Etihad Stadium,Manchester City,50,Brighton,51,True,1,0,1,0,0
+592299,39,P. Tierney,2021-01-13T20:15:00+00:00,Tottenham Hotspur Stadium,Tottenham,47,Fulham,36,False,1,1,1,0,1
+592311,39,A. Marriner,2021-01-14T20:00:00+00:00,Emirates Stadium,Arsenal,42,Crystal Palace,52,False,0,0,0,0,1
+592330,39,M. Oliver,2021-01-16T12:30:00+00:00,Molineux Stadium,Wolves,39,West Brom,60,False,2,3,2,1,0
+592329,39,C. Kavanagh,2021-01-16T15:00:00+00:00,London Stadium,West Ham,48,Burnley,44,True,1,0,1,0,0
+592324,39,K. Friend,2021-01-16T15:00:00+00:00,Elland Road,Leeds,63,Brighton,51,False,0,1,0,1,0
+592323,39,P. Bankes,2021-01-16T17:30:00+00:00,Craven Cottage,Fulham,36,Chelsea,49,False,0,1,0,0,0
+592325,39,S. Attwell,2021-01-16T20:00:00+00:00,King Power Stadium,Leicester,46,Southampton,41,True,2,0,1,0,0
+592328,39,A. Marriner,2021-01-17T14:00:00+00:00,Bramall Lane,Sheffield Utd,62,Tottenham,47,False,1,3,0,2,0
+592326,39,P. Tierney,2021-01-17T16:30:00+00:00,Anfield,Liverpool,40,Manchester United,33,False,0,0,0,0,1
+592327,39,L. Mason,2021-01-17T19:15:00+00:00,Etihad Stadium,Manchester City,50,Crystal Palace,52,True,4,0,1,0,0
+592321,39,D. Coote,2021-01-18T20:00:00+00:00,Emirates Stadium,Arsenal,42,Newcastle,34,True,3,0,0,0,0
+592317,39,G. Scott,2021-01-19T18:00:00+00:00,London Stadium,West Ham,48,West Brom,60,True,2,1,1,0,0
+592315,39,C. Pawson,2021-01-19T20:15:00+00:00,King Power Stadium,Leicester,46,Chelsea,49,True,2,0,2,0,0
+592145,39,J. Moss,2021-01-20T18:00:00+00:00,Etihad Stadium,Manchester City,50,Aston Villa,66,True,2,0,0,0,0
+592313,39,M. Atkinson,2021-01-20T20:15:00+00:00,Craven Cottage,Fulham,36,Manchester United,33,False,1,2,1,1,0
+592319,39,M. Dean,2021-01-21T20:00:00+00:00,Anfield,Liverpool,40,Burnley,44,False,0,1,0,0,0
+592241,39,S. Hooper,2021-01-23T20:00:00+00:00,Villa Park,Aston Villa,66,Newcastle,34,True,2,0,2,0,0
+592337,39,A. Taylor,2021-01-26T18:00:00+00:00,St. James' Park,Newcastle,34,Leeds,63,False,1,2,0,1,0
+592340,39,S. Attwell,2021-01-26T18:00:00+00:00,Selhurst Park,Crystal Palace,52,West Ham,48,False,2,3,1,2,0
+592338,39,K. Friend,2021-01-26T20:15:00+00:00,St. Mary's Stadium,Southampton,41,Arsenal,42,False,1,3,1,2,0
+592335,39,C. Kavanagh,2021-01-26T20:15:00+00:00,The Hawthorns,West Brom,60,Manchester City,50,False,0,5,0,4,0
+592332,39,P. Tierney,2021-01-27T18:00:00+00:00,Turf Moor,Burnley,44,Aston Villa,66,True,3,2,0,1,0
+592336,39,A. Madley,2021-01-27T18:00:00+00:00,Stamford Bridge,Chelsea,49,Wolves,39,False,0,0,0,0,1
+592331,39,C. Pawson,2021-01-27T19:30:00+00:00,The American Express Community Stadium,Brighton,51,Fulham,36,False,0,0,0,0,1
+592334,39,P. Bankes,2021-01-27T20:15:00+00:00,Old Trafford,Manchester United,33,Sheffield Utd,62,False,1,2,0,1,0
+592333,39,M. Dean,2021-01-27T20:15:00+00:00,Goodison Park,Everton,45,Leicester,46,False,1,1,1,0,1
+592339,39,M. Atkinson,2021-01-28T20:00:00+00:00,Tottenham Hotspur Stadium,Tottenham,47,Liverpool,40,False,1,3,0,1,0
+592345,39,S. Attwell,2021-01-30T12:30:00+00:00,Goodison Park,Everton,45,Newcastle,34,False,0,2,0,0,0
+592347,39,D. Coote,2021-01-30T15:00:00+00:00,Etihad Stadium,Manchester City,50,Sheffield Utd,62,True,1,0,1,0,0
+592344,39,S. Hooper,2021-01-30T15:00:00+00:00,Selhurst Park,Crystal Palace,52,Wolves,39,True,1,0,0,0,0
+592349,39,A. Taylor,2021-01-30T15:00:00+00:00,The Hawthorns,West Brom,60,Fulham,36,False,2,2,0,1,1
+592341,39,M. Oliver,2021-01-30T17:30:00+00:00,Emirates Stadium,Arsenal,42,Manchester United,33,False,0,0,0,0,1
+592348,39,L. Mason,2021-01-30T20:00:00+00:00,St. Mary's Stadium,Southampton,41,Aston Villa,66,False,0,1,0,1,0
+592343,39,G. Scott,2021-01-31T12:00:00+00:00,Stamford Bridge,Chelsea,49,Burnley,44,True,2,0,1,0,0
+592346,39,C. Kavanagh,2021-01-31T14:00:00+00:00,King Power Stadium,Leicester,46,Leeds,63,False,1,3,1,1,0
+592350,39,J. Moss,2021-01-31T16:30:00+00:00,London Stadium,West Ham,48,Liverpool,40,False,1,3,0,0,0
+592342,39,P. Bankes,2021-01-31T19:15:00+00:00,The American Express Community Stadium,Brighton,51,Tottenham,47,True,1,0,1,0,0
+592356,39,C. Pawson,2021-02-02T18:00:00+00:00,Molineux Stadium,Wolves,39,Arsenal,42,True,2,1,1,1,0
+592355,39,P. Tierney,2021-02-02T18:00:00+00:00,Bramall Lane,Sheffield Utd,62,West Brom,60,True,2,1,0,1,0
+592357,39,M. Dean,2021-02-02T20:15:00+00:00,Old Trafford,Manchester United,33,Southampton,41,True,9,0,4,0,0
+592358,39,D. England,2021-02-02T20:15:00+00:00,St. James' Park,Newcastle,34,Crystal Palace,52,False,1,2,1,2,0
+592353,39,R. Jones,2021-02-03T18:00:00+00:00,Craven Cottage,Fulham,36,Leicester,46,False,0,2,0,2,0
+592352,39,M. Atkinson,2021-02-03T18:00:00+00:00,Turf Moor,Burnley,44,Manchester City,50,False,0,2,0,2,0
+592354,39,M. Oliver,2021-02-03T19:30:00+00:00,Elland Road,Leeds,63,Everton,45,False,1,2,0,2,0
+592360,39,K. Friend,2021-02-03T20:15:00+00:00,Anfield,Liverpool,40,Brighton,51,False,0,1,0,0,0
+592351,39,A. Madley,2021-02-03T20:15:00+00:00,Villa Park,Aston Villa,66,West Ham,48,False,1,3,0,0,0
+592359,39,A. Marriner,2021-02-04T20:00:00+00:00,Tottenham Hotspur Stadium,Tottenham,47,Chelsea,49,False,0,1,0,1,0
+592361,39,C. Kavanagh,2021-02-06T12:30:00+00:00,Villa Park,Aston Villa,66,Arsenal,42,True,1,0,1,0,0
+592367,39,C. Pawson,2021-02-06T15:00:00+00:00,St. James' Park,Newcastle,34,Southampton,41,True,3,2,3,1,0
+592362,39,A. Taylor,2021-02-06T15:00:00+00:00,Turf Moor,Burnley,44,Brighton,51,False,1,1,0,1,1
+592363,39,M. Dean,2021-02-06T17:30:00+00:00,Craven Cottage,Fulham,36,West Ham,48,False,0,0,0,0,1
+592366,39,J. Moss,2021-02-06T20:00:00+00:00,Old Trafford,Manchester United,33,Everton,45,False,3,3,2,0,1
+592369,39,S. Attwell,2021-02-07T12:00:00+00:00,Tottenham Hotspur Stadium,Tottenham,47,West Brom,60,True,2,0,0,0,0
+592370,39,M. Atkinson,2021-02-07T14:00:00+00:00,Molineux Stadium,Wolves,39,Leicester,46,False,0,0,0,0,1
+592365,39,M. Oliver,2021-02-07T16:30:00+00:00,Anfield,Liverpool,40,Manchester City,50,False,1,4,0,0,0
+592368,39,K. Friend,2021-02-07T19:15:00+00:00,Bramall Lane,Sheffield Utd,62,Chelsea,49,False,1,2,0,1,0
+592364,39,A. Marriner,2021-02-08T20:00:00+00:00,Elland Road,Leeds,63,Crystal Palace,52,True,2,0,1,0,0
+592731,39,A. Taylor,2021-02-13T12:30:00+00:00,King Power Stadium,Leicester,46,Liverpool,40,True,3,1,0,0,0
+592729,39,M. Oliver,2021-02-13T15:00:00+00:00,Selhurst Park,Crystal Palace,52,Burnley,44,False,0,3,0,2,0
+592732,39,P. Tierney,2021-02-13T17:30:00+00:00,Etihad Stadium,Manchester City,50,Tottenham,47,True,3,0,1,0,0
+592727,39,D. England,2021-02-13T20:00:00+00:00,The American Express Community Stadium,Brighton,51,Aston Villa,66,False,0,0,0,0,1
+592733,39,G. Scott,2021-02-14T12:00:00+00:00,St. Mary's Stadium,Southampton,41,Wolves,39,False,1,2,1,0,0
+592734,39,C. Pawson,2021-02-14T14:00:00+00:00,The Hawthorns,West Brom,60,Manchester United,33,False,1,1,1,1,1
+592726,39,S. Attwell,2021-02-14T16:30:00+00:00,Emirates Stadium,Arsenal,42,Leeds,63,True,4,2,3,0,0
+592730,39,A. Madley,2021-02-14T19:00:00+00:00,Goodison Park,Everton,45,Fulham,36,False,0,2,0,0,0
+592735,39,S. Hooper,2021-02-15T18:00:00+00:00,London Stadium,West Ham,48,Sheffield Utd,62,True,3,0,1,0,0
+592728,39,P. Bankes,2021-02-15T20:00:00+00:00,Stamford Bridge,Chelsea,49,Newcastle,34,True,2,0,2,0,0
+592302,39,J. Moss,2021-02-17T18:00:00+00:00,Turf Moor,Burnley,44,Fulham,36,False,1,1,0,0,1
+592295,39,A. Marriner,2021-02-17T20:15:00+00:00,Goodison Park,Everton,45,Manchester City,50,False,1,3,1,1,0
+592745,39,D. Coote,2021-02-19T20:00:00+00:00,Molineux Stadium,Wolves,39,Leeds,63,True,1,0,0,0,0
+592743,39,A. Taylor,2021-02-20T12:30:00+00:00,St. Mary's Stadium,Southampton,41,Chelsea,49,False,1,1,1,0,1
+592739,39,M. Dean,2021-02-20T15:00:00+00:00,Turf Moor,Burnley,44,West Brom,60,False,0,0,0,0,1
+592741,39,C. Kavanagh,2021-02-20T17:30:00+00:00,Anfield,Liverpool,40,Everton,45,False,0,2,0,1,0
+592740,39,M. Atkinson,2021-02-20T20:00:00+00:00,Craven Cottage,Fulham,36,Sheffield Utd,62,True,1,0,0,0,0
+592744,39,C. Pawson,2021-02-21T12:00:00+00:00,London Stadium,West Ham,48,Tottenham,47,True,2,1,1,0,0
+592737,39,M. Oliver,2021-02-21T14:05:00+00:00,Villa Park,Aston Villa,66,Leicester,46,False,1,2,0,2,0
+592736,39,J. Moss,2021-02-21T16:30:00+00:00,Emirates Stadium,Arsenal,42,Manchester City,50,False,0,1,0,1,0
+592742,39,P. Tierney,2021-02-21T19:00:00+00:00,Old Trafford,Manchester United,33,Newcastle,34,True,3,1,1,1,0
+592738,39,K. Friend,2021-02-22T20:00:00+00:00,The American Express Community Stadium,Brighton,51,Crystal Palace,52,False,1,2,0,1,0
+592314,39,A. Marriner,2021-02-23T18:00:00+00:00,Elland Road,Leeds,63,Southampton,41,True,3,0,0,0,0
+592751,39,M. Oliver,2021-02-27T12:30:00+00:00,Etihad Stadium,Manchester City,50,West Ham,48,True,2,1,1,1,0
+592755,39,L. Mason,2021-02-27T15:00:00+00:00,The Hawthorns,West Brom,60,Brighton,51,True,1,0,1,0,0
+592749,39,P. Bankes,2021-02-27T17:30:00+00:00,Elland Road,Leeds,63,Aston Villa,66,False,0,1,0,1,0
+592752,39,M. Dean,2021-02-27T20:00:00+00:00,St. James' Park,Newcastle,34,Wolves,39,False,1,1,0,0,1
+592750,39,P. Tierney,2021-02-28T12:00:00+00:00,King Power Stadium,Leicester,46,Arsenal,42,False,1,3,1,2,0
+592747,39,A. Taylor,2021-02-28T12:00:00+00:00,Selhurst Park,Crystal Palace,52,Fulham,36,False,0,0,0,0,1
+592754,39,K. Friend,2021-02-28T14:00:00+00:00,Tottenham Hotspur Stadium,Tottenham,47,Burnley,44,True,4,0,3,0,0
+592746,39,S. Attwell,2021-02-28T16:30:00+00:00,Stamford Bridge,Chelsea,49,Manchester United,33,False,0,0,0,0,1
+592753,39,J. Moss,2021-02-28T19:15:00+00:00,Bramall Lane,Sheffield Utd,62,Liverpool,40,False,0,2,0,0,0
+592748,39,M. Atkinson,2021-03-01T20:00:00+00:00,Goodison Park,Everton,45,Southampton,41,True,1,0,1,0,0
+592781,39,C. Kavanagh,2021-03-02T20:00:00+00:00,Etihad Stadium,Manchester City,50,Wolves,39,True,4,1,1,0,0
+592777,39,A. Madley,2021-03-03T18:00:00+00:00,Turf Moor,Burnley,44,Leicester,46,False,1,1,1,1,1
+592782,39,R. Jones,2021-03-03T18:00:00+00:00,Bramall Lane,Sheffield Utd,62,Aston Villa,66,True,1,0,1,0,0
+592778,39,A. Marriner,2021-03-03T20:15:00+00:00,Selhurst Park,Crystal Palace,52,Manchester United,33,False,0,0,0,0,1
+592818,39,D. Coote,2021-03-04T18:00:00+00:00,Craven Cottage,Fulham,36,Tottenham,47,False,0,1,0,1,0
+592784,39,D. England,2021-03-04T18:00:00+00:00,The Hawthorns,West Brom,60,Everton,45,False,0,1,0,0,0
+592780,39,M. Atkinson,2021-03-04T20:15:00+00:00,Anfield,Liverpool,40,Chelsea,49,False,0,1,0,1,0
+592758,39,A. Marriner,2021-03-06T12:30:00+00:00,Turf Moor,Burnley,44,Arsenal,42,False,1,1,1,1,1
+592762,39,P. Tierney,2021-03-06T15:00:00+00:00,Bramall Lane,Sheffield Utd,62,Southampton,41,False,0,2,0,1,0
+592756,39,A. Madley,2021-03-06T17:30:00+00:00,Villa Park,Aston Villa,66,Wolves,39,False,0,0,0,0,1
+592757,39,M. Oliver,2021-03-06T20:00:00+00:00,The American Express Community Stadium,Brighton,51,Leicester,46,False,1,2,1,0,0
+592764,39,M. Atkinson,2021-03-07T12:00:00+00:00,The Hawthorns,West Brom,60,Newcastle,34,False,0,0,0,0,1
+592760,39,K. Friend,2021-03-07T14:00:00+00:00,Anfield,Liverpool,40,Fulham,36,False,0,1,0,1,0
+592761,39,A. Taylor,2021-03-07T16:30:00+00:00,Etihad Stadium,Manchester City,50,Manchester United,33,False,0,2,0,1,0
+592763,39,S. Attwell,2021-03-07T19:15:00+00:00,Tottenham Hotspur Stadium,Tottenham,47,Crystal Palace,52,True,4,1,1,1,0
+592759,39,D. Coote,2021-03-08T18:00:00+00:00,Stamford Bridge,Chelsea,49,Everton,45,True,2,0,1,0,0
+592765,39,M. Dean,2021-03-08T20:00:00+00:00,London Stadium,West Ham,48,Leeds,63,True,2,0,2,0,0
+592822,39,J. Moss,2021-03-10T18:00:00+00:00,Etihad Stadium,Manchester City,50,Southampton,41,True,5,2,3,1,0
+592773,39,P. Tierney,2021-03-12T20:00:00+00:00,St. James' Park,Newcastle,34,Aston Villa,66,False,1,1,0,0,1
+592770,39,K. Friend,2021-03-13T12:30:00+00:00,Elland Road,Leeds,63,Chelsea,49,False,0,0,0,0,1
+592767,39,S. Hooper,2021-03-13T15:00:00+00:00,Selhurst Park,Crystal Palace,52,West Brom,60,True,1,0,1,0,0
+592768,39,J. Moss,2021-03-13T17:30:00+00:00,Goodison Park,Everton,45,Burnley,44,False,1,2,1,2,0
+592769,39,A. Marriner,2021-03-13T20:00:00+00:00,Craven Cottage,Fulham,36,Manchester City,50,False,0,3,0,0,0
+592774,39,S. Attwell,2021-03-14T12:00:00+00:00,St. Mary's Stadium,Southampton,41,Brighton,51,False,1,2,1,1,0
+592771,39,P. Bankes,2021-03-14T14:00:00+00:00,King Power Stadium,Leicester,46,Sheffield Utd,62,True,5,0,1,0,0
+592766,39,M. Oliver,2021-03-14T16:30:00+00:00,Emirates Stadium,Arsenal,42,Tottenham,47,True,2,1,1,1,0
+592772,39,M. Atkinson,2021-03-14T19:15:00+00:00,Old Trafford,Manchester United,33,West Ham,48,True,1,0,0,0,0
+592775,39,C. Pawson,2021-03-15T20:00:00+00:00,Molineux Stadium,Wolves,39,Liverpool,40,False,0,1,0,1,0
+592779,39,D. Coote,2021-03-19T20:00:00+00:00,Craven Cottage,Fulham,36,Leeds,63,False,1,2,1,1,0
+592776,39,A. Taylor,2021-03-20T20:00:00+00:00,The American Express Community Stadium,Brighton,51,Newcastle,34,True,3,0,1,0,0
+592785,39,J. Moss,2021-03-21T15:00:00+00:00,London Stadium,West Ham,48,Arsenal,42,False,3,3,3,1,1
+592312,39,M. Dean,2021-03-21T19:30:00+00:00,Villa Park,Aston Villa,66,Tottenham,47,False,0,2,0,1,0
+592788,39,D. Coote,2021-04-03T11:30:00+00:00,Stamford Bridge,Chelsea,49,West Brom,60,False,2,5,1,2,0
+592790,39,G. Scott,2021-04-03T14:00:00+00:00,Elland Road,Leeds,63,Sheffield Utd,62,True,2,1,1,1,0
+592791,39,A. Taylor,2021-04-03T16:30:00+00:00,King Power Stadium,Leicester,46,Manchester City,50,False,0,2,0,0,0
+592786,39,S. Attwell,2021-04-03T19:00:00+00:00,Emirates Stadium,Arsenal,42,Liverpool,40,False,0,3,0,0,0
+592794,39,A. Marriner,2021-04-04T11:00:00+00:00,St. Mary's Stadium,Southampton,41,Burnley,44,True,3,2,2,2,0
+592793,39,C. Pawson,2021-04-04T13:05:00+00:00,St. James' Park,Newcastle,34,Tottenham,47,False,2,2,1,2,1
+592787,39,A. Madley,2021-04-04T15:30:00+00:00,Villa Park,Aston Villa,66,Fulham,36,True,3,1,0,0,0
+592792,39,M. Dean,2021-04-04T18:30:00+00:00,Old Trafford,Manchester United,33,Brighton,51,True,2,1,0,1,0
+592789,39,K. Friend,2021-04-05T17:00:00+00:00,Goodison Park,Everton,45,Crystal Palace,52,False,1,1,0,0,1
+592795,39,M. Oliver,2021-04-05T19:15:00+00:00,Molineux Stadium,Wolves,39,West Ham,48,False,2,3,1,3,0
+592799,39,J. Moss,2021-04-09T19:00:00+00:00,Craven Cottage,Fulham,36,Wolves,39,False,0,1,0,0,0
+592801,39,A. Marriner,2021-04-10T11:30:00+00:00,Etihad Stadium,Manchester City,50,Leeds,63,False,1,2,0,1,0
+592800,39,P. Tierney,2021-04-10T14:00:00+00:00,Anfield,Liverpool,40,Aston Villa,66,True,2,1,0,1,0
+592798,39,M. Oliver,2021-04-10T16:30:00+00:00,Selhurst Park,Crystal Palace,52,Chelsea,49,False,1,4,0,3,0
+592797,39,A. Taylor,2021-04-11T11:00:00+00:00,Turf Moor,Burnley,44,Newcastle,34,False,1,2,1,0,0
+592805,39,M. Dean,2021-04-11T13:05:00+00:00,London Stadium,West Ham,48,Leicester,46,True,3,2,2,0,0
+592803,39,C. Kavanagh,2021-04-11T15:30:00+00:00,Tottenham Hotspur Stadium,Tottenham,47,Manchester United,33,False,1,3,1,0,0
+592802,39,P. Bankes,2021-04-11T18:00:00+00:00,Bramall Lane,Sheffield Utd,62,Arsenal,42,False,0,3,0,1,0
+592804,39,S. Hooper,2021-04-12T17:00:00+00:00,The Hawthorns,West Brom,60,Southampton,41,True,3,0,2,0,0
+592796,39,D. England,2021-04-12T19:15:00+00:00,The American Express Community Stadium,Brighton,51,Everton,45,False,0,0,0,0,1
+592809,39,M. Oliver,2021-04-16T19:00:00+00:00,Goodison Park,Everton,45,Tottenham,47,False,2,2,1,1,1
+592813,39,K. Friend,2021-04-17T11:30:00+00:00,St. James' Park,Newcastle,34,West Ham,48,True,3,2,2,0,0
+592815,39,R. Jones,2021-04-17T19:15:00+00:00,Molineux Stadium,Wolves,39,Sheffield Utd,62,True,1,0,0,0,0
+592806,39,C. Pawson,2021-04-18T12:30:00+00:00,Emirates Stadium,Arsenal,42,Fulham,36,False,1,1,0,0,1
+592812,39,J. Moss,2021-04-18T15:00:00+00:00,Old Trafford,Manchester United,33,Burnley,44,True,3,1,0,0,0
+592810,39,A. Taylor,2021-04-19T19:00:00+00:00,Elland Road,Leeds,63,Liverpool,40,False,1,1,0,1,1
+592808,39,S. Attwell,2021-04-20T19:15:00+00:00,Stamford Bridge,Chelsea,49,Brighton,51,False,0,0,0,0,1
+592783,39,D. Coote,2021-04-21T17:00:00+00:00,Tottenham Hotspur Stadium,Tottenham,47,Southampton,41,True,2,1,0,1,0
+592807,39,P. Bankes,2021-04-21T19:15:00+00:00,Villa Park,Aston Villa,66,Manchester City,50,False,1,2,1,2,0
+592811,39,A. Madley,2021-04-22T19:00:00+00:00,King Power Stadium,Leicester,46,West Brom,60,True,3,0,3,0,0
+592816,39,J. Moss,2021-04-23T19:00:00+00:00,Emirates Stadium,Arsenal,42,Everton,45,False,0,1,0,0,0
+592821,39,A. Marriner,2021-04-24T11:30:00+00:00,Anfield,Liverpool,40,Newcastle,34,False,1,1,1,0,1
+592824,39,C. Kavanagh,2021-04-24T16:30:00+00:00,London Stadium,West Ham,48,Chelsea,49,False,0,1,0,1,0
+592823,39,K. Friend,2021-04-24T19:00:00+00:00,Bramall Lane,Sheffield Utd,62,Brighton,51,True,1,0,1,0,0
+592825,39,D. England,2021-04-25T11:00:00+00:00,Molineux Stadium,Wolves,39,Burnley,44,False,0,4,0,3,0
+592819,39,C. Pawson,2021-04-25T13:00:00+00:00,Elland Road,Leeds,63,Manchester United,33,False,0,0,0,0,1
+592817,39,S. Attwell,2021-04-25T18:00:00+00:00,Villa Park,Aston Villa,66,West Brom,60,False,2,2,1,1,1
+592820,39,G. Scott,2021-04-26T19:00:00+00:00,King Power Stadium,Leicester,46,Crystal Palace,52,True,2,1,0,1,0
+592833,39,R. Jones,2021-04-30T19:00:00+00:00,St. Mary's Stadium,Southampton,41,Leicester,46,False,1,1,0,0,1
+592829,39,D. Coote,2021-05-01T11:30:00+00:00,Selhurst Park,Crystal Palace,52,Manchester City,50,False,0,2,0,0,0
+592826,39,C. Kavanagh,2021-05-01T14:00:00+00:00,The American Express Community Stadium,Brighton,51,Leeds,63,True,2,0,1,0,0
+592828,39,K. Friend,2021-05-01T16:30:00+00:00,Stamford Bridge,Chelsea,49,Fulham,36,True,2,0,1,0,0
+592830,39,S. Hooper,2021-05-01T19:00:00+00:00,Goodison Park,Everton,45,Aston Villa,66,False,1,2,1,1,0
+592832,39,M. Dean,2021-05-02T13:00:00+00:00,St. James' Park,Newcastle,34,Arsenal,42,False,0,2,0,1,0
+592834,39,A. Marriner,2021-05-02T18:15:00+00:00,Tottenham Hotspur Stadium,Tottenham,47,Sheffield Utd,62,True,4,0,1,0,0
+592835,39,P. Tierney,2021-05-03T17:00:00+00:00,The Hawthorns,West Brom,60,Wolves,39,False,1,1,0,1,1
+592827,39,A. Taylor,2021-05-03T19:15:00+00:00,Turf Moor,Burnley,44,West Ham,48,False,1,2,1,2,0
+592840,39,D. England,2021-05-07T19:00:00+00:00,King Power Stadium,Leicester,46,Newcastle,34,False,2,4,0,2,0
+592839,39,M. Oliver,2021-05-08T11:30:00+00:00,Elland Road,Leeds,63,Tottenham,47,True,3,1,2,1,0
+592843,39,S. Hooper,2021-05-08T14:00:00+00:00,Bramall Lane,Sheffield Utd,62,Crystal Palace,52,False,0,2,0,1,0
+592842,39,A. Taylor,2021-05-08T16:30:00+00:00,Etihad Stadium,Manchester City,50,Chelsea,49,False,1,2,1,0,0
+592841,39,K. Friend,2021-05-08T19:15:00+00:00,Anfield,Liverpool,40,Southampton,41,True,2,0,1,0,0
+592845,39,J. Moss,2021-05-09T11:00:00+00:00,Molineux Stadium,Wolves,39,Brighton,51,True,2,1,0,1,0
+592837,39,C. Kavanagh,2021-05-09T13:05:00+00:00,Villa Park,Aston Villa,66,Manchester United,33,False,1,3,1,0,0
+592844,39,S. Attwell,2021-05-09T15:30:00+00:00,London Stadium,West Ham,48,Everton,45,False,0,1,0,1,0
+592836,39,P. Bankes,2021-05-09T18:00:00+00:00,Emirates Stadium,Arsenal,42,West Brom,60,True,3,1,2,0,0
+592838,39,D. Coote,2021-05-10T19:00:00+00:00,Craven Cottage,Fulham,36,Burnley,44,False,0,2,0,2,0
+592849,39,C. Pawson,2021-05-11T17:00:00+00:00,Old Trafford,Manchester United,33,Leicester,46,False,1,2,1,1,0
+592814,39,A. Madley,2021-05-11T19:15:00+00:00,St. Mary's Stadium,Southampton,41,Crystal Palace,52,True,3,1,1,1,0
+592851,39,A. Marriner,2021-05-12T19:15:00+00:00,Stamford Bridge,Chelsea,49,Arsenal,42,False,0,1,0,1,0
+592322,39,M. Atkinson,2021-05-13T17:00:00+00:00,Villa Park,Aston Villa,66,Everton,45,False,0,0,0,0,1
+592831,39,A. Taylor,2021-05-13T19:15:00+00:00,Old Trafford,Manchester United,33,Liverpool,40,False,2,4,1,2,0
+592852,39,K. Friend,2021-05-14T19:00:00+00:00,St. James' Park,Newcastle,34,Manchester City,50,False,3,4,2,2,0
+592847,39,G. Scott,2021-05-15T11:30:00+00:00,Turf Moor,Burnley,44,Leeds,63,False,0,4,0,1,0
+592853,39,C. Pawson,2021-05-15T14:00:00+00:00,St. Mary's Stadium,Southampton,41,Fulham,36,True,3,1,1,0,0
+592846,39,A. Marriner,2021-05-15T19:00:00+00:00,The American Express Community Stadium,Brighton,51,West Ham,48,False,1,1,0,0,1
+592855,39,D. Coote,2021-05-16T11:00:00+00:00,Selhurst Park,Crystal Palace,52,Aston Villa,66,True,3,2,1,2,0
+592854,39,M. Atkinson,2021-05-16T13:05:00+00:00,Tottenham Hotspur Stadium,Tottenham,47,Wolves,39,True,2,0,1,0,0
+592850,39,M. Dean,2021-05-16T15:30:00+00:00,The Hawthorns,West Brom,60,Liverpool,40,False,1,2,1,1,0
+592848,39,J. Moss,2021-05-16T18:00:00+00:00,Goodison Park,Everton,45,Sheffield Utd,62,False,0,1,0,1,0
+592861,39,L. Mason,2021-05-18T17:00:00+00:00,Old Trafford,Manchester United,33,Fulham,36,False,1,1,1,0,1
+592863,39,P. Bankes,2021-05-18T17:00:00+00:00,St. Mary's Stadium,Southampton,41,Leeds,63,False,0,2,0,0,0
+592856,39,S. Attwell,2021-05-18T18:00:00+00:00,The American Express Community Stadium,Brighton,51,Manchester City,50,True,3,2,0,1,0
+592858,39,M. Dean,2021-05-18T19:15:00+00:00,Stamford Bridge,Chelsea,49,Leicester,46,True,2,1,0,0,0
+592862,39,R. Jones,2021-05-19T17:00:00+00:00,St. James' Park,Newcastle,34,Sheffield Utd,62,True,1,0,1,0,0
+592860,39,A. Madley,2021-05-19T17:00:00+00:00,Goodison Park,Everton,45,Wolves,39,True,1,0,0,0,0
+592864,39,C. Pawson,2021-05-19T17:00:00+00:00,Tottenham Hotspur Stadium,Tottenham,47,Aston Villa,66,False,1,2,1,2,0
+592859,39,A. Taylor,2021-05-19T18:00:00+00:00,Selhurst Park,Crystal Palace,52,Arsenal,42,False,1,3,0,1,0
+592857,39,C. Kavanagh,2021-05-19T19:15:00+00:00,Turf Moor,Burnley,44,Liverpool,40,False,0,3,0,1,0
+592865,39,M. Oliver,2021-05-19T19:15:00+00:00,The Hawthorns,West Brom,60,West Ham,48,False,1,3,1,1,0
+592868,39,"Chris Kavanagh, England",2021-05-23T15:00:00+00:00,Craven Cottage,Fulham,36,Newcastle,34,False,0,2,0,1,0
+592875,39,"Mike Dean, England",2021-05-23T15:00:00+00:00,Molineux Stadium,Wolves,39,Manchester United,33,False,1,2,1,2,0
+592871,39,"Andre Marriner, England",2021-05-23T15:00:00+00:00,Anfield,Liverpool,40,Crystal Palace,52,True,2,0,1,0,0
+592866,39,"Jonathan Moss, England",2021-05-23T15:00:00+00:00,Emirates Stadium,Arsenal,42,Brighton,51,True,2,0,0,0,0
+592870,39,"Anthony Taylor, England",2021-05-23T15:00:00+00:00,King Power Stadium,Leicester,46,Tottenham,47,False,2,4,1,1,0
+592874,39,"Martin Atkinson, England",2021-05-23T15:00:00+00:00,London Stadium,West Ham,48,Southampton,41,True,3,0,2,0,0
+592872,39,"Michael Oliver, England",2021-05-23T15:00:00+00:00,Etihad Stadium,Manchester City,50,Everton,45,True,5,0,2,0,0
+592873,39,"Kevin Friend, England",2021-05-23T15:00:00+00:00,Bramall Lane,Sheffield Utd,62,Burnley,44,True,1,0,1,0,0
+592869,39,"David Coote, England",2021-05-23T15:00:00+00:00,Elland Road,Leeds,63,West Brom,60,True,3,1,2,0,0
+592867,39,"Stuart Attwell, England",2021-05-23T15:00:00+00:00,Villa Park,Aston Villa,66,Chelsea,49,True,2,1,1,0,0
