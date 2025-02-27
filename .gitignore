@@ -1,0 +1,3 @@
+.env
+Data/*.csv
+Data_Lake/**/*.csv
