@@ -1,3 +1,4 @@
 .env
 Data/*.csv
 Data_Lake/**/*.csv
+features/Football.db
