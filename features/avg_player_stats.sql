@@ -1,9 +1,12 @@
 -- Ver nome das tabelas: Automatizar com python para ter estatística para todos campeonatos
--- SELECT name FROM sqlite_schema 
--- WHERE type='table'
+SELECT name FROM sqlite_schema 
+WHERE type='table'
 
 
-CREATE TABLE player_last5_avg_stats_br_2024_45min as
+select *
+from player_last5_avg_stats_br_25min
+
+CREATE TABLE player_last5_avg_stats_br_25min as
 -- Tabela de Medias dos stats dos ultimos jogos
 WITH 
 -- Lista de todos os players para cada fixture_id
@@ -12,7 +15,7 @@ current_fixtures AS (
   FROM Camp_Brasileiro_players_2024
 ),
 
--- Jogos anteriores de cada jogador, com ranking para pegar os últimos 5
+-- Jogos anteriores de cada jogador, com ranking para pegar os últimos 3
 ranked_previous_games AS (
   SELECT 
     cf.fixture_id AS current_fixture,
@@ -28,7 +31,7 @@ ranked_previous_games AS (
     AND prev.fixture_id < cf.fixture_id
 ),
 
--- Cálculo das médias dos últimos 5 jogos por jogador e time
+-- Cálculo das médias dos últimos 3 jogos por jogador e time
 aggregated_stats AS (
   SELECT 
     current_fixture,
@@ -59,12 +62,9 @@ aggregated_stats AS (
     AVG(cards_yellow) AS avg_cards_yellow,
     AVG(cards_red) AS avg_cards_red,
     AVG(penalty_won) AS avg_penalty_won,
-    AVG(penalty_committed) AS avg_penalty_committed,
-    AVG(penalty_scored) AS avg_penalty_scored,
-    AVG(penalty_missed) AS avg_penalty_missed,
-    AVG(penalty_saved) AS avg_penalty_saved
+    AVG(penalty_committed) AS avg_penalty_committed
   FROM ranked_previous_games
-  WHERE rn <= 5  -- quantos jogos anteriores devem ser computados para fazer a media
+  WHERE rn <= 3  -- quantos jogos anteriores devem ser computados para fazer a media
   GROUP BY current_fixture, current_player_id, team_id
 )
 
@@ -98,12 +98,9 @@ SELECT
   a.avg_cards_yellow,
   a.avg_cards_red,
   a.avg_penalty_won,
-  a.avg_penalty_committed,
-  a.avg_penalty_scored,
-  a.avg_penalty_missed,
-  a.avg_penalty_saved
+  a.avg_penalty_committed
 FROM current_fixtures cf
 LEFT JOIN aggregated_stats a
   ON cf.fixture_id = a.current_fixture
   AND cf.player_id = a.current_player_id
-where a.avg_minutes >45;          -- Pegando jogadores que nos ultimos 5 jogos jogou na media mais de 45 minutos 
+where a.avg_minutes >25;          -- Pegando jogadores que nos ultimos 5 jogos jogou na media mais de 25 minutos 
