@@ -1,6 +1,3 @@
--- SELECT name FROM sqlite_schema 
--- WHERE type='table'
-
 -- Essa query identifica/realiza:
 -- qual o time com mando de campo, agrupa a media de estatisticas dos jogadores de cada time, cria uma única linha com estatítisca dos time mandante e do time visitante 
 -- Consulta com estatisticas corrigidas, mas não juntei as estatisticas de time mandante e visitante. 
@@ -14,8 +11,8 @@ select pl.fixture_id,
         when pl.team_name = gm.Home_Team then 1
         else 0
        end as if_home_team -- Nome da coluna que identifica se o time é mandante 
-from Camp_Brasileiro_players_2024 as pl
-inner join Camp_Brasileiro_games_2024 as gm
+from Camp_Brasileiro_players_2022 as pl
+inner join Camp_Brasileiro_games_2022 as gm
     on pl.fixture_id = gm.fixture_id
 ),
 
@@ -23,7 +20,7 @@ stats_players as (
 select ls.*,
        st.team_name,
        if_home_team
-from player_last5_avg_stats_br_2024_25min as ls
+from player_last5_avg_stats_br_25min as ls
     inner join situation_games as st
         on st.player_id = ls.player_id and st.fixture_id = ls.fixture_id
 )
@@ -31,6 +28,7 @@ from player_last5_avg_stats_br_2024_25min as ls
 select  team_name, 
         if_home_team,
         fixture_id,
+        year,
         AVG(avg_minutes) as avg_minutes_team,      -- Se criar novas features tenho que adicionar aqui 
         AVG(avg_rating) as avg_rating_team,
         SUM(avg_offsides) as avg_offsides_team,

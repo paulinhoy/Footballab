@@ -23,7 +23,7 @@ WITH ranked_games AS (
         ROW_NUMBER() OVER (PARTITION BY team_name ORDER BY fixture_id) AS row_num
     FROM Camp_Brasileiro_teams_2024 
 ),
-ranked_games_stats AS (
+ranked_games_stats AS (   
     SELECT 
         gm.fixture_id,
         gm.Home_Team,
@@ -87,4 +87,3 @@ SELECT
     avg_goals_prevented
 FROM previous_three_games
 ORDER BY fixture_id, team_name;
-

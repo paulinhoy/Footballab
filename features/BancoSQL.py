@@ -2,6 +2,8 @@ import os
 import pandas as pd
 import sqlite3
 
+#Criando banco de dados
+
 # Diretório base
 Data = '../Data_Lake/'
 

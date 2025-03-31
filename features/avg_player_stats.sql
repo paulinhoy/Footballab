@@ -1,10 +1,6 @@
 -- Ver nome das tabelas: Automatizar com python para ter estatística para todos campeonatos
-SELECT name FROM sqlite_schema 
-WHERE type='table'
-
-
-select *
-from player_last5_avg_stats_br_25min
+--SELECT name FROM sqlite_schema 
+--WHERE type='table'
 
 CREATE TABLE player_last5_avg_stats_br_25min as
 -- Tabela de Medias dos stats dos ultimos jogos
